@@ -1,0 +1,3001 @@
+Entry No;Booking date;Ledger account;Amount;Posted by;Narration
+a_143;02/01/2023;Cost of merchandise, 19% input tax;180.0;Bob;Garden Hose
+a_143;02/01/2023;Deductible input tax, 19%;34.2;Bob;Garden Hose
+a_143;02/01/2023;Trade payables;-214.2;Bob;Garden Hose
+a_327;02/01/2023;Cost of merchandise, 19% input tax;713.9;Bob;Leaf Blower
+a_327;02/01/2023;Deductible input tax, 19%;135.64;Bob;Leaf Blower
+a_327;02/01/2023;Trade payables;-849.54;Bob;Leaf Blower
+a_643;02/01/2023;Trade payables;214.2;Bob;Garden Hose
+a_643;02/01/2023;Bank (Postbank) — main account;-214.2;Bob;Garden Hose
+a_827;02/01/2023;Trade payables;849.54;Bob;Leaf Blower
+a_827;02/01/2023;Bank (Postbank) — main account;-849.54;Bob;Leaf Blower
+a_932;02/01/2023;Trade payables;1449.42;David;Hedge Trimmer
+a_932;02/01/2023;Bank (Postbank) — main account;-1449.42;David;Hedge Trimmer
+b_141;02/01/2023;Cost of merchandise, 19% input tax;1.24;David;Gardening Gloves
+b_141;02/01/2023;Deductible input tax, 19%;0.24;David;Gardening Gloves
+b_141;02/01/2023;Trade payables;-1.48;David;Gardening Gloves
+b_236;02/01/2023;Cost of merchandise, 19% input tax;20.0;Alice;Garden Hose
+b_236;02/01/2023;Deductible input tax, 19%;3.8;Alice;Garden Hose
+b_236;02/01/2023;Trade payables;-23.8;Alice;Garden Hose
+b_277;02/01/2023;Cost of merchandise, 19% input tax;186.8;Max;Lawn Mower
+b_277;02/01/2023;Deductible input tax, 19%;35.49;Max;Lawn Mower
+b_277;02/01/2023;Trade payables;-222.29;Max;Lawn Mower
+b_28;02/01/2023;Cost of merchandise, 19% input tax;64.9;Fred;Leaf Blower
+b_28;02/01/2023;Deductible input tax, 19%;12.33;Fred;Leaf Blower
+b_28;02/01/2023;Trade payables;-77.23;Fred;Leaf Blower
+b_636;02/01/2023;Trade payables;23.8;Alice;Garden Hose
+b_636;02/01/2023;Cash-in-hand;-23.8;Alice;Garden Hose
+c_132;02/01/2023;Trade receivables;157.66;David;Wheelbarrow
+c_132;02/01/2023;Revenue, 19% VAT;-132.49;David;Wheelbarrow
+c_132;02/01/2023;VAT payable, 19%;-25.17;David;Wheelbarrow
+c_196;02/01/2023;Trade receivables;19.64;Alice;Watering Can
+c_196;02/01/2023;Revenue, 19% VAT;-16.5;Alice;Watering Can
+c_196;02/01/2023;VAT payable, 19%;-3.14;Alice;Watering Can
+c_324;02/01/2023;Trade receivables;35.46;David;Garden Shears
+c_324;02/01/2023;Revenue, 19% VAT;-29.8;David;Garden Shears
+c_324;02/01/2023;VAT payable, 19%;-5.66;David;Garden Shears
+c_336;02/01/2023;Trade receivables;1467.13;David;Lawn Mower
+c_336;02/01/2023;Revenue, 19% VAT;-1232.88;David;Lawn Mower
+c_336;02/01/2023;VAT payable, 19%;-234.25;David;Lawn Mower
+c_534;02/01/2023;Bank (Postbank) — main account;119.57;David;Hedge Trimmer
+c_534;02/01/2023;Trade receivables;-119.57;David;Hedge Trimmer
+c_546;02/01/2023;Bank (Postbank) — main account;19.64;Alice;Watering Can
+c_546;02/01/2023;Trade receivables;-19.64;Alice;Watering Can
+c_686;02/01/2023;Bank (Postbank) — main account;1467.13;David;Lawn Mower
+c_686;02/01/2023;Trade receivables;-1467.13;David;Lawn Mower
+c_7;02/01/2023;Trade receivables;157.66;David;Wheelbarrow
+c_7;02/01/2023;Revenue, 19% VAT;-132.49;David;Wheelbarrow
+c_7;02/01/2023;VAT payable, 19%;-25.17;David;Wheelbarrow
+c_78;02/01/2023;Trade receivables;366.78;Alice;Lawn Mower
+c_78;02/01/2023;Revenue, 19% VAT;-308.22;Alice;Lawn Mower
+c_78;02/01/2023;VAT payable, 19%;-58.56;Alice;Lawn Mower
+f_111;02/01/2023;Cost of merchandise, 19% input tax;220.0;Fred;Garden Hose
+f_111;02/01/2023;Deductible input tax, 19%;41.8;Fred;Garden Hose
+f_111;02/01/2023;Trade payables;-261.8;Fred;Garden Hose
+f_162;02/01/2023;Cost of merchandise, 19% input tax;216.72;Charlie;Garden Shears
+f_162;02/01/2023;Deductible input tax, 19%;41.18;Charlie;Garden Shears
+f_162;02/01/2023;Trade payables;-257.9;Charlie;Garden Shears
+f_198;02/01/2023;Cost of merchandise, 19% input tax;320.0;Bob;Garden Hose
+f_198;02/01/2023;Deductible input tax, 19%;60.8;Bob;Garden Hose
+f_198;02/01/2023;Trade payables;-380.8;Bob;Garden Hose
+f_328;02/01/2023;Trade payables;429.83;Charlie;Garden Shears
+f_328;02/01/2023;Bank (Postbank) — main account;-429.83;Charlie;Garden Shears
+f_351;02/01/2023;Trade payables;38.22;Fred;Rake
+f_351;02/01/2023;Bank (Postbank) — main account;-38.22;Fred;Rake
+f_394;02/01/2023;Trade payables;181.0;Fred;Shovel
+f_394;02/01/2023;Bank (Postbank) — main account;-181.0;Fred;Shovel
+g_115;02/01/2023;Cost of merchandise, 19% input tax;1168.2;Charlie;Leaf Blower
+g_115;02/01/2023;Deductible input tax, 19%;221.96;Charlie;Leaf Blower
+g_115;02/01/2023;Trade payables;-1390.16;Charlie;Leaf Blower
+g_28;02/01/2023;Cost of merchandise, 19% input tax;389.4;Bob;Leaf Blower
+g_28;02/01/2023;Deductible input tax, 19%;73.99;Bob;Leaf Blower
+g_28;02/01/2023;Trade payables;-463.39;Bob;Leaf Blower
+g_41;02/01/2023;Cost of merchandise, 19% input tax;361.2;David;Garden Shears
+g_41;02/01/2023;Deductible input tax, 19%;68.63;David;Garden Shears
+g_41;02/01/2023;Trade payables;-429.83;David;Garden Shears
+x_1;02/01/2023;Salaries;2051.42;Alice;Salary Max January
+x_1;02/01/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Max January
+x_10;02/01/2023;Salaries;1880.65;Alice;Salary Charlie January
+x_10;02/01/2023;Bank (Postbank) — main account;-1880.65;Alice;Salary Charlie January
+x_13;02/01/2023;Salaries;1880.65;Alice;Salary David January
+x_13;02/01/2023;Bank (Postbank) — main account;-1880.65;Alice;Salary David January
+x_4;02/01/2023;Salaries;2051.42;Alice;Salary Alice January
+x_4;02/01/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Alice January
+x_7;02/01/2023;Salaries;2051.42;Alice;Salary Bob January
+x_7;02/01/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Bob January
+a_381;03/01/2023;Cost of merchandise, 19% input tax;110.0;Max;Watering Can
+a_381;03/01/2023;Deductible input tax, 19%;20.9;Max;Watering Can
+a_381;03/01/2023;Trade payables;-130.9;Max;Watering Can
+a_432;03/01/2023;Cost of merchandise, 19% input tax;1218.0;David;Hedge Trimmer
+a_432;03/01/2023;Deductible input tax, 19%;231.42;David;Hedge Trimmer
+a_432;03/01/2023;Trade payables;-1449.42;David;Hedge Trimmer
+a_443;03/01/2023;Cost of merchandise, 19% input tax;778.8;Max;Leaf Blower
+a_443;03/01/2023;Deductible input tax, 19%;147.97;Max;Leaf Blower
+a_443;03/01/2023;Cash-in-hand;-926.77;Max;Leaf Blower
+b_147;03/01/2023;Cost of merchandise, 19% input tax;16.9;Max;Shovel
+b_147;03/01/2023;Deductible input tax, 19%;3.21;Max;Shovel
+b_147;03/01/2023;Trade payables;-20.11;Max;Shovel
+b_182;03/01/2023;Cost of merchandise, 19% input tax;64.9;Max;Leaf Blower
+b_182;03/01/2023;Deductible input tax, 19%;12.33;Max;Leaf Blower
+b_182;03/01/2023;Trade payables;-77.23;Max;Leaf Blower
+b_261;03/01/2023;Cost of merchandise, 19% input tax;16.06;Alice;Rake
+b_261;03/01/2023;Deductible input tax, 19%;3.05;Alice;Rake
+b_261;03/01/2023;Trade payables;-19.11;Alice;Rake
+b_476;03/01/2023;Trade payables;20.11;Alice;Shovel
+b_476;03/01/2023;Cash-in-hand;-20.11;Alice;Shovel
+c_104;03/01/2023;Trade receivables;2.44;Alice;Gardening Gloves
+c_104;03/01/2023;Revenue, 19% VAT;-2.05;Alice;Gardening Gloves
+c_104;03/01/2023;VAT payable, 19%;-0.39;Alice;Gardening Gloves
+c_252;03/01/2023;Trade receivables;366.78;Max;Lawn Mower
+c_252;03/01/2023;Revenue, 19% VAT;-308.22;Max;Lawn Mower
+c_252;03/01/2023;VAT payable, 19%;-58.56;Max;Lawn Mower
+c_588;03/01/2023;Bank (Postbank) — main account;1467.13;Bob;Lawn Mower
+c_588;03/01/2023;Trade receivables;-1467.13;Bob;Lawn Mower
+i_10;03/01/2023;Trade receivables;119.57;Bob;Hedge Trimmer
+i_10;03/01/2023;Revenue, 19% VAT;-100.48;Bob;Hedge Trimmer
+i_10;03/01/2023;VAT payable, 19%;-19.09;Bob;Hedge Trimmer
+x_16;03/01/2023;Rent — immovable property;22500.0;Alice;Rent January
+x_16;03/01/2023;Bank (Postbank) — main account;-22500.0;Alice;Rent January
+a_200;04/01/2023;Cost of merchandise, 19% input tax;730.8;Max;Hedge Trimmer
+a_200;04/01/2023;Deductible input tax, 19%;138.85;Max;Hedge Trimmer
+a_200;04/01/2023;Trade payables;-869.65;Max;Hedge Trimmer
+a_249;04/01/2023;Cost of merchandise, 19% input tax;33.8;David;Shovel
+a_249;04/01/2023;Deductible input tax, 19%;6.42;David;Shovel
+a_249;04/01/2023;Trade payables;-40.22;David;Shovel
+a_255;04/01/2023;Cost of merchandise, 19% input tax;338.0;Alice;Shovel
+a_255;04/01/2023;Deductible input tax, 19%;64.22;Alice;Shovel
+a_255;04/01/2023;Trade payables;-402.22;Alice;Shovel
+a_313;04/01/2023;Cost of merchandise, 19% input tax;101.4;Alice;Shovel
+a_313;04/01/2023;Deductible input tax, 19%;19.27;Alice;Shovel
+a_313;04/01/2023;Trade payables;-120.67;Alice;Shovel
+a_414;04/01/2023;Cost of merchandise, 19% input tax;21.08;Bob;Gardening Gloves
+a_414;04/01/2023;Deductible input tax, 19%;4.01;Bob;Gardening Gloves
+a_414;04/01/2023;Trade payables;-25.09;Bob;Gardening Gloves
+a_458;04/01/2023;Cost of merchandise, 19% input tax;3549.2;Max;Lawn Mower
+a_458;04/01/2023;Deductible input tax, 19%;674.35;Max;Lawn Mower
+a_458;04/01/2023;Trade payables;-4223.55;Max;Lawn Mower
+a_755;04/01/2023;Trade payables;402.22;Alice;Shovel
+a_755;04/01/2023;Bank (Postbank) — main account;-402.22;Alice;Shovel
+a_914;04/01/2023;Trade payables;25.09;Bob;Gardening Gloves
+a_914;04/01/2023;Bank (Postbank) — main account;-25.09;Bob;Gardening Gloves
+b_314;04/01/2023;Cost of merchandise, 19% input tax;16.9;Alice;Shovel
+b_314;04/01/2023;Deductible input tax, 19%;3.21;Alice;Shovel
+b_314;04/01/2023;Trade payables;-20.11;Alice;Shovel
+b_547;04/01/2023;Trade payables;20.11;Max;Shovel
+b_547;04/01/2023;Cash-in-hand;-20.11;Max;Shovel
+b_582;04/01/2023;Trade payables;77.23;Max;Leaf Blower
+b_582;04/01/2023;Cash-in-hand;-77.23;Max;Leaf Blower
+b_661;04/01/2023;Trade payables;19.11;Alice;Rake
+b_661;04/01/2023;Cash-in-hand;-19.11;Alice;Rake
+b_714;04/01/2023;Trade payables;20.11;Alice;Shovel
+b_714;04/01/2023;Cash-in-hand;-20.11;Alice;Shovel
+c_19;04/01/2023;Trade receivables;127.44;David;Leaf Blower
+c_19;04/01/2023;Revenue, 19% VAT;-107.09;David;Leaf Blower
+c_19;04/01/2023;VAT payable, 19%;-20.35;David;Leaf Blower
+c_238;04/01/2023;Trade receivables;1467.13;Bob;Lawn Mower
+c_238;04/01/2023;Revenue, 19% VAT;-1232.88;Bob;Lawn Mower
+c_238;04/01/2023;VAT payable, 19%;-234.25;Bob;Lawn Mower
+c_428;04/01/2023;Bank (Postbank) — main account;366.78;Alice;Lawn Mower
+c_428;04/01/2023;Trade receivables;-366.78;Alice;Lawn Mower
+c_83;04/01/2023;Trade receivables;39.27;Max;Garden Hose
+c_83;04/01/2023;Revenue, 19% VAT;-33.0;Max;Garden Hose
+c_83;04/01/2023;VAT payable, 19%;-6.27;Max;Garden Hose
+f_128;04/01/2023;Cost of merchandise, 19% input tax;361.2;Charlie;Garden Shears
+f_128;04/01/2023;Deductible input tax, 19%;68.63;Charlie;Garden Shears
+f_128;04/01/2023;Trade payables;-429.83;Charlie;Garden Shears
+f_194;04/01/2023;Cost of merchandise, 19% input tax;152.1;Fred;Shovel
+f_194;04/01/2023;Deductible input tax, 19%;28.9;Fred;Shovel
+f_194;04/01/2023;Trade payables;-181.0;Fred;Shovel
+f_26;04/01/2023;Cost of merchandise, 19% input tax;140.0;Bob;Watering Can
+f_26;04/01/2023;Deductible input tax, 19%;26.6;Bob;Watering Can
+f_26;04/01/2023;Trade payables;-166.6;Bob;Watering Can
+f_377;04/01/2023;Trade payables;217.41;Fred;Hedge Trimmer
+f_377;04/01/2023;Bank (Postbank) — main account;-217.41;Fred;Hedge Trimmer
+g_178;04/01/2023;Trade payables;463.39;Bob;Leaf Blower
+g_178;04/01/2023;Cash-in-hand;-463.39;Bob;Leaf Blower
+g_214;04/01/2023;Trade payables;382.23;Fred;Rake
+g_214;04/01/2023;Cash-in-hand;-382.23;Fred;Rake
+h_51;04/01/2023;Trade receivables;177.31;Fred;Garden Shears
+h_51;04/01/2023;Revenue, 19% VAT;-149.0;Fred;Garden Shears
+h_51;04/01/2023;VAT payable, 19%;-28.31;Fred;Garden Shears
+a_283;05/01/2023;Cost of merchandise, 19% input tax;162.54;David;Garden Shears
+a_283;05/01/2023;Deductible input tax, 19%;30.88;David;Garden Shears
+a_283;05/01/2023;Trade payables;-193.42;David;Garden Shears
+a_330;05/01/2023;Cost of merchandise, 19% input tax;234.78;Alice;Garden Shears
+a_330;05/01/2023;Deductible input tax, 19%;44.61;Alice;Garden Shears
+a_330;05/01/2023;Trade payables;-279.39;Alice;Garden Shears
+a_564;05/01/2023;Trade payables;889.17;Bob;Lawn Mower
+a_564;05/01/2023;Bank (Postbank) — main account;-889.17;Bob;Lawn Mower
+a_813;05/01/2023;Trade payables;120.67;Alice;Shovel
+a_813;05/01/2023;Bank (Postbank) — main account;-120.67;Alice;Shovel
+a_928;05/01/2023;Trade payables;344.01;Alice;Rake
+a_928;05/01/2023;Bank (Postbank) — main account;-344.01;Alice;Rake
+b_185;05/01/2023;Cost of merchandise, 19% input tax;10.0;Max;Watering Can
+b_185;05/01/2023;Deductible input tax, 19%;1.9;Max;Watering Can
+b_185;05/01/2023;Trade payables;-11.9;Max;Watering Can
+b_221;05/01/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_221;05/01/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_221;05/01/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_794;05/01/2023;Trade payables;77.23;Bob;Leaf Blower
+b_794;05/01/2023;Cash-in-hand;-77.23;Bob;Leaf Blower
+c_147;05/01/2023;Trade receivables;119.57;Bob;Hedge Trimmer
+c_147;05/01/2023;Revenue, 19% VAT;-100.48;Bob;Hedge Trimmer
+c_147;05/01/2023;VAT payable, 19%;-19.09;Bob;Hedge Trimmer
+f_177;05/01/2023;Cost of merchandise, 19% input tax;182.7;Fred;Hedge Trimmer
+f_177;05/01/2023;Deductible input tax, 19%;34.71;Fred;Hedge Trimmer
+f_177;05/01/2023;Trade payables;-217.41;Fred;Hedge Trimmer
+f_204;05/01/2023;Trade payables;1390.16;Charlie;Leaf Blower
+f_204;05/01/2023;Bank (Postbank) — main account;-1390.16;Charlie;Leaf Blower
+f_398;05/01/2023;Trade payables;380.8;Bob;Garden Hose
+f_398;05/01/2023;Bank (Postbank) — main account;-380.8;Bob;Garden Hose
+f_4;05/01/2023;Cost of merchandise, 19% input tax;1168.2;Charlie;Leaf Blower
+f_4;05/01/2023;Deductible input tax, 19%;221.96;Charlie;Leaf Blower
+f_4;05/01/2023;Trade payables;-1390.16;Charlie;Leaf Blower
+g_45;05/01/2023;Cost of merchandise, 19% input tax;234.78;Fred;Garden Shears
+g_45;05/01/2023;Deductible input tax, 19%;44.61;Fred;Garden Shears
+g_45;05/01/2023;Trade payables;-279.39;Fred;Garden Shears
+g_70;05/01/2023;Cost of merchandise, 19% input tax;18.6;Fred;Gardening Gloves
+g_70;05/01/2023;Deductible input tax, 19%;3.53;Fred;Gardening Gloves
+g_70;05/01/2023;Trade payables;-22.13;Fred;Gardening Gloves
+i_60;05/01/2023;Cash-in-hand;119.57;Bob;Hedge Trimmer
+i_60;05/01/2023;Trade receivables;-119.57;Bob;Hedge Trimmer
+x_17;05/01/2023;Gas, electricity, water;1383.22;Alice;Utilities January
+x_17;05/01/2023;Deductible input tax, 19%;262.81;Alice;Utilities January
+x_17;05/01/2023;Bank (Postbank) — main account;-1646.03;Alice;Utilities January
+a_274;06/01/2023;Cost of merchandise, 19% input tax;259.6;Max;Leaf Blower
+a_274;06/01/2023;Deductible input tax, 19%;49.32;Max;Leaf Blower
+a_274;06/01/2023;Trade payables;-308.92;Max;Leaf Blower
+a_465;06/01/2023;Cost of merchandise, 19% input tax;20.0;Bob;Garden Hose
+a_465;06/01/2023;Deductible input tax, 19%;3.8;Bob;Garden Hose
+a_465;06/01/2023;Trade payables;-23.8;Bob;Garden Hose
+a_700;06/01/2023;Trade payables;869.65;Max;Hedge Trimmer
+a_700;06/01/2023;Bank (Postbank) — main account;-869.65;Max;Hedge Trimmer
+a_958;06/01/2023;Trade payables;4223.55;Max;Lawn Mower
+a_958;06/01/2023;Bank (Postbank) — main account;-4223.55;Max;Lawn Mower
+b_394;06/01/2023;Cost of merchandise, 19% input tax;64.9;Bob;Leaf Blower
+b_394;06/01/2023;Deductible input tax, 19%;12.33;Bob;Leaf Blower
+b_394;06/01/2023;Trade payables;-77.23;Bob;Leaf Blower
+b_395;06/01/2023;Cost of merchandise, 19% input tax;10.0;David;Watering Can
+b_395;06/01/2023;Deductible input tax, 19%;1.9;David;Watering Can
+b_395;06/01/2023;Trade payables;-11.9;David;Watering Can
+b_408;06/01/2023;Trade payables;77.23;David;Leaf Blower
+b_408;06/01/2023;Cash-in-hand;-77.23;David;Leaf Blower
+b_677;06/01/2023;Trade payables;222.29;Max;Lawn Mower
+b_677;06/01/2023;Cash-in-hand;-222.29;Max;Lawn Mower
+b_76;06/01/2023;Cost of merchandise, 19% input tax;16.9;Alice;Shovel
+b_76;06/01/2023;Deductible input tax, 19%;3.21;Alice;Shovel
+b_76;06/01/2023;Trade payables;-20.11;Alice;Shovel
+b_8;06/01/2023;Cost of merchandise, 19% input tax;64.9;David;Leaf Blower
+b_8;06/01/2023;Deductible input tax, 19%;12.33;David;Leaf Blower
+b_8;06/01/2023;Trade payables;-77.23;David;Leaf Blower
+c_184;06/01/2023;Trade receivables;119.57;David;Hedge Trimmer
+c_184;06/01/2023;Revenue, 19% VAT;-100.48;David;Hedge Trimmer
+c_184;06/01/2023;VAT payable, 19%;-19.09;David;Hedge Trimmer
+f_192;06/01/2023;Cost of merchandise, 19% input tax;338.0;Bob;Shovel
+f_192;06/01/2023;Deductible input tax, 19%;64.22;Bob;Shovel
+f_192;06/01/2023;Trade payables;-402.22;Bob;Shovel
+f_45;06/01/2023;Cost of merchandise, 19% input tax;373.6;Fred;Lawn Mower
+f_45;06/01/2023;Deductible input tax, 19%;70.98;Fred;Lawn Mower
+f_45;06/01/2023;Trade payables;-444.58;Fred;Lawn Mower
+f_76;06/01/2023;Cost of merchandise, 19% input tax;426.3;David;Hedge Trimmer
+f_76;06/01/2023;Deductible input tax, 19%;81.0;David;Hedge Trimmer
+f_76;06/01/2023;Trade payables;-507.3;David;Hedge Trimmer
+g_64;06/01/2023;Cost of merchandise, 19% input tax;321.2;Fred;Rake
+g_64;06/01/2023;Deductible input tax, 19%;61.03;Fred;Rake
+g_64;06/01/2023;Trade payables;-382.23;Fred;Rake
+h_151;06/01/2023;Bank (Postbank) — main account;177.31;Fred;Garden Shears
+h_151;06/01/2023;Trade receivables;-177.31;Fred;Garden Shears
+a_943;07/01/2023;Trade payables;926.77;Alice;Leaf Blower
+a_943;07/01/2023;Bank (Postbank) — main account;-926.77;Alice;Leaf Blower
+a_749;08/01/2023;Trade payables;40.22;David;Shovel
+a_749;08/01/2023;Bank (Postbank) — main account;-40.22;David;Shovel
+a_133;09/01/2023;Cost of merchandise, 19% input tax;974.4;Bob;Hedge Trimmer
+a_133;09/01/2023;Deductible input tax, 19%;185.14;Bob;Hedge Trimmer
+a_133;09/01/2023;Trade payables;-1159.54;Bob;Hedge Trimmer
+a_212;09/01/2023;Cost of merchandise, 19% input tax;90.3;Bob;Garden Shears
+a_212;09/01/2023;Deductible input tax, 19%;17.16;Bob;Garden Shears
+a_212;09/01/2023;Trade payables;-107.46;Bob;Garden Shears
+a_324;09/01/2023;Cost of merchandise, 19% input tax;843.7;Fred;Leaf Blower
+a_324;09/01/2023;Deductible input tax, 19%;160.3;Fred;Leaf Blower
+a_324;09/01/2023;Trade payables;-1004.0;Fred;Leaf Blower
+a_394;09/01/2023;Cost of merchandise, 19% input tax;803.0;Alice;Wheelbarrow
+a_394;09/01/2023;Deductible input tax, 19%;152.57;Alice;Wheelbarrow
+a_394;09/01/2023;Trade payables;-955.57;Alice;Wheelbarrow
+a_428;09/01/2023;Cost of merchandise, 19% input tax;289.08;Alice;Rake
+a_428;09/01/2023;Deductible input tax, 19%;54.93;Alice;Rake
+a_428;09/01/2023;Trade payables;-344.01;Alice;Rake
+a_64;09/01/2023;Cost of merchandise, 19% input tax;747.2;Bob;Lawn Mower
+a_64;09/01/2023;Deductible input tax, 19%;141.97;Bob;Lawn Mower
+a_64;09/01/2023;Trade payables;-889.17;Bob;Lawn Mower
+a_783;09/01/2023;Trade payables;193.42;David;Garden Shears
+a_783;09/01/2023;Bank (Postbank) — main account;-193.42;David;Garden Shears
+a_881;09/01/2023;Trade payables;130.9;Max;Watering Can
+a_881;09/01/2023;Bank (Postbank) — main account;-130.9;Max;Watering Can
+b_150;09/01/2023;Cost of merchandise, 19% input tax;16.9;Max;Shovel
+b_150;09/01/2023;Deductible input tax, 19%;3.21;Max;Shovel
+b_150;09/01/2023;Trade payables;-20.11;Max;Shovel
+b_166;09/01/2023;Cost of merchandise, 19% input tax;1.24;Bob;Gardening Gloves
+b_166;09/01/2023;Deductible input tax, 19%;0.24;Bob;Gardening Gloves
+b_166;09/01/2023;Trade payables;-1.48;Bob;Gardening Gloves
+b_249;09/01/2023;Cost of merchandise, 19% input tax;16.9;Fred;Shovel
+b_249;09/01/2023;Deductible input tax, 19%;3.21;Fred;Shovel
+b_249;09/01/2023;Trade payables;-20.11;Fred;Shovel
+b_270;09/01/2023;Cost of merchandise, 19% input tax;18.06;Alice;Garden Shears
+b_270;09/01/2023;Deductible input tax, 19%;3.43;Alice;Garden Shears
+b_270;09/01/2023;Trade payables;-21.49;Alice;Garden Shears
+c_342;09/01/2023;Trade receivables;157.66;Bob;Wheelbarrow
+c_342;09/01/2023;Revenue, 19% VAT;-132.49;Bob;Wheelbarrow
+c_342;09/01/2023;VAT payable, 19%;-25.17;Bob;Wheelbarrow
+c_433;09/01/2023;Bank (Postbank) — main account;39.27;Max;Garden Hose
+c_433;09/01/2023;Trade receivables;-39.27;Max;Garden Hose
+c_674;09/01/2023;Bank (Postbank) — main account;35.46;David;Garden Shears
+c_674;09/01/2023;Trade receivables;-35.46;David;Garden Shears
+f_151;09/01/2023;Cost of merchandise, 19% input tax;32.12;Charlie;Rake
+f_151;09/01/2023;Deductible input tax, 19%;6.1;Charlie;Rake
+f_151;09/01/2023;Trade payables;-38.22;Charlie;Rake
+f_312;09/01/2023;Trade payables;190.4;Bob;Watering Can
+f_312;09/01/2023;Bank (Postbank) — main account;-190.4;Bob;Watering Can
+g_39;09/01/2023;Cost of merchandise, 19% input tax;17.36;David;Gardening Gloves
+g_39;09/01/2023;Deductible input tax, 19%;3.3;David;Gardening Gloves
+g_39;09/01/2023;Trade payables;-20.66;David;Gardening Gloves
+i_17;09/01/2023;Trade receivables;39.27;Charlie;Garden Hose
+i_17;09/01/2023;Revenue, 19% VAT;-33.0;Charlie;Garden Hose
+i_17;09/01/2023;VAT payable, 19%;-6.27;Charlie;Garden Hose
+i_97;09/01/2023;Cash-in-hand;157.66;Charlie;Wheelbarrow
+i_97;09/01/2023;Trade receivables;-157.66;Charlie;Wheelbarrow
+x_18;09/01/2023;Cleaning;590.37;Alice;Cleaning January
+x_18;09/01/2023;Deductible input tax, 19%;112.17;Alice;Cleaning January
+x_18;09/01/2023;Bank (Postbank) — main account;-702.54;Alice;Cleaning January
+x_19;09/01/2023;Maintenance of operating premises;1054.46;Alice;Maintenance January
+x_19;09/01/2023;Deductible input tax, 19%;200.35;Alice;Maintenance January
+x_19;09/01/2023;Bank (Postbank) — main account;-1254.81;Alice;Maintenance January
+a_175;10/01/2023;Cost of merchandise, 19% input tax;963.6;David;Wheelbarrow
+a_175;10/01/2023;Deductible input tax, 19%;183.08;David;Wheelbarrow
+a_175;10/01/2023;Trade payables;-1146.68;David;Wheelbarrow
+a_965;10/01/2023;Trade payables;23.8;Bob;Garden Hose
+a_965;10/01/2023;Bank (Postbank) — main account;-23.8;Bob;Garden Hose
+a_993;10/01/2023;Trade payables;26.56;David;Gardening Gloves
+a_993;10/01/2023;Bank (Postbank) — main account;-26.56;David;Gardening Gloves
+b_25;10/01/2023;Cost of merchandise, 19% input tax;80.3;Max;Wheelbarrow
+b_25;10/01/2023;Deductible input tax, 19%;15.26;Max;Wheelbarrow
+b_25;10/01/2023;Trade payables;-95.56;Max;Wheelbarrow
+b_327;10/01/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_327;10/01/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_327;10/01/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_550;10/01/2023;Trade payables;20.11;Max;Shovel
+b_550;10/01/2023;Cash-in-hand;-20.11;Max;Shovel
+b_670;10/01/2023;Trade payables;21.49;Alice;Garden Shears
+b_670;10/01/2023;Cash-in-hand;-21.49;Alice;Garden Shears
+c_100;10/01/2023;Trade receivables;35.46;Max;Garden Shears
+c_100;10/01/2023;Revenue, 19% VAT;-29.8;Max;Garden Shears
+c_100;10/01/2023;VAT payable, 19%;-5.66;Max;Garden Shears
+c_450;10/01/2023;Bank (Postbank) — main account;35.46;Max;Garden Shears
+c_450;10/01/2023;Trade receivables;-35.46;Max;Garden Shears
+c_454;10/01/2023;Bank (Postbank) — main account;2.44;Alice;Gardening Gloves
+c_454;10/01/2023;Trade receivables;-2.44;Alice;Gardening Gloves
+c_497;10/01/2023;Bank (Postbank) — main account;119.57;Bob;Hedge Trimmer
+c_497;10/01/2023;Trade receivables;-119.57;Bob;Hedge Trimmer
+c_93;10/01/2023;Trade receivables;39.27;Max;Garden Hose
+c_93;10/01/2023;Revenue, 19% VAT;-33.0;Max;Garden Hose
+c_93;10/01/2023;VAT payable, 19%;-6.27;Max;Garden Hose
+f_134;10/01/2023;Cost of merchandise, 19% input tax;3736.0;Fred;Lawn Mower
+f_134;10/01/2023;Deductible input tax, 19%;709.84;Fred;Lawn Mower
+f_134;10/01/2023;Trade payables;-4445.84;Fred;Lawn Mower
+f_311;10/01/2023;Trade payables;261.8;Bob;Garden Hose
+f_311;10/01/2023;Bank (Postbank) — main account;-261.8;Bob;Garden Hose
+f_356;10/01/2023;Trade payables;860.01;Bob;Wheelbarrow
+f_356;10/01/2023;Bank (Postbank) — main account;-860.01;Bob;Wheelbarrow
+f_72;10/01/2023;Cost of merchandise, 19% input tax;160.0;Charlie;Garden Hose
+f_72;10/01/2023;Deductible input tax, 19%;30.4;Charlie;Garden Hose
+f_72;10/01/2023;Trade payables;-190.4;Charlie;Garden Hose
+f_85;10/01/2023;Cost of merchandise, 19% input tax;150.0;Max;Watering Can
+f_85;10/01/2023;Deductible input tax, 19%;28.5;Max;Watering Can
+f_85;10/01/2023;Trade payables;-178.5;Max;Watering Can
+g_220;10/01/2023;Trade payables;22.13;Fred;Gardening Gloves
+g_220;10/01/2023;Cash-in-hand;-22.13;Fred;Gardening Gloves
+g_60;10/01/2023;Cost of merchandise, 19% input tax;426.3;Charlie;Hedge Trimmer
+g_60;10/01/2023;Deductible input tax, 19%;81.0;Charlie;Hedge Trimmer
+g_60;10/01/2023;Trade payables;-507.3;Charlie;Hedge Trimmer
+g_8;10/01/2023;Cost of merchandise, 19% input tax;186.8;Fred;Lawn Mower
+g_8;10/01/2023;Deductible input tax, 19%;35.49;Fred;Lawn Mower
+g_8;10/01/2023;Trade payables;-222.29;Fred;Lawn Mower
+i_100;10/01/2023;Cash-in-hand;33.18;Bob;Shovel
+i_100;10/01/2023;Trade receivables;-33.18;Bob;Shovel
+i_27;10/01/2023;Trade receivables;366.78;Fred;Lawn Mower
+i_27;10/01/2023;Revenue, 19% VAT;-308.22;Fred;Lawn Mower
+i_27;10/01/2023;VAT payable, 19%;-58.56;Fred;Lawn Mower
+i_67;10/01/2023;Cash-in-hand;39.27;Charlie;Garden Hose
+i_67;10/01/2023;Trade receivables;-39.27;Charlie;Garden Hose
+x_11;10/01/2023;Salaries;251.0;Alice;Wage tax Charlie January
+x_11;10/01/2023;Bank (Postbank) — main account;-251.0;Alice;Wage tax Charlie January
+x_14;10/01/2023;Salaries;251.0;Alice;Wage tax David January
+x_14;10/01/2023;Bank (Postbank) — main account;-251.0;Alice;Wage tax David January
+x_2;10/01/2023;Salaries;317.08;Alice;Wage tax Max January
+x_2;10/01/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Max January
+x_5;10/01/2023;Salaries;317.08;Alice;Wage tax Alice January
+x_5;10/01/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Alice January
+x_8;10/01/2023;Salaries;317.08;Alice;Wage tax Bob January
+x_8;10/01/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Bob January
+a_663;11/01/2023;Trade payables;38.22;Fred;Rake
+a_663;11/01/2023;Bank (Postbank) — main account;-38.22;Fred;Rake
+a_95;11/01/2023;Cost of merchandise, 19% input tax;80.3;Max;Rake
+a_95;11/01/2023;Deductible input tax, 19%;15.26;Max;Rake
+a_95;11/01/2023;Trade payables;-95.56;Max;Rake
+c_272;11/01/2023;Trade receivables;63.07;David;Rake
+c_272;11/01/2023;Revenue, 19% VAT;-53.0;David;Rake
+c_272;11/01/2023;VAT payable, 19%;-10.07;David;Rake
+f_156;11/01/2023;Cost of merchandise, 19% input tax;722.7;Bob;Wheelbarrow
+f_156;11/01/2023;Deductible input tax, 19%;137.31;Bob;Wheelbarrow
+f_156;11/01/2023;Trade payables;-860.01;Bob;Wheelbarrow
+f_226;11/01/2023;Trade payables;166.6;Bob;Watering Can
+f_226;11/01/2023;Bank (Postbank) — main account;-166.6;Bob;Watering Can
+g_265;11/01/2023;Trade payables;1390.16;Charlie;Leaf Blower
+g_265;11/01/2023;Cash-in-hand;-1390.16;Charlie;Leaf Blower
+h_87;11/01/2023;Trade receivables;239.14;David;Hedge Trimmer
+h_87;11/01/2023;Revenue, 19% VAT;-200.96;David;Hedge Trimmer
+h_87;11/01/2023;VAT payable, 19%;-38.18;David;Hedge Trimmer
+i_91;11/01/2023;Cash-in-hand;366.78;Bob;Lawn Mower
+i_91;11/01/2023;Trade receivables;-366.78;Bob;Lawn Mower
+a_366;12/01/2023;Cost of merchandise, 19% input tax;3736.0;Alice;Lawn Mower
+a_366;12/01/2023;Deductible input tax, 19%;709.84;Alice;Lawn Mower
+a_366;12/01/2023;Trade payables;-4445.84;Alice;Lawn Mower
+a_493;12/01/2023;Cost of merchandise, 19% input tax;22.32;David;Gardening Gloves
+a_493;12/01/2023;Deductible input tax, 19%;4.24;David;Gardening Gloves
+a_493;12/01/2023;Trade payables;-26.56;David;Gardening Gloves
+a_60;12/01/2023;Cost of merchandise, 19% input tax;21.08;Bob;Gardening Gloves
+a_60;12/01/2023;Deductible input tax, 19%;4.01;Bob;Gardening Gloves
+a_60;12/01/2023;Trade payables;-25.09;Bob;Gardening Gloves
+a_633;12/01/2023;Trade payables;1159.54;Bob;Hedge Trimmer
+a_633;12/01/2023;Bank (Postbank) — main account;-1159.54;Bob;Hedge Trimmer
+a_93;12/01/2023;Cost of merchandise, 19% input tax;1307.6;David;Lawn Mower
+a_93;12/01/2023;Deductible input tax, 19%;248.44;David;Lawn Mower
+a_93;12/01/2023;Trade payables;-1556.04;David;Lawn Mower
+b_111;12/01/2023;Cost of merchandise, 19% input tax;20.0;Max;Garden Hose
+b_111;12/01/2023;Deductible input tax, 19%;3.8;Max;Garden Hose
+b_111;12/01/2023;Trade payables;-23.8;Max;Garden Hose
+b_428;12/01/2023;Trade payables;77.23;Fred;Leaf Blower
+b_428;12/01/2023;Cash-in-hand;-77.23;Fred;Leaf Blower
+b_566;12/01/2023;Trade payables;1.48;Bob;Gardening Gloves
+b_566;12/01/2023;Cash-in-hand;-1.48;Bob;Gardening Gloves
+b_621;12/01/2023;Trade payables;222.29;Alice;Lawn Mower
+b_621;12/01/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+c_152;12/01/2023;Trade receivables;157.66;David;Wheelbarrow
+c_152;12/01/2023;Revenue, 19% VAT;-132.49;David;Wheelbarrow
+c_152;12/01/2023;VAT payable, 19%;-25.17;David;Wheelbarrow
+c_443;12/01/2023;Bank (Postbank) — main account;39.27;Max;Garden Hose
+c_443;12/01/2023;Trade receivables;-39.27;Max;Garden Hose
+c_602;12/01/2023;Bank (Postbank) — main account;366.78;Max;Lawn Mower
+c_602;12/01/2023;Trade receivables;-366.78;Max;Lawn Mower
+f_245;12/01/2023;Trade payables;444.58;Fred;Lawn Mower
+f_245;12/01/2023;Bank (Postbank) — main account;-444.58;Fred;Lawn Mower
+f_362;12/01/2023;Trade payables;257.9;Charlie;Garden Shears
+f_362;12/01/2023;Bank (Postbank) — main account;-257.9;Charlie;Garden Shears
+f_392;12/01/2023;Trade payables;402.22;Bob;Shovel
+f_392;12/01/2023;Bank (Postbank) — main account;-402.22;Bob;Shovel
+g_111;12/01/2023;Cost of merchandise, 19% input tax;1.24;Fred;Gardening Gloves
+g_111;12/01/2023;Deductible input tax, 19%;0.24;Fred;Gardening Gloves
+g_111;12/01/2023;Trade payables;-1.48;Fred;Gardening Gloves
+i_50;12/01/2023;Trade receivables;33.18;Bob;Shovel
+i_50;12/01/2023;Revenue, 19% VAT;-27.88;Bob;Shovel
+i_50;12/01/2023;VAT payable, 19%;-5.3;Bob;Shovel
+a_163;13/01/2023;Cost of merchandise, 19% input tax;32.12;Bob;Rake
+a_163;13/01/2023;Deductible input tax, 19%;6.1;Bob;Rake
+a_163;13/01/2023;Trade payables;-38.22;Bob;Rake
+a_389;13/01/2023;Cost of merchandise, 19% input tax;112.42;Bob;Rake
+a_389;13/01/2023;Deductible input tax, 19%;21.36;Bob;Rake
+a_389;13/01/2023;Trade payables;-133.78;Bob;Rake
+a_712;13/01/2023;Trade payables;107.46;Bob;Garden Shears
+a_712;13/01/2023;Bank (Postbank) — main account;-107.46;Bob;Garden Shears
+a_774;13/01/2023;Trade payables;308.92;Max;Leaf Blower
+a_774;13/01/2023;Bank (Postbank) — main account;-308.92;Max;Leaf Blower
+a_830;13/01/2023;Trade payables;279.39;Alice;Garden Shears
+a_830;13/01/2023;Bank (Postbank) — main account;-279.39;Alice;Garden Shears
+b_41;13/01/2023;Cost of merchandise, 19% input tax;16.06;David;Rake
+b_41;13/01/2023;Deductible input tax, 19%;3.05;David;Rake
+b_41;13/01/2023;Trade payables;-19.11;David;Rake
+b_441;13/01/2023;Trade payables;19.11;David;Rake
+b_441;13/01/2023;Cash-in-hand;-19.11;David;Rake
+b_541;13/01/2023;Trade payables;1.48;David;Gardening Gloves
+b_541;13/01/2023;Cash-in-hand;-1.48;David;Gardening Gloves
+b_585;13/01/2023;Trade payables;11.9;Max;Watering Can
+b_585;13/01/2023;Cash-in-hand;-11.9;Max;Watering Can
+b_795;13/01/2023;Trade payables;11.9;David;Watering Can
+b_795;13/01/2023;Cash-in-hand;-11.9;David;Watering Can
+c_302;13/01/2023;Trade receivables;315.33;David;Wheelbarrow
+c_302;13/01/2023;Revenue, 19% VAT;-264.98;David;Wheelbarrow
+c_302;13/01/2023;VAT payable, 19%;-50.35;David;Wheelbarrow
+c_357;13/01/2023;Bank (Postbank) — main account;157.66;David;Wheelbarrow
+c_357;13/01/2023;Trade receivables;-157.66;David;Wheelbarrow
+c_482;13/01/2023;Bank (Postbank) — main account;157.66;David;Wheelbarrow
+c_482;13/01/2023;Trade receivables;-157.66;David;Wheelbarrow
+c_622;13/01/2023;Bank (Postbank) — main account;63.07;David;Rake
+c_622;13/01/2023;Trade receivables;-63.07;David;Rake
+f_112;13/01/2023;Cost of merchandise, 19% input tax;160.0;Bob;Watering Can
+f_112;13/01/2023;Deductible input tax, 19%;30.4;Bob;Watering Can
+f_112;13/01/2023;Trade payables;-190.4;Bob;Watering Can
+g_261;13/01/2023;Trade payables;1.48;Fred;Gardening Gloves
+g_261;13/01/2023;Cash-in-hand;-1.48;Fred;Gardening Gloves
+i_41;13/01/2023;Trade receivables;366.78;Bob;Lawn Mower
+i_41;13/01/2023;Revenue, 19% VAT;-308.22;Bob;Lawn Mower
+i_41;13/01/2023;VAT payable, 19%;-58.56;Bob;Lawn Mower
+x_20;13/01/2023;Insurance premiums;1300.0;Alice;Insurance January
+x_20;13/01/2023;Bank (Postbank) — main account;-1300.0;Alice;Insurance January
+a_149;16/01/2023;Cost of merchandise, 19% input tax;1168.2;David;Leaf Blower
+a_149;16/01/2023;Deductible input tax, 19%;221.96;David;Leaf Blower
+a_149;16/01/2023;Trade payables;-1390.16;David;Leaf Blower
+a_244;16/01/2023;Cost of merchandise, 19% input tax;6.2;Max;Gardening Gloves
+a_244;16/01/2023;Deductible input tax, 19%;1.18;Max;Gardening Gloves
+a_244;16/01/2023;Trade payables;-7.38;Max;Gardening Gloves
+a_346;16/01/2023;Cost of merchandise, 19% input tax;609.0;Alice;Hedge Trimmer
+a_346;16/01/2023;Deductible input tax, 19%;115.71;Alice;Hedge Trimmer
+a_346;16/01/2023;Trade payables;-724.71;Alice;Hedge Trimmer
+a_44;16/01/2023;Cost of merchandise, 19% input tax;400.0;Bob;Garden Hose
+a_44;16/01/2023;Deductible input tax, 19%;76.0;Bob;Garden Hose
+a_44;16/01/2023;Trade payables;-476.0;Bob;Garden Hose
+a_593;16/01/2023;Trade payables;1556.04;David;Lawn Mower
+a_593;16/01/2023;Bank (Postbank) — main account;-1556.04;David;Lawn Mower
+a_595;16/01/2023;Trade payables;95.56;Max;Rake
+a_595;16/01/2023;Bank (Postbank) — main account;-95.56;Max;Rake
+a_675;16/01/2023;Trade payables;1146.68;David;Wheelbarrow
+a_675;16/01/2023;Bank (Postbank) — main account;-1146.68;David;Wheelbarrow
+b_196;16/01/2023;Cost of merchandise, 19% input tax;60.9;Max;Hedge Trimmer
+b_196;16/01/2023;Deductible input tax, 19%;11.57;Max;Hedge Trimmer
+b_196;16/01/2023;Trade payables;-72.47;Max;Hedge Trimmer
+b_511;16/01/2023;Trade payables;23.8;Max;Garden Hose
+b_511;16/01/2023;Cash-in-hand;-23.8;Max;Garden Hose
+b_552;16/01/2023;Trade payables;11.9;Max;Watering Can
+b_552;16/01/2023;Cash-in-hand;-11.9;Max;Watering Can
+c_130;16/01/2023;Trade receivables;19.64;Bob;Watering Can
+c_130;16/01/2023;Revenue, 19% VAT;-16.5;Bob;Watering Can
+c_130;16/01/2023;VAT payable, 19%;-3.14;Bob;Watering Can
+c_224;16/01/2023;Trade receivables;70.92;David;Garden Shears
+c_224;16/01/2023;Revenue, 19% VAT;-59.6;David;Garden Shears
+c_224;16/01/2023;VAT payable, 19%;-11.32;David;Garden Shears
+c_480;16/01/2023;Bank (Postbank) — main account;19.64;Bob;Watering Can
+c_480;16/01/2023;Trade receivables;-19.64;Bob;Watering Can
+c_652;16/01/2023;Bank (Postbank) — main account;315.33;David;Wheelbarrow
+c_652;16/01/2023;Trade receivables;-315.33;David;Wheelbarrow
+f_91;16/01/2023;Cost of merchandise, 19% input tax;14.88;Fred;Gardening Gloves
+f_91;16/01/2023;Deductible input tax, 19%;2.83;Fred;Gardening Gloves
+f_91;16/01/2023;Trade payables;-17.71;Fred;Gardening Gloves
+g_109;16/01/2023;Cost of merchandise, 19% input tax;1043.9;Bob;Wheelbarrow
+g_109;16/01/2023;Deductible input tax, 19%;198.34;Bob;Wheelbarrow
+g_109;16/01/2023;Trade payables;-1242.24;Bob;Wheelbarrow
+g_195;16/01/2023;Trade payables;279.39;Fred;Garden Shears
+g_195;16/01/2023;Cash-in-hand;-279.39;Fred;Garden Shears
+g_227;16/01/2023;Trade payables;26.56;Bob;Gardening Gloves
+g_227;16/01/2023;Cash-in-hand;-26.56;Bob;Gardening Gloves
+g_77;16/01/2023;Cost of merchandise, 19% input tax;22.32;Bob;Gardening Gloves
+g_77;16/01/2023;Deductible input tax, 19%;4.24;Bob;Gardening Gloves
+g_77;16/01/2023;Trade payables;-26.56;Bob;Gardening Gloves
+h_73;16/01/2023;Trade receivables;126.14;Bob;Rake
+h_73;16/01/2023;Revenue, 19% VAT;-106.0;Bob;Rake
+h_73;16/01/2023;VAT payable, 19%;-20.14;Bob;Rake
+x_12;16/01/2023;Wages and salaries;568.35;Alice;Social security Charlie January
+x_12;16/01/2023;Statutory social security expenses;552.15;Alice;Social security Charlie January
+x_12;16/01/2023;Bank (Postbank) — main account;-1120.5;Alice;Social security Charlie January
+x_15;16/01/2023;Wages and salaries;568.35;Alice;Social security David January
+x_15;16/01/2023;Statutory social security expenses;552.15;Alice;Social security David January
+x_15;16/01/2023;Bank (Postbank) — main account;-1120.5;Alice;Social security David January
+x_3;16/01/2023;Wages and salaries;631.5;Alice;Social security Max January
+x_3;16/01/2023;Statutory social security expenses;613.5;Alice;Social security Max January
+x_3;16/01/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Max January
+x_6;16/01/2023;Wages and salaries;631.5;Alice;Social security Alice January
+x_6;16/01/2023;Statutory social security expenses;613.5;Alice;Social security Alice January
+x_6;16/01/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Alice January
+x_9;16/01/2023;Wages and salaries;631.5;Alice;Social security Bob January
+x_9;16/01/2023;Statutory social security expenses;613.5;Alice;Social security Bob January
+x_9;16/01/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Bob January
+a_173;17/01/2023;Cost of merchandise, 19% input tax;118.3;Bob;Shovel
+a_173;17/01/2023;Deductible input tax, 19%;22.48;Bob;Shovel
+a_173;17/01/2023;Trade payables;-140.78;Bob;Shovel
+a_309;17/01/2023;Cost of merchandise, 19% input tax;2988.8;David;Lawn Mower
+a_309;17/01/2023;Deductible input tax, 19%;567.87;David;Lawn Mower
+a_309;17/01/2023;Trade payables;-3556.67;David;Lawn Mower
+a_744;17/01/2023;Trade payables;7.38;Max;Gardening Gloves
+a_744;17/01/2023;Bank — secondary account;-7.38;Max;Gardening Gloves
+b_170;17/01/2023;Cost of merchandise, 19% input tax;64.9;Alice;Leaf Blower
+b_170;17/01/2023;Deductible input tax, 19%;12.33;Alice;Leaf Blower
+b_170;17/01/2023;Trade payables;-77.23;Alice;Leaf Blower
+b_727;17/01/2023;Trade payables;222.29;Alice;Lawn Mower
+b_727;17/01/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+b_99;17/01/2023;Cost of merchandise, 19% input tax;20.0;Bob;Garden Hose
+b_99;17/01/2023;Deductible input tax, 19%;3.8;Bob;Garden Hose
+b_99;17/01/2023;Trade payables;-23.8;Bob;Garden Hose
+c_283;17/01/2023;Trade receivables;733.56;Bob;Lawn Mower
+c_283;17/01/2023;Revenue, 19% VAT;-616.44;Bob;Lawn Mower
+c_283;17/01/2023;VAT payable, 19%;-117.12;Bob;Lawn Mower
+c_369;17/01/2023;Bank (Postbank) — main account;127.44;David;Leaf Blower
+c_369;17/01/2023;Trade receivables;-127.44;David;Leaf Blower
+c_692;17/01/2023;Bank (Postbank) — main account;157.66;Bob;Wheelbarrow
+c_692;17/01/2023;Trade receivables;-157.66;Bob;Wheelbarrow
+a_377;18/01/2023;Cost of merchandise, 19% input tax;144.48;Bob;Garden Shears
+a_377;18/01/2023;Deductible input tax, 19%;27.45;Bob;Garden Shears
+a_377;18/01/2023;Trade payables;-171.93;Bob;Garden Shears
+a_43;18/01/2023;Cost of merchandise, 19% input tax;121.8;Bob;Hedge Trimmer
+a_43;18/01/2023;Deductible input tax, 19%;23.14;Bob;Hedge Trimmer
+a_43;18/01/2023;Trade payables;-144.94;Bob;Hedge Trimmer
+a_560;18/01/2023;Trade payables;25.09;Bob;Gardening Gloves
+a_560;18/01/2023;Bank (Postbank) — main account;-25.09;Bob;Gardening Gloves
+a_894;18/01/2023;Trade payables;955.57;Alice;Wheelbarrow
+a_894;18/01/2023;Bank (Postbank) — main account;-955.57;Alice;Wheelbarrow
+b_188;18/01/2023;Cost of merchandise, 19% input tax;80.3;Bob;Wheelbarrow
+b_188;18/01/2023;Deductible input tax, 19%;15.26;Bob;Wheelbarrow
+b_188;18/01/2023;Trade payables;-95.56;Bob;Wheelbarrow
+b_238;18/01/2023;Cost of merchandise, 19% input tax;16.06;Alice;Rake
+b_238;18/01/2023;Deductible input tax, 19%;3.05;Alice;Rake
+b_238;18/01/2023;Trade payables;-19.11;Alice;Rake
+c_80;18/01/2023;Trade receivables;39.27;David;Garden Hose
+c_80;18/01/2023;Revenue, 19% VAT;-33.0;David;Garden Hose
+c_80;18/01/2023;VAT payable, 19%;-6.27;David;Garden Hose
+f_272;18/01/2023;Trade payables;190.4;Charlie;Garden Hose
+f_272;18/01/2023;Bank (Postbank) — main account;-190.4;Charlie;Garden Hose
+h_56;18/01/2023;Trade receivables;4.88;Bob;Gardening Gloves
+h_56;18/01/2023;Revenue, 19% VAT;-4.1;Bob;Gardening Gloves
+h_56;18/01/2023;VAT payable, 19%;-0.78;Bob;Gardening Gloves
+i_47;18/01/2023;Trade receivables;157.66;Charlie;Wheelbarrow
+i_47;18/01/2023;Revenue, 19% VAT;-132.49;Charlie;Wheelbarrow
+i_47;18/01/2023;VAT payable, 19%;-25.17;Charlie;Wheelbarrow
+x_21;18/01/2023;Other vehicle costs;780.0;Max;Vehicle costs January
+x_21;18/01/2023;Deductible input tax, 19%;148.2;Max;Vehicle costs January
+x_21;18/01/2023;Cash-in-hand;-928.2;Max;Vehicle costs January
+a_57;19/01/2023;Cost of merchandise, 19% input tax;60.9;Max;Hedge Trimmer
+a_57;19/01/2023;Deductible input tax, 19%;11.57;Max;Hedge Trimmer
+a_57;19/01/2023;Trade payables;-72.47;Max;Hedge Trimmer
+a_805;19/01/2023;Trade payables;363.12;Bob;Rake
+a_805;19/01/2023;Bank (Postbank) — main account;-363.12;Bob;Rake
+a_824;19/01/2023;Trade payables;1004.0;David;Leaf Blower
+a_824;19/01/2023;Bank (Postbank) — main account;-1004.0;David;Leaf Blower
+a_846;19/01/2023;Trade payables;724.71;Alice;Hedge Trimmer
+a_846;19/01/2023;Bank (Postbank) — main account;-724.71;Alice;Hedge Trimmer
+a_866;19/01/2023;Trade payables;4445.84;Alice;Lawn Mower
+a_866;19/01/2023;Bank (Postbank) — main account;-4445.84;Alice;Lawn Mower
+a_889;19/01/2023;Trade payables;133.78;Bob;Rake
+a_889;19/01/2023;Bank (Postbank) — main account;-133.78;Bob;Rake
+b_202;19/01/2023;Cost of merchandise, 19% input tax;20.0;David;Garden Hose
+b_202;19/01/2023;Deductible input tax, 19%;3.8;David;Garden Hose
+b_202;19/01/2023;Trade payables;-23.8;David;Garden Hose
+b_229;19/01/2023;Cost of merchandise, 19% input tax;16.9;Bob;Shovel
+b_229;19/01/2023;Deductible input tax, 19%;3.21;Bob;Shovel
+b_229;19/01/2023;Trade payables;-20.11;Bob;Shovel
+b_425;19/01/2023;Trade payables;95.56;Max;Wheelbarrow
+b_425;19/01/2023;Cash-in-hand;-95.56;Max;Wheelbarrow
+b_51;19/01/2023;Cost of merchandise, 19% input tax;1.24;Max;Gardening Gloves
+b_51;19/01/2023;Deductible input tax, 19%;0.24;Max;Gardening Gloves
+b_51;19/01/2023;Trade payables;-1.48;Max;Gardening Gloves
+b_602;19/01/2023;Trade payables;23.8;David;Garden Hose
+b_602;19/01/2023;Cash-in-hand;-23.8;David;Garden Hose
+b_647;19/01/2023;Trade payables;23.8;Alice;Garden Hose
+b_647;19/01/2023;Cash-in-hand;-23.8;Alice;Garden Hose
+c_499;19/01/2023;Bank (Postbank) — main account;31.54;Bob;Rake
+c_499;19/01/2023;Trade receivables;-31.54;Bob;Rake
+f_285;19/01/2023;Trade payables;178.5;Max;Watering Can
+f_285;19/01/2023;Bank (Postbank) — main account;-178.5;Max;Watering Can
+f_334;19/01/2023;Trade payables;4445.84;Max;Lawn Mower
+f_334;19/01/2023;Cash-in-hand;-4445.84;Max;Lawn Mower
+g_158;19/01/2023;Trade payables;222.29;Fred;Lawn Mower
+g_158;19/01/2023;Cash-in-hand;-222.29;Fred;Lawn Mower
+g_29;19/01/2023;Cost of merchandise, 19% input tax;1525.7;Fred;Wheelbarrow
+g_29;19/01/2023;Deductible input tax, 19%;289.88;Fred;Wheelbarrow
+g_29;19/01/2023;Trade payables;-1815.58;Fred;Wheelbarrow
+g_7;19/01/2023;Cost of merchandise, 19% input tax;70.0;Charlie;Watering Can
+g_7;19/01/2023;Deductible input tax, 19%;13.3;Charlie;Watering Can
+g_7;19/01/2023;Trade payables;-83.3;Charlie;Watering Can
+x_22;19/01/2023;Advertising expenses;1200.0;Alice;Advertising January
+x_22;19/01/2023;Deductible input tax, 19%;228.0;Alice;Advertising January
+x_22;19/01/2023;Bank (Postbank) — main account;-1428.0;Alice;Advertising January
+a_13;20/01/2023;Cost of merchandise, 19% input tax;642.4;David;Wheelbarrow
+a_13;20/01/2023;Deductible input tax, 19%;122.06;David;Wheelbarrow
+a_13;20/01/2023;Trade payables;-764.46;David;Wheelbarrow
+a_36;20/01/2023;Cost of merchandise, 19% input tax;3362.4;Bob;Lawn Mower
+a_36;20/01/2023;Deductible input tax, 19%;638.86;Bob;Lawn Mower
+a_36;20/01/2023;Trade payables;-4001.26;Bob;Lawn Mower
+b_14;20/01/2023;Cost of merchandise, 19% input tax;20.0;David;Garden Hose
+b_14;20/01/2023;Deductible input tax, 19%;3.8;David;Garden Hose
+b_14;20/01/2023;Trade payables;-23.8;David;Garden Hose
+b_152;20/01/2023;Cost of merchandise, 19% input tax;10.0;Max;Watering Can
+b_152;20/01/2023;Deductible input tax, 19%;1.9;Max;Watering Can
+b_152;20/01/2023;Trade payables;-11.9;Max;Watering Can
+b_247;20/01/2023;Cost of merchandise, 19% input tax;20.0;Alice;Garden Hose
+b_247;20/01/2023;Deductible input tax, 19%;3.8;Alice;Garden Hose
+b_247;20/01/2023;Trade payables;-23.8;Alice;Garden Hose
+b_570;20/01/2023;Trade payables;77.23;Alice;Leaf Blower
+b_570;20/01/2023;Cash-in-hand;-77.23;Alice;Leaf Blower
+b_588;20/01/2023;Trade payables;95.56;Bob;Wheelbarrow
+b_588;20/01/2023;Cash-in-hand;-95.56;Bob;Wheelbarrow
+b_649;20/01/2023;Trade payables;20.11;Max;Shovel
+b_649;20/01/2023;Cash-in-hand;-20.11;Max;Shovel
+c_149;20/01/2023;Trade receivables;31.54;Bob;Rake
+c_149;20/01/2023;Revenue, 19% VAT;-26.5;Bob;Rake
+c_149;20/01/2023;VAT payable, 19%;-5.04;Bob;Rake
+c_574;20/01/2023;Bank (Postbank) — main account;70.92;David;Garden Shears
+c_574;20/01/2023;Trade receivables;-70.92;David;Garden Shears
+f_131;20/01/2023;Cost of merchandise, 19% input tax;1120.8;Charlie;Lawn Mower
+f_131;20/01/2023;Deductible input tax, 19%;212.95;Charlie;Lawn Mower
+f_131;20/01/2023;Trade payables;-1333.75;Charlie;Lawn Mower
+f_331;20/01/2023;Trade payables;1333.75;Charlie;Lawn Mower
+f_331;20/01/2023;Bank (Postbank) — main account;-1333.75;Charlie;Lawn Mower
+f_56;20/01/2023;Cost of merchandise, 19% input tax;730.8;Bob;Hedge Trimmer
+f_56;20/01/2023;Deductible input tax, 19%;138.85;Bob;Hedge Trimmer
+f_56;20/01/2023;Trade payables;-869.65;Bob;Hedge Trimmer
+h_173;20/01/2023;Bank (Postbank) — main account;126.14;Bob;Rake
+h_173;20/01/2023;Trade receivables;-126.14;Bob;Rake
+i_77;20/01/2023;Cash-in-hand;366.78;Fred;Lawn Mower
+i_77;20/01/2023;Trade receivables;-366.78;Fred;Lawn Mower
+a_102;23/01/2023;Cost of merchandise, 19% input tax;908.6;David;Leaf Blower
+a_102;23/01/2023;Deductible input tax, 19%;172.63;David;Leaf Blower
+a_102;23/01/2023;Trade payables;-1081.23;David;Leaf Blower
+a_281;23/01/2023;Cost of merchandise, 19% input tax;1168.2;David;Leaf Blower
+a_281;23/01/2023;Deductible input tax, 19%;221.96;David;Leaf Blower
+a_281;23/01/2023;Trade payables;-1390.16;David;Leaf Blower
+a_305;23/01/2023;Cost of merchandise, 19% input tax;305.14;Bob;Rake
+a_305;23/01/2023;Deductible input tax, 19%;57.98;Bob;Rake
+a_305;23/01/2023;Trade payables;-363.12;Bob;Rake
+a_434;23/01/2023;Cost of merchandise, 19% input tax;16.9;Bob;Shovel
+a_434;23/01/2023;Deductible input tax, 19%;3.21;Bob;Shovel
+a_434;23/01/2023;Trade payables;-20.11;Bob;Shovel
+a_543;23/01/2023;Trade payables;144.94;Bob;Hedge Trimmer
+a_543;23/01/2023;Bank (Postbank) — main account;-144.94;Bob;Hedge Trimmer
+a_649;23/01/2023;Trade payables;1390.16;Fred;Leaf Blower
+a_649;23/01/2023;Bank (Postbank) — main account;-1390.16;Fred;Leaf Blower
+a_877;23/01/2023;Trade payables;171.93;Bob;Garden Shears
+a_877;23/01/2023;Bank (Postbank) — main account;-171.93;Bob;Garden Shears
+a_888;23/01/2023;Trade payables;191.11;Bob;Wheelbarrow
+a_888;23/01/2023;Bank (Postbank) — main account;-191.11;Bob;Wheelbarrow
+b_290;23/01/2023;Cost of merchandise, 19% input tax;1.24;David;Gardening Gloves
+b_290;23/01/2023;Deductible input tax, 19%;0.24;David;Gardening Gloves
+b_290;23/01/2023;Trade payables;-1.48;David;Gardening Gloves
+b_315;23/01/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_315;23/01/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_315;23/01/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_325;23/01/2023;Cost of merchandise, 19% input tax;18.06;David;Garden Shears
+b_325;23/01/2023;Deductible input tax, 19%;3.43;David;Garden Shears
+b_325;23/01/2023;Trade payables;-21.49;David;Garden Shears
+b_33;23/01/2023;Cost of merchandise, 19% input tax;16.06;Max;Rake
+b_33;23/01/2023;Deductible input tax, 19%;3.05;Max;Rake
+b_33;23/01/2023;Trade payables;-19.11;Max;Rake
+b_433;23/01/2023;Trade payables;19.11;Max;Rake
+b_433;23/01/2023;Cash-in-hand;-19.11;Max;Rake
+c_502;23/01/2023;Bank (Postbank) — main account;157.66;David;Wheelbarrow
+c_502;23/01/2023;Trade receivables;-157.66;David;Wheelbarrow
+c_60;23/01/2023;Trade receivables;19.64;Bob;Watering Can
+c_60;23/01/2023;Revenue, 19% VAT;-16.5;Bob;Watering Can
+c_60;23/01/2023;VAT payable, 19%;-3.14;Bob;Watering Can
+g_123;23/01/2023;Cost of merchandise, 19% input tax;96.36;Fred;Rake
+g_123;23/01/2023;Deductible input tax, 19%;18.31;Fred;Rake
+g_123;23/01/2023;Trade payables;-114.67;Fred;Rake
+g_210;23/01/2023;Trade payables;507.3;Charlie;Hedge Trimmer
+g_210;23/01/2023;Cash-in-hand;-507.3;Charlie;Hedge Trimmer
+h_141;23/01/2023;Bank (Postbank) — main account;63.07;Max;Rake
+h_141;23/01/2023;Trade receivables;-63.07;Max;Rake
+h_41;23/01/2023;Trade receivables;63.07;Max;Rake
+h_41;23/01/2023;Revenue, 19% VAT;-53.0;Max;Rake
+h_41;23/01/2023;VAT payable, 19%;-10.07;Max;Rake
+x_23;23/01/2023;Packaging materials;905.42;Alice;Packaging materials January
+x_23;23/01/2023;Deductible input tax, 19%;172.03;Alice;Packaging materials January
+x_23;23/01/2023;Bank (Postbank) — main account;-1077.45;Alice;Packaging materials January
+a_126;24/01/2023;Cost of merchandise, 19% input tax;252.84;Alice;Garden Shears
+a_126;24/01/2023;Deductible input tax, 19%;48.04;Alice;Garden Shears
+a_126;24/01/2023;Trade payables;-300.88;Alice;Garden Shears
+a_544;24/01/2023;Trade payables;476.0;Bob;Garden Hose
+a_544;24/01/2023;Bank (Postbank) — main account;-476.0;Bob;Garden Hose
+a_557;24/01/2023;Trade payables;72.47;Fred;Hedge Trimmer
+a_557;24/01/2023;Bank (Postbank) — main account;-72.47;Fred;Hedge Trimmer
+b_451;24/01/2023;Trade payables;1.48;Max;Gardening Gloves
+b_451;24/01/2023;Cash-in-hand;-1.48;Max;Gardening Gloves
+b_499;24/01/2023;Trade payables;23.8;Bob;Garden Hose
+b_499;24/01/2023;Cash-in-hand;-23.8;Bob;Garden Hose
+b_596;24/01/2023;Trade payables;72.47;Max;Hedge Trimmer
+b_596;24/01/2023;Cash-in-hand;-72.47;Max;Hedge Trimmer
+c_311;24/01/2023;Trade receivables;165.89;David;Shovel
+c_311;24/01/2023;Revenue, 19% VAT;-139.4;David;Shovel
+c_311;24/01/2023;VAT payable, 19%;-26.49;David;Shovel
+g_124;24/01/2023;Cost of merchandise, 19% input tax;67.6;David;Shovel
+g_124;24/01/2023;Deductible input tax, 19%;12.84;David;Shovel
+g_124;24/01/2023;Trade payables;-80.44;David;Shovel
+g_259;24/01/2023;Trade payables;1242.24;Bob;Wheelbarrow
+g_259;24/01/2023;Cash-in-hand;-1242.24;Bob;Wheelbarrow
+x_24;24/01/2023;Office supplies;285.8;Alice;Office supplies January
+x_24;24/01/2023;Deductible input tax, 19%;54.3;Alice;Office supplies January
+x_24;24/01/2023;Cash-in-hand;-340.1;Alice;Office supplies January
+b_414;25/01/2023;Trade payables;23.8;David;Garden Hose
+b_414;25/01/2023;Cash-in-hand;-23.8;David;Garden Hose
+b_45;25/01/2023;Cost of merchandise, 19% input tax;1.24;David;Gardening Gloves
+b_45;25/01/2023;Deductible input tax, 19%;0.24;David;Gardening Gloves
+b_45;25/01/2023;Trade payables;-1.48;David;Gardening Gloves
+b_629;25/01/2023;Trade payables;20.11;Bob;Shovel
+b_629;25/01/2023;Cash-in-hand;-20.11;Bob;Shovel
+b_638;25/01/2023;Trade payables;19.11;Alice;Rake
+b_638;25/01/2023;Cash-in-hand;-19.11;Alice;Rake
+b_715;25/01/2023;Trade payables;222.29;Alice;Lawn Mower
+b_715;25/01/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+b_725;25/01/2023;Trade payables;21.49;David;Garden Shears
+b_725;25/01/2023;Cash-in-hand;-21.49;David;Garden Shears
+c_293;25/01/2023;Trade receivables;382.31;Alice;Leaf Blower
+c_293;25/01/2023;Revenue, 19% VAT;-321.27;Alice;Leaf Blower
+c_293;25/01/2023;VAT payable, 19%;-61.04;Alice;Leaf Blower
+c_430;25/01/2023;Bank (Postbank) — main account;39.27;David;Garden Hose
+c_430;25/01/2023;Trade receivables;-39.27;David;Garden Hose
+c_633;25/01/2023;Bank (Postbank) — main account;733.56;Bob;Lawn Mower
+c_633;25/01/2023;Trade receivables;-733.56;Bob;Lawn Mower
+g_157;25/01/2023;Trade payables;83.3;Charlie;Watering Can
+g_157;25/01/2023;Cash-in-hand;-83.3;Charlie;Watering Can
+g_159;25/01/2023;Trade payables;1390.16;Fred;Leaf Blower
+g_159;25/01/2023;Cash-in-hand;-1390.16;Fred;Leaf Blower
+g_33;25/01/2023;Cost of merchandise, 19% input tax;1043.9;Charlie;Wheelbarrow
+g_33;25/01/2023;Deductible input tax, 19%;198.34;Charlie;Wheelbarrow
+g_33;25/01/2023;Trade payables;-1242.24;Charlie;Wheelbarrow
+a_153;26/01/2023;Cost of merchandise, 19% input tax;90.3;Max;Garden Shears
+a_153;26/01/2023;Deductible input tax, 19%;17.16;Max;Garden Shears
+a_153;26/01/2023;Trade payables;-107.46;Max;Garden Shears
+a_339;26/01/2023;Cost of merchandise, 19% input tax;343.14;Alice;Garden Shears
+a_339;26/01/2023;Deductible input tax, 19%;65.2;Alice;Garden Shears
+a_339;26/01/2023;Trade payables;-408.34;Alice;Garden Shears
+a_388;26/01/2023;Cost of merchandise, 19% input tax;160.6;Bob;Wheelbarrow
+a_388;26/01/2023;Deductible input tax, 19%;30.51;Bob;Wheelbarrow
+a_388;26/01/2023;Trade payables;-191.11;Bob;Wheelbarrow
+a_513;26/01/2023;Trade payables;764.46;David;Wheelbarrow
+a_513;26/01/2023;Bank (Postbank) — main account;-764.46;David;Wheelbarrow
+a_536;26/01/2023;Trade payables;4001.26;Bob;Lawn Mower
+a_536;26/01/2023;Bank (Postbank) — main account;-4001.26;Bob;Lawn Mower
+a_82;26/01/2023;Cost of merchandise, 19% input tax;19.84;Max;Gardening Gloves
+a_82;26/01/2023;Deductible input tax, 19%;3.77;Max;Gardening Gloves
+a_82;26/01/2023;Trade payables;-23.61;Max;Gardening Gloves
+b_799;26/01/2023;Trade payables;72.47;David;Hedge Trimmer
+b_799;26/01/2023;Cash-in-hand;-72.47;David;Hedge Trimmer
+c_394;26/01/2023;Bank (Postbank) — main account;31.54;Max;Rake
+c_394;26/01/2023;Trade receivables;-31.54;Max;Rake
+c_44;26/01/2023;Trade receivables;31.54;Max;Rake
+c_44;26/01/2023;Revenue, 19% VAT;-26.5;Max;Rake
+c_44;26/01/2023;VAT payable, 19%;-5.04;Max;Rake
+f_180;26/01/2023;Cost of merchandise, 19% input tax;64.24;David;Rake
+f_180;26/01/2023;Deductible input tax, 19%;12.21;David;Rake
+f_180;26/01/2023;Trade payables;-76.45;David;Rake
+f_291;26/01/2023;Trade payables;17.71;Fred;Gardening Gloves
+f_291;26/01/2023;Bank (Postbank) — main account;-17.71;Fred;Gardening Gloves
+f_68;26/01/2023;Cost of merchandise, 19% input tax;843.7;Bob;Leaf Blower
+f_68;26/01/2023;Deductible input tax, 19%;160.3;Bob;Leaf Blower
+f_68;26/01/2023;Trade payables;-1004.0;Bob;Leaf Blower
+g_273;26/01/2023;Trade payables;114.67;Fred;Rake
+g_273;26/01/2023;Cash-in-hand;-114.67;Fred;Rake
+i_92;26/01/2023;Cash-in-hand;19.64;Bob;Watering Can
+i_92;26/01/2023;Trade receivables;-19.64;Bob;Watering Can
+x_25;26/01/2023;Legal and consulting expenses;1496.14;Alice;Legal and consulting January
+x_25;26/01/2023;Deductible input tax, 19%;284.27;Alice;Legal and consulting January
+x_25;26/01/2023;Bank (Postbank) — main account;-1780.41;Alice;Legal and consulting January
+a_267;27/01/2023;Cost of merchandise, 19% input tax;16.12;Bob;Gardening Gloves
+a_267;27/01/2023;Deductible input tax, 19%;3.06;Bob;Gardening Gloves
+a_267;27/01/2023;Trade payables;-19.18;Bob;Gardening Gloves
+a_289;27/01/2023;Cost of merchandise, 19% input tax;140.0;Max;Garden Hose
+a_289;27/01/2023;Deductible input tax, 19%;26.6;Max;Garden Hose
+a_289;27/01/2023;Trade payables;-166.6;Max;Garden Hose
+b_131;27/01/2023;Cost of merchandise, 19% input tax;16.9;Max;Shovel
+b_131;27/01/2023;Deductible input tax, 19%;3.21;Max;Shovel
+b_131;27/01/2023;Trade payables;-20.11;Max;Shovel
+b_276;27/01/2023;Cost of merchandise, 19% input tax;64.9;Bob;Leaf Blower
+b_276;27/01/2023;Deductible input tax, 19%;12.33;Bob;Leaf Blower
+b_276;27/01/2023;Trade payables;-77.23;Bob;Leaf Blower
+b_319;27/01/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_319;27/01/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_319;27/01/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_381;27/01/2023;Cost of merchandise, 19% input tax;16.06;Max;Rake
+b_381;27/01/2023;Deductible input tax, 19%;3.05;Max;Rake
+b_381;27/01/2023;Trade payables;-19.11;Max;Rake
+b_399;27/01/2023;Cost of merchandise, 19% input tax;60.9;David;Hedge Trimmer
+b_399;27/01/2023;Deductible input tax, 19%;11.57;David;Hedge Trimmer
+b_399;27/01/2023;Trade payables;-72.47;David;Hedge Trimmer
+b_445;27/01/2023;Trade payables;1.48;David;Gardening Gloves
+b_445;27/01/2023;Cash-in-hand;-1.48;David;Gardening Gloves
+c_290;27/01/2023;Trade receivables;509.75;Alice;Leaf Blower
+c_290;27/01/2023;Revenue, 19% VAT;-428.36;Alice;Leaf Blower
+c_290;27/01/2023;VAT payable, 19%;-81.39;Alice;Leaf Blower
+c_640;27/01/2023;Bank (Postbank) — main account;509.75;Alice;Leaf Blower
+c_640;27/01/2023;Trade receivables;-509.75;Alice;Leaf Blower
+c_643;27/01/2023;Bank (Postbank) — main account;382.31;Alice;Leaf Blower
+c_643;27/01/2023;Trade receivables;-382.31;Alice;Leaf Blower
+g_179;27/01/2023;Trade payables;1815.58;Fred;Wheelbarrow
+g_179;27/01/2023;Cash-in-hand;-1815.58;Fred;Wheelbarrow
+g_183;27/01/2023;Trade payables;1242.24;Charlie;Wheelbarrow
+g_183;27/01/2023;Cash-in-hand;-1242.24;Charlie;Wheelbarrow
+g_75;27/01/2023;Cost of merchandise, 19% input tax;373.6;Max;Lawn Mower
+g_75;27/01/2023;Deductible input tax, 19%;70.98;Max;Lawn Mower
+g_75;27/01/2023;Trade payables;-444.58;Max;Lawn Mower
+i_57;27/01/2023;Cash-in-hand;35.46;Fred;Garden Shears
+i_57;27/01/2023;Trade receivables;-35.46;Fred;Garden Shears
+i_7;27/01/2023;Trade receivables;35.46;Fred;Garden Shears
+i_7;27/01/2023;Revenue, 19% VAT;-29.8;Fred;Garden Shears
+i_7;27/01/2023;VAT payable, 19%;-5.66;Fred;Garden Shears
+a_423;30/01/2023;Cost of merchandise, 19% input tax;220.0;David;Garden Hose
+a_423;30/01/2023;Deductible input tax, 19%;41.8;David;Garden Hose
+a_423;30/01/2023;Trade payables;-261.8;David;Garden Hose
+a_582;30/01/2023;Trade payables;23.61;Max;Gardening Gloves
+a_582;30/01/2023;Bank (Postbank) — main account;-23.61;Max;Gardening Gloves
+a_602;30/01/2023;Trade payables;1081.23;David;Leaf Blower
+a_602;30/01/2023;Bank (Postbank) — main account;-1081.23;David;Leaf Blower
+a_789;30/01/2023;Trade payables;166.6;Max;Garden Hose
+a_789;30/01/2023;Bank (Postbank) — main account;-166.6;Max;Garden Hose
+a_923;30/01/2023;Trade payables;261.8;David;Garden Hose
+a_923;30/01/2023;Bank (Postbank) — main account;-261.8;David;Garden Hose
+a_934;30/01/2023;Trade payables;20.11;Bob;Shovel
+a_934;30/01/2023;Bank (Postbank) — main account;-20.11;Bob;Shovel
+b_204;30/01/2023;Cost of merchandise, 19% input tax;1.24;Bob;Gardening Gloves
+b_204;30/01/2023;Deductible input tax, 19%;0.24;Bob;Gardening Gloves
+b_204;30/01/2023;Trade payables;-1.48;Bob;Gardening Gloves
+b_264;30/01/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_264;30/01/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_264;30/01/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_781;30/01/2023;Trade payables;19.11;Max;Rake
+b_781;30/01/2023;Cash-in-hand;-19.11;Max;Rake
+c_141;30/01/2023;Trade receivables;39.27;Bob;Garden Hose
+c_141;30/01/2023;Revenue, 19% VAT;-33.0;Bob;Garden Hose
+c_141;30/01/2023;VAT payable, 19%;-6.27;Bob;Garden Hose
+c_410;30/01/2023;Bank (Postbank) — main account;19.64;Bob;Watering Can
+c_410;30/01/2023;Trade receivables;-19.64;Bob;Watering Can
+f_145;30/01/2023;Cost of merchandise, 19% input tax;48.18;Bob;Rake
+f_145;30/01/2023;Deductible input tax, 19%;9.15;Bob;Rake
+f_145;30/01/2023;Trade payables;-57.33;Bob;Rake
+f_280;30/01/2023;Trade payables;154.46;Bob;Leaf Blower
+f_280;30/01/2023;Bank (Postbank) — main account;-154.46;Bob;Leaf Blower
+g_131;30/01/2023;Cost of merchandise, 19% input tax;252.84;Max;Garden Shears
+g_131;30/01/2023;Deductible input tax, 19%;48.04;Max;Garden Shears
+g_131;30/01/2023;Trade payables;-300.88;Max;Garden Shears
+g_281;30/01/2023;Trade payables;300.88;Max;Garden Shears
+g_281;30/01/2023;Cash-in-hand;-300.88;Max;Garden Shears
+g_9;30/01/2023;Cost of merchandise, 19% input tax;1168.2;Fred;Leaf Blower
+g_9;30/01/2023;Deductible input tax, 19%;221.96;Fred;Leaf Blower
+g_9;30/01/2023;Trade payables;-1390.16;Fred;Leaf Blower
+a_115;31/01/2023;Cost of merchandise, 19% input tax;36.12;Bob;Garden Shears
+a_115;31/01/2023;Deductible input tax, 19%;6.86;Bob;Garden Shears
+a_115;31/01/2023;Trade payables;-42.98;Bob;Garden Shears
+a_809;31/01/2023;Trade payables;3556.67;David;Lawn Mower
+a_809;31/01/2023;Bank (Postbank) — main account;-3556.67;David;Lawn Mower
+b_104;31/01/2023;Cost of merchandise, 19% input tax;64.9;Alice;Leaf Blower
+b_104;31/01/2023;Deductible input tax, 19%;12.33;Alice;Leaf Blower
+b_104;31/01/2023;Trade payables;-77.23;Alice;Leaf Blower
+b_718;31/01/2023;Trade payables;11.9;Max;Watering Can
+b_718;31/01/2023;Cash-in-hand;-11.9;Max;Watering Can
+b_719;31/01/2023;Trade payables;222.29;Alice;Lawn Mower
+b_719;31/01/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+c_292;31/01/2023;Trade receivables;637.19;Alice;Leaf Blower
+c_292;31/01/2023;Revenue, 19% VAT;-535.45;Alice;Leaf Blower
+c_292;31/01/2023;VAT payable, 19%;-101.74;Alice;Leaf Blower
+c_661;31/01/2023;Bank (Postbank) — main account;165.89;David;Shovel
+c_661;31/01/2023;Trade receivables;-165.89;David;Shovel
+f_268;31/01/2023;Trade payables;1004.0;Bob;Leaf Blower
+f_268;31/01/2023;Bank (Postbank) — main account;-1004.0;Bob;Leaf Blower
+f_71;31/01/2023;Cost of merchandise, 19% input tax;18.06;David;Garden Shears
+f_71;31/01/2023;Deductible input tax, 19%;3.43;David;Garden Shears
+f_71;31/01/2023;Trade payables;-21.49;David;Garden Shears
+i_42;31/01/2023;Trade receivables;19.64;Bob;Watering Can
+i_42;31/01/2023;Revenue, 19% VAT;-16.5;Bob;Watering Can
+i_42;31/01/2023;VAT payable, 19%;-3.14;Bob;Watering Can
+a_217;01/02/2023;Cost of merchandise, 19% input tax;64.9;Max;Leaf Blower
+a_217;01/02/2023;Deductible input tax, 19%;12.33;Max;Leaf Blower
+a_217;01/02/2023;Trade payables;-77.23;Max;Leaf Blower
+a_626;01/02/2023;Trade payables;300.88;Alice;Garden Shears
+a_626;01/02/2023;Bank (Postbank) — main account;-300.88;Alice;Garden Shears
+a_673;01/02/2023;Trade payables;140.78;Bob;Shovel
+a_673;01/02/2023;Bank (Postbank) — main account;-140.78;Bob;Shovel
+a_68;01/02/2023;Cost of merchandise, 19% input tax;140.0;Max;Watering Can
+a_68;01/02/2023;Deductible input tax, 19%;26.6;Max;Watering Can
+a_68;01/02/2023;Trade payables;-166.6;Max;Watering Can
+b_203;01/02/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_203;01/02/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_203;01/02/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_531;01/02/2023;Trade payables;20.11;Max;Shovel
+b_531;01/02/2023;Cash-in-hand;-20.11;Max;Shovel
+b_676;01/02/2023;Trade payables;77.23;Bob;Leaf Blower
+b_676;01/02/2023;Cash-in-hand;-77.23;Bob;Leaf Blower
+c_274;01/02/2023;Trade receivables;788.32;Alice;Wheelbarrow
+c_274;01/02/2023;Revenue, 19% VAT;-662.45;Alice;Wheelbarrow
+c_274;01/02/2023;VAT payable, 19%;-125.87;Alice;Wheelbarrow
+f_80;01/02/2023;Cost of merchandise, 19% input tax;129.8;Bob;Leaf Blower
+f_80;01/02/2023;Deductible input tax, 19%;24.66;Bob;Leaf Blower
+f_80;01/02/2023;Trade payables;-154.46;Bob;Leaf Blower
+g_101;01/02/2023;Cost of merchandise, 19% input tax;2988.8;Charlie;Lawn Mower
+g_101;01/02/2023;Deductible input tax, 19%;567.87;Charlie;Lawn Mower
+g_101;01/02/2023;Trade payables;-3556.67;Charlie;Lawn Mower
+g_19;01/02/2023;Cost of merchandise, 19% input tax;300.0;Charlie;Garden Hose
+g_19;01/02/2023;Deductible input tax, 19%;57.0;Charlie;Garden Hose
+g_19;01/02/2023;Trade payables;-357.0;Charlie;Garden Hose
+h_156;01/02/2023;Bank (Postbank) — main account;4.88;Bob;Gardening Gloves
+h_156;01/02/2023;Trade receivables;-4.88;Bob;Gardening Gloves
+a_178;02/02/2023;Cost of merchandise, 19% input tax;365.4;David;Hedge Trimmer
+a_178;02/02/2023;Deductible input tax, 19%;69.43;David;Hedge Trimmer
+a_178;02/02/2023;Trade payables;-434.83;David;Hedge Trimmer
+a_653;02/02/2023;Trade payables;107.46;Max;Garden Shears
+a_653;02/02/2023;Bank (Postbank) — main account;-107.46;Max;Garden Shears
+a_839;02/02/2023;Trade payables;408.34;Alice;Garden Shears
+a_839;02/02/2023;Bank (Postbank) — main account;-408.34;Alice;Garden Shears
+b_129;02/02/2023;Cost of merchandise, 19% input tax;64.9;Alice;Leaf Blower
+b_129;02/02/2023;Deductible input tax, 19%;12.33;Alice;Leaf Blower
+b_129;02/02/2023;Trade payables;-77.23;Alice;Leaf Blower
+b_318;02/02/2023;Cost of merchandise, 19% input tax;10.0;Max;Watering Can
+b_318;02/02/2023;Deductible input tax, 19%;1.9;Max;Watering Can
+b_318;02/02/2023;Trade payables;-11.9;Max;Watering Can
+b_526;02/02/2023;Trade payables;20.11;David;Shovel
+b_526;02/02/2023;Cash-in-hand;-20.11;David;Shovel
+c_10;02/02/2023;Trade receivables;33.18;Bob;Shovel
+c_10;02/02/2023;Revenue, 19% VAT;-27.88;Bob;Shovel
+c_10;02/02/2023;VAT payable, 19%;-5.3;Bob;Shovel
+c_173;02/02/2023;Trade receivables;2.44;David;Gardening Gloves
+c_173;02/02/2023;Revenue, 19% VAT;-2.05;David;Gardening Gloves
+c_173;02/02/2023;VAT payable, 19%;-0.39;David;Gardening Gloves
+c_305;02/02/2023;Trade receivables;509.75;Bob;Leaf Blower
+c_305;02/02/2023;Revenue, 19% VAT;-428.36;Bob;Leaf Blower
+c_305;02/02/2023;VAT payable, 19%;-81.39;Bob;Leaf Blower
+c_642;02/02/2023;Bank (Postbank) — main account;637.19;Alice;Leaf Blower
+c_642;02/02/2023;Trade receivables;-637.19;Alice;Leaf Blower
+f_125;02/02/2023;Cost of merchandise, 19% input tax;110.0;Fred;Watering Can
+f_125;02/02/2023;Deductible input tax, 19%;20.9;Fred;Watering Can
+f_125;02/02/2023;Trade payables;-130.9;Fred;Watering Can
+g_225;02/02/2023;Trade payables;444.58;Max;Lawn Mower
+g_225;02/02/2023;Cash-in-hand;-444.58;Max;Lawn Mower
+g_62;02/02/2023;Cost of merchandise, 19% input tax;1525.7;Max;Wheelbarrow
+g_62;02/02/2023;Deductible input tax, 19%;289.88;Max;Wheelbarrow
+g_62;02/02/2023;Cash-in-hand;-1815.58;Max;Wheelbarrow
+g_88;02/02/2023;Cost of merchandise, 19% input tax;883.3;Max;Wheelbarrow
+g_88;02/02/2023;Deductible input tax, 19%;167.83;Max;Wheelbarrow
+g_88;02/02/2023;Trade payables;-1051.13;Max;Wheelbarrow
+x_26;02/02/2023;Salaries;2051.42;Alice;Salary Max February
+x_26;02/02/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Max February
+x_29;02/02/2023;Salaries;2051.42;Alice;Salary Alice February
+x_29;02/02/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Alice February
+x_32;02/02/2023;Salaries;2051.42;Alice;Salary Bob February
+x_32;02/02/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Bob February
+x_35;02/02/2023;Salaries;1880.65;Max;Salary Charlie February
+x_35;02/02/2023;Cash-in-hand;-1880.65;Max;Salary Charlie February
+x_38;02/02/2023;Salaries;1880.65;Alice;Salary David February
+x_38;02/02/2023;Bank (Postbank) — main account;-1880.65;Alice;Salary David February
+a_186;03/02/2023;Cost of merchandise, 19% input tax;1298.0;David;Leaf Blower
+a_186;03/02/2023;Deductible input tax, 19%;246.62;David;Leaf Blower
+a_186;03/02/2023;Trade payables;-1544.62;David;Leaf Blower
+a_372;03/02/2023;Cost of merchandise, 19% input tax;1298.0;Max;Leaf Blower
+a_372;03/02/2023;Deductible input tax, 19%;246.62;Max;Leaf Blower
+a_372;03/02/2023;Trade payables;-1544.62;Max;Leaf Blower
+a_453;03/02/2023;Cost of merchandise, 19% input tax;180.0;Max;Watering Can
+a_453;03/02/2023;Deductible input tax, 19%;34.2;Max;Watering Can
+a_453;03/02/2023;Trade payables;-214.2;Max;Watering Can
+a_484;03/02/2023;Cost of merchandise, 19% input tax;6.2;Max;Gardening Gloves
+a_484;03/02/2023;Deductible input tax, 19%;1.18;Max;Gardening Gloves
+a_484;03/02/2023;Trade payables;-7.38;Max;Gardening Gloves
+a_678;03/02/2023;Trade payables;434.83;David;Hedge Trimmer
+a_678;03/02/2023;Bank (Postbank) — main account;-434.83;David;Hedge Trimmer
+a_686;03/02/2023;Trade payables;1544.62;David;Leaf Blower
+a_686;03/02/2023;Bank (Postbank) — main account;-1544.62;David;Leaf Blower
+a_767;03/02/2023;Trade payables;19.18;Bob;Gardening Gloves
+a_767;03/02/2023;Bank (Postbank) — main account;-19.18;Bob;Gardening Gloves
+a_781;03/02/2023;Trade payables;1390.16;David;Leaf Blower
+a_781;03/02/2023;Bank (Postbank) — main account;-1390.16;David;Leaf Blower
+b_126;03/02/2023;Cost of merchandise, 19% input tax;16.9;David;Shovel
+b_126;03/02/2023;Deductible input tax, 19%;3.21;David;Shovel
+b_126;03/02/2023;Trade payables;-20.11;David;Shovel
+b_690;03/02/2023;Trade payables;1.48;David;Gardening Gloves
+b_690;03/02/2023;Cash-in-hand;-1.48;David;Gardening Gloves
+c_150;03/02/2023;Trade receivables;39.27;Bob;Garden Hose
+c_150;03/02/2023;Revenue, 19% VAT;-33.0;Bob;Garden Hose
+c_150;03/02/2023;VAT payable, 19%;-6.27;Bob;Garden Hose
+c_491;03/02/2023;Bank (Postbank) — main account;39.27;Bob;Garden Hose
+c_491;03/02/2023;Trade receivables;-39.27;Bob;Garden Hose
+c_655;03/02/2023;Bank (Postbank) — main account;509.75;Bob;Leaf Blower
+c_655;03/02/2023;Trade receivables;-509.75;Bob;Leaf Blower
+f_325;03/02/2023;Trade payables;130.9;Fred;Watering Can
+f_325;03/02/2023;Bank (Postbank) — main account;-130.9;Fred;Watering Can
+f_7;03/02/2023;Cost of merchandise, 19% input tax;50.7;Max;Shovel
+f_7;03/02/2023;Deductible input tax, 19%;9.63;Max;Shovel
+f_7;03/02/2023;Trade payables;-60.33;Max;Shovel
+g_104;03/02/2023;Cost of merchandise, 19% input tax;304.2;David;Shovel
+g_104;03/02/2023;Deductible input tax, 19%;57.8;David;Shovel
+g_104;03/02/2023;Trade payables;-362.0;David;Shovel
+h_62;03/02/2023;Trade receivables;478.28;Max;Hedge Trimmer
+h_62;03/02/2023;Revenue, 19% VAT;-401.92;Max;Hedge Trimmer
+h_62;03/02/2023;VAT payable, 19%;-76.36;Max;Hedge Trimmer
+x_41;03/02/2023;Rent — immovable property;22500.0;Alice;Rent February
+x_41;03/02/2023;Bank (Postbank) — main account;-22500.0;Alice;Rent February
+a_242;06/02/2023;Cost of merchandise, 19% input tax;321.2;Alice;Wheelbarrow
+a_242;06/02/2023;Deductible input tax, 19%;61.03;Alice;Wheelbarrow
+a_242;06/02/2023;Trade payables;-382.23;Alice;Wheelbarrow
+a_336;06/02/2023;Cost of merchandise, 19% input tax;160.0;David;Garden Hose
+a_336;06/02/2023;Deductible input tax, 19%;30.4;David;Garden Hose
+a_336;06/02/2023;Trade payables;-190.4;David;Garden Hose
+a_872;06/02/2023;Trade payables;1544.62;Max;Leaf Blower
+a_872;06/02/2023;Bank (Postbank) — main account;-1544.62;Max;Leaf Blower
+a_953;06/02/2023;Trade payables;214.2;Max;Watering Can
+a_953;06/02/2023;Bank (Postbank) — main account;-214.2;Max;Watering Can
+a_981;06/02/2023;Trade payables;4445.84;Bob;Lawn Mower
+a_981;06/02/2023;Bank (Postbank) — main account;-4445.84;Bob;Lawn Mower
+b_1;06/02/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_1;06/02/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_1;06/02/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_107;06/02/2023;Cost of merchandise, 19% input tax;60.9;Alice;Hedge Trimmer
+b_107;06/02/2023;Deductible input tax, 19%;11.57;Alice;Hedge Trimmer
+b_107;06/02/2023;Trade payables;-72.47;Alice;Hedge Trimmer
+b_110;06/02/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_110;06/02/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_110;06/02/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_127;06/02/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_127;06/02/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_127;06/02/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_326;06/02/2023;Cost of merchandise, 19% input tax;80.3;David;Wheelbarrow
+b_326;06/02/2023;Deductible input tax, 19%;15.26;David;Wheelbarrow
+b_326;06/02/2023;Trade payables;-95.56;David;Wheelbarrow
+b_401;06/02/2023;Trade payables;222.29;Alice;Lawn Mower
+b_401;06/02/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+b_504;06/02/2023;Trade payables;77.23;Alice;Leaf Blower
+b_504;06/02/2023;Cash-in-hand;-77.23;Alice;Leaf Blower
+c_360;06/02/2023;Bank (Postbank) — main account;33.18;Bob;Shovel
+c_360;06/02/2023;Trade receivables;-33.18;Bob;Shovel
+f_207;06/02/2023;Trade payables;60.33;Max;Shovel
+f_207;06/02/2023;Bank (Postbank) — main account;-60.33;Max;Shovel
+f_256;06/02/2023;Trade payables;869.65;Bob;Hedge Trimmer
+f_256;06/02/2023;Bank (Postbank) — main account;-869.65;Bob;Hedge Trimmer
+h_158;06/02/2023;Bank (Postbank) — main account;382.31;Charlie;Leaf Blower
+h_158;06/02/2023;Trade receivables;-382.31;Charlie;Leaf Blower
+h_197;06/02/2023;Bank (Postbank) — main account;366.78;Fred;Lawn Mower
+h_197;06/02/2023;Trade receivables;-366.78;Fred;Lawn Mower
+h_20;06/02/2023;Trade receivables;9.76;Fred;Gardening Gloves
+h_20;06/02/2023;Revenue, 19% VAT;-8.2;Fred;Gardening Gloves
+h_20;06/02/2023;VAT payable, 19%;-1.56;Fred;Gardening Gloves
+h_88;06/02/2023;Trade receivables;177.31;Bob;Garden Shears
+h_88;06/02/2023;Revenue, 19% VAT;-149.0;Bob;Garden Shears
+h_88;06/02/2023;VAT payable, 19%;-28.31;Bob;Garden Shears
+x_42;06/02/2023;Gas, electricity, water;1613.49;Alice;Utilities February
+x_42;06/02/2023;Deductible input tax, 19%;306.56;Alice;Utilities February
+x_42;06/02/2023;Bank (Postbank) — main account;-1920.05;Alice;Utilities February
+a_615;07/02/2023;Trade payables;42.98;Bob;Garden Shears
+a_615;07/02/2023;Bank (Postbank) — main account;-42.98;Bob;Garden Shears
+a_984;07/02/2023;Trade payables;7.38;Max;Gardening Gloves
+a_984;07/02/2023;Bank (Postbank) — main account;-7.38;Max;Gardening Gloves
+b_155;07/02/2023;Cost of merchandise, 19% input tax;20.0;Alice;Garden Hose
+b_155;07/02/2023;Deductible input tax, 19%;3.8;Alice;Garden Hose
+b_155;07/02/2023;Trade payables;-23.8;Alice;Garden Hose
+b_357;07/02/2023;Cost of merchandise, 19% input tax;10.0;Max;Watering Can
+b_357;07/02/2023;Deductible input tax, 19%;1.9;Max;Watering Can
+b_357;07/02/2023;Trade payables;-11.9;Max;Watering Can
+b_555;07/02/2023;Trade payables;23.8;Alice;Garden Hose
+b_555;07/02/2023;Cash-in-hand;-23.8;Alice;Garden Hose
+c_209;07/02/2023;Trade receivables;597.86;Bob;Hedge Trimmer
+c_209;07/02/2023;Revenue, 19% VAT;-502.4;Bob;Hedge Trimmer
+c_209;07/02/2023;VAT payable, 19%;-95.46;Bob;Hedge Trimmer
+c_559;07/02/2023;Bank (Postbank) — main account;597.86;Bob;Hedge Trimmer
+c_559;07/02/2023;Trade receivables;-597.86;Bob;Hedge Trimmer
+c_624;07/02/2023;Bank (Postbank) — main account;788.32;Alice;Wheelbarrow
+c_624;07/02/2023;Trade receivables;-788.32;Alice;Wheelbarrow
+f_44;07/02/2023;Cost of merchandise, 19% input tax;2428.4;Bob;Lawn Mower
+f_44;07/02/2023;Deductible input tax, 19%;461.4;Bob;Lawn Mower
+f_44;07/02/2023;Trade payables;-2889.8;Bob;Lawn Mower
+g_169;07/02/2023;Trade payables;357.0;Charlie;Garden Hose
+g_169;07/02/2023;Cash-in-hand;-357.0;Charlie;Garden Hose
+h_188;07/02/2023;Bank (Postbank) — main account;177.31;Bob;Garden Shears
+h_188;07/02/2023;Trade receivables;-177.31;Bob;Garden Shears
+x_43;07/02/2023;Cleaning;568.08;Alice;Cleaning February
+x_43;07/02/2023;Deductible input tax, 19%;107.94;Alice;Cleaning February
+x_43;07/02/2023;Bank (Postbank) — main account;-676.02;Alice;Cleaning February
+a_269;08/02/2023;Cost of merchandise, 19% input tax;270.4;Alice;Shovel
+a_269;08/02/2023;Deductible input tax, 19%;51.38;Alice;Shovel
+a_269;08/02/2023;Trade payables;-321.78;Alice;Shovel
+a_342;08/02/2023;Cost of merchandise, 19% input tax;20.0;Bob;Watering Can
+a_342;08/02/2023;Deductible input tax, 19%;3.8;Bob;Watering Can
+a_342;08/02/2023;Trade payables;-23.8;Bob;Watering Can
+a_444;08/02/2023;Cost of merchandise, 19% input tax;129.8;David;Leaf Blower
+a_444;08/02/2023;Deductible input tax, 19%;24.66;David;Leaf Blower
+a_444;08/02/2023;Trade payables;-154.46;David;Leaf Blower
+a_481;08/02/2023;Cost of merchandise, 19% input tax;3736.0;Bob;Lawn Mower
+a_481;08/02/2023;Deductible input tax, 19%;709.84;Bob;Lawn Mower
+a_481;08/02/2023;Trade payables;-4445.84;Bob;Lawn Mower
+a_568;08/02/2023;Trade payables;166.6;Max;Watering Can
+a_568;08/02/2023;Bank (Postbank) — main account;-166.6;Max;Watering Can
+b_529;08/02/2023;Trade payables;77.23;Alice;Leaf Blower
+b_529;08/02/2023;Cash-in-hand;-77.23;Alice;Leaf Blower
+b_604;08/02/2023;Trade payables;1.48;Bob;Gardening Gloves
+b_604;08/02/2023;Cash-in-hand;-1.48;Bob;Gardening Gloves
+b_726;08/02/2023;Trade payables;95.56;David;Wheelbarrow
+b_726;08/02/2023;Cash-in-hand;-95.56;David;Wheelbarrow
+b_92;08/02/2023;Cost of merchandise, 19% input tax;16.9;Bob;Shovel
+b_92;08/02/2023;Deductible input tax, 19%;3.21;Bob;Shovel
+b_92;08/02/2023;Trade payables;-20.11;Bob;Shovel
+c_500;08/02/2023;Bank (Postbank) — main account;39.27;Bob;Garden Hose
+c_500;08/02/2023;Trade receivables;-39.27;Bob;Garden Hose
+c_523;08/02/2023;Bank (Postbank) — main account;2.44;David;Gardening Gloves
+c_523;08/02/2023;Trade receivables;-2.44;David;Gardening Gloves
+g_13;08/02/2023;Cost of merchandise, 19% input tax;1.24;Bob;Gardening Gloves
+g_13;08/02/2023;Deductible input tax, 19%;0.24;Bob;Gardening Gloves
+g_13;08/02/2023;Trade payables;-1.48;Bob;Gardening Gloves
+g_16;08/02/2023;Cost of merchandise, 19% input tax;180.0;Fred;Garden Hose
+g_16;08/02/2023;Deductible input tax, 19%;34.2;Fred;Garden Hose
+g_16;08/02/2023;Trade payables;-214.2;Fred;Garden Hose
+g_192;08/02/2023;Trade payables;57.33;Charlie;Rake
+g_192;08/02/2023;Cash-in-hand;-57.33;Charlie;Rake
+g_212;08/02/2023;Trade payables;1815.58;Fred;Wheelbarrow
+g_212;08/02/2023;Cash-in-hand;-1815.58;Fred;Wheelbarrow
+g_238;08/02/2023;Trade payables;1051.13;Max;Wheelbarrow
+g_238;08/02/2023;Cash-in-hand;-1051.13;Max;Wheelbarrow
+g_58;08/02/2023;Cost of merchandise, 19% input tax;519.2;Bob;Leaf Blower
+g_58;08/02/2023;Deductible input tax, 19%;98.65;Bob;Leaf Blower
+g_58;08/02/2023;Trade payables;-617.85;Bob;Leaf Blower
+g_97;08/02/2023;Cost of merchandise, 19% input tax;361.2;Bob;Garden Shears
+g_97;08/02/2023;Deductible input tax, 19%;68.63;Bob;Garden Shears
+g_97;08/02/2023;Trade payables;-429.83;Bob;Garden Shears
+h_162;08/02/2023;Bank (Postbank) — main account;478.28;Max;Hedge Trimmer
+h_162;08/02/2023;Trade receivables;-478.28;Max;Hedge Trimmer
+h_97;08/02/2023;Trade receivables;366.78;Fred;Lawn Mower
+h_97;08/02/2023;Revenue, 19% VAT;-308.22;Fred;Lawn Mower
+h_97;08/02/2023;VAT payable, 19%;-58.56;Fred;Lawn Mower
+b_184;09/02/2023;Cost of merchandise, 19% input tax;64.9;Bob;Leaf Blower
+b_184;09/02/2023;Deductible input tax, 19%;12.33;Bob;Leaf Blower
+b_184;09/02/2023;Trade payables;-77.23;Bob;Leaf Blower
+b_507;09/02/2023;Trade payables;72.47;Alice;Hedge Trimmer
+b_507;09/02/2023;Cash-in-hand;-72.47;Alice;Hedge Trimmer
+b_664;09/02/2023;Trade payables;222.29;Alice;Lawn Mower
+b_664;09/02/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+c_128;09/02/2023;Trade receivables;127.44;Bob;Leaf Blower
+c_128;09/02/2023;Revenue, 19% VAT;-107.09;Bob;Leaf Blower
+c_128;09/02/2023;VAT payable, 19%;-20.35;Bob;Leaf Blower
+c_9;09/02/2023;Trade receivables;366.78;Max;Lawn Mower
+c_9;09/02/2023;Revenue, 19% VAT;-308.22;Max;Lawn Mower
+c_9;09/02/2023;VAT payable, 19%;-58.56;Max;Lawn Mower
+f_130;09/02/2023;Cost of merchandise, 19% input tax;747.2;Charlie;Lawn Mower
+f_130;09/02/2023;Deductible input tax, 19%;141.97;Charlie;Lawn Mower
+f_130;09/02/2023;Trade payables;-889.17;Charlie;Lawn Mower
+f_163;09/02/2023;Cost of merchandise, 19% input tax;162.54;Charlie;Garden Shears
+f_163;09/02/2023;Deductible input tax, 19%;30.88;Charlie;Garden Shears
+f_163;09/02/2023;Trade payables;-193.42;Charlie;Garden Shears
+f_276;09/02/2023;Trade payables;507.3;Fred;Hedge Trimmer
+f_276;09/02/2023;Bank (Postbank) — main account;-507.3;Fred;Hedge Trimmer
+g_189;09/02/2023;Trade payables;20.66;Fred;Gardening Gloves
+g_189;09/02/2023;Cash-in-hand;-20.66;Fred;Gardening Gloves
+g_208;09/02/2023;Trade payables;617.85;Bob;Leaf Blower
+g_208;09/02/2023;Cash-in-hand;-617.85;Bob;Leaf Blower
+g_42;09/02/2023;Cost of merchandise, 19% input tax;48.18;Charlie;Rake
+g_42;09/02/2023;Deductible input tax, 19%;9.15;Charlie;Rake
+g_42;09/02/2023;Trade payables;-57.33;Charlie;Rake
+h_58;09/02/2023;Trade receivables;382.31;Charlie;Leaf Blower
+h_58;09/02/2023;Revenue, 19% VAT;-321.27;Charlie;Leaf Blower
+h_58;09/02/2023;VAT payable, 19%;-61.04;Charlie;Leaf Blower
+a_717;10/02/2023;Trade payables;77.23;Max;Leaf Blower
+a_717;10/02/2023;Bank (Postbank) — main account;-77.23;Max;Leaf Blower
+a_742;10/02/2023;Trade payables;382.23;Alice;Wheelbarrow
+a_742;10/02/2023;Bank (Postbank) — main account;-382.23;Alice;Wheelbarrow
+a_842;10/02/2023;Trade payables;23.8;Bob;Watering Can
+a_842;10/02/2023;Bank (Postbank) — main account;-23.8;Bob;Watering Can
+b_11;10/02/2023;Cost of merchandise, 19% input tax;60.9;Alice;Hedge Trimmer
+b_11;10/02/2023;Deductible input tax, 19%;11.57;Alice;Hedge Trimmer
+b_11;10/02/2023;Trade payables;-72.47;Alice;Hedge Trimmer
+b_603;10/02/2023;Trade payables;222.29;Alice;Lawn Mower
+b_603;10/02/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+c_478;10/02/2023;Bank (Postbank) — main account;127.44;Bob;Leaf Blower
+c_478;10/02/2023;Trade receivables;-127.44;Bob;Leaf Blower
+f_345;10/02/2023;Trade payables;57.33;Bob;Rake
+f_345;10/02/2023;Bank (Postbank) — main account;-57.33;Bob;Rake
+g_251;10/02/2023;Trade payables;3556.67;Max;Lawn Mower
+g_251;10/02/2023;Cash-in-hand;-3556.67;Max;Lawn Mower
+x_27;10/02/2023;Salaries;317.08;Alice;Wage tax Max February
+x_27;10/02/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Max February
+x_30;10/02/2023;Salaries;317.08;Alice;Wage tax Alice February
+x_30;10/02/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Alice February
+x_33;10/02/2023;Salaries;317.08;Alice;Wage tax Bob February
+x_33;10/02/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Bob February
+x_36;10/02/2023;Salaries;251.0;Alice;Wage tax Charlie February
+x_36;10/02/2023;Bank (Postbank) — main account;-251.0;Alice;Wage tax Charlie February
+x_39;10/02/2023;Salaries;251.0;Alice;Wage tax David February
+x_39;10/02/2023;Bank (Postbank) — main account;-251.0;Alice;Wage tax David February
+a_322;13/02/2023;Cost of merchandise, 19% input tax;240.0;Fred;Garden Hose
+a_322;13/02/2023;Deductible input tax, 19%;45.6;Fred;Garden Hose
+a_322;13/02/2023;Trade payables;-285.6;Fred;Garden Hose
+a_701;13/02/2023;Trade payables;107.1;Bob;Watering Can
+a_701;13/02/2023;Bank (Postbank) — main account;-107.1;Bob;Watering Can
+a_948;13/02/2023;Trade payables;57.33;Bob;Rake
+a_948;13/02/2023;Bank (Postbank) — main account;-57.33;Bob;Rake
+c_202;13/02/2023;Trade receivables;12.2;Alice;Gardening Gloves
+c_202;13/02/2023;Revenue, 19% VAT;-10.25;Alice;Gardening Gloves
+c_202;13/02/2023;VAT payable, 19%;-1.95;Alice;Gardening Gloves
+c_95;13/02/2023;Trade receivables;35.46;Max;Garden Shears
+c_95;13/02/2023;Revenue, 19% VAT;-29.8;Max;Garden Shears
+c_95;13/02/2023;VAT payable, 19%;-5.66;Max;Garden Shears
+f_216;13/02/2023;Trade payables;4445.84;Max;Lawn Mower
+f_216;13/02/2023;Bank (Postbank) — main account;-4445.84;Max;Lawn Mower
+f_363;13/02/2023;Trade payables;193.42;Charlie;Garden Shears
+f_363;13/02/2023;Bank (Postbank) — main account;-193.42;Charlie;Garden Shears
+g_95;13/02/2023;Cost of merchandise, 19% input tax;200.0;Charlie;Garden Hose
+g_95;13/02/2023;Deductible input tax, 19%;38.0;Charlie;Garden Hose
+g_95;13/02/2023;Trade payables;-238.0;Charlie;Garden Hose
+x_44;13/02/2023;Maintenance of operating premises;900.0;Alice;Maintenance February
+x_44;13/02/2023;Deductible input tax, 19%;171.0;Alice;Maintenance February
+x_44;13/02/2023;Bank (Postbank) — main account;-1071.0;Alice;Maintenance February
+a_169;14/02/2023;Cost of merchandise, 19% input tax;200.0;Bob;Watering Can
+a_169;14/02/2023;Deductible input tax, 19%;38.0;Bob;Watering Can
+a_169;14/02/2023;Trade payables;-238.0;Bob;Watering Can
+a_227;14/02/2023;Cost of merchandise, 19% input tax;609.0;Alice;Hedge Trimmer
+a_227;14/02/2023;Deductible input tax, 19%;115.71;Alice;Hedge Trimmer
+a_227;14/02/2023;Trade payables;-724.71;Alice;Hedge Trimmer
+a_47;14/02/2023;Cost of merchandise, 19% input tax;121.8;Max;Hedge Trimmer
+a_47;14/02/2023;Deductible input tax, 19%;23.14;Max;Hedge Trimmer
+a_47;14/02/2023;Trade payables;-144.94;Max;Hedge Trimmer
+a_474;14/02/2023;Cost of merchandise, 19% input tax;1168.2;Bob;Leaf Blower
+a_474;14/02/2023;Deductible input tax, 19%;221.96;Bob;Leaf Blower
+a_474;14/02/2023;Trade payables;-1390.16;Bob;Leaf Blower
+a_909;14/02/2023;Trade payables;238.0;Alice;Watering Can
+a_909;14/02/2023;Bank (Postbank) — main account;-238.0;Alice;Watering Can
+a_944;14/02/2023;Trade payables;154.46;David;Leaf Blower
+a_944;14/02/2023;Bank (Postbank) — main account;-154.46;David;Leaf Blower
+a_974;14/02/2023;Trade payables;1390.16;Bob;Leaf Blower
+a_974;14/02/2023;Bank (Postbank) — main account;-1390.16;Bob;Leaf Blower
+b_584;14/02/2023;Trade payables;77.23;Bob;Leaf Blower
+b_584;14/02/2023;Cash-in-hand;-77.23;Bob;Leaf Blower
+c_163;14/02/2023;Trade receivables;127.44;David;Leaf Blower
+c_163;14/02/2023;Revenue, 19% VAT;-107.09;David;Leaf Blower
+c_163;14/02/2023;VAT payable, 19%;-20.35;David;Leaf Blower
+c_359;14/02/2023;Bank (Postbank) — main account;366.78;Max;Lawn Mower
+c_359;14/02/2023;Trade receivables;-366.78;Max;Lawn Mower
+f_244;14/02/2023;Trade payables;2889.8;Bob;Lawn Mower
+f_244;14/02/2023;Bank (Postbank) — main account;-2889.8;Bob;Lawn Mower
+f_349;14/02/2023;Trade payables;77.23;Bob;Leaf Blower
+f_349;14/02/2023;Bank (Postbank) — main account;-77.23;Bob;Leaf Blower
+g_163;14/02/2023;Trade payables;1.48;Bob;Gardening Gloves
+g_163;14/02/2023;Cash-in-hand;-1.48;Bob;Gardening Gloves
+a_204;15/02/2023;Cost of merchandise, 19% input tax;200.0;Max;Garden Hose
+a_204;15/02/2023;Deductible input tax, 19%;38.0;Max;Garden Hose
+a_204;15/02/2023;Trade payables;-238.0;Max;Garden Hose
+a_311;15/02/2023;Cost of merchandise, 19% input tax;1365.1;Max;Wheelbarrow
+a_311;15/02/2023;Deductible input tax, 19%;259.37;Max;Wheelbarrow
+a_311;15/02/2023;Trade payables;-1624.47;Max;Wheelbarrow
+a_378;15/02/2023;Cost of merchandise, 19% input tax;1284.8;Bob;Wheelbarrow
+a_378;15/02/2023;Deductible input tax, 19%;244.11;Bob;Wheelbarrow
+a_378;15/02/2023;Trade payables;-1528.91;Bob;Wheelbarrow
+a_384;15/02/2023;Cost of merchandise, 19% input tax;584.1;Max;Leaf Blower
+a_384;15/02/2023;Deductible input tax, 19%;110.98;Max;Leaf Blower
+a_384;15/02/2023;Trade payables;-695.08;Max;Leaf Blower
+a_409;15/02/2023;Cost of merchandise, 19% input tax;200.0;Alice;Watering Can
+a_409;15/02/2023;Deductible input tax, 19%;38.0;Alice;Watering Can
+a_409;15/02/2023;Trade payables;-238.0;Alice;Watering Can
+a_769;15/02/2023;Trade payables;321.78;Alice;Shovel
+a_769;15/02/2023;Bank (Postbank) — main account;-321.78;Alice;Shovel
+b_373;15/02/2023;Cost of merchandise, 19% input tax;20.0;Alice;Garden Hose
+b_373;15/02/2023;Deductible input tax, 19%;3.8;Alice;Garden Hose
+b_373;15/02/2023;Trade payables;-23.8;Alice;Garden Hose
+b_492;15/02/2023;Trade payables;20.11;Bob;Shovel
+b_492;15/02/2023;Cash-in-hand;-20.11;Bob;Shovel
+b_757;15/02/2023;Trade payables;11.9;Max;Watering Can
+b_757;15/02/2023;Cash-in-hand;-11.9;Max;Watering Can
+c_11;15/02/2023;Trade receivables;19.64;Bob;Watering Can
+c_11;15/02/2023;Revenue, 19% VAT;-16.5;Bob;Watering Can
+c_11;15/02/2023;VAT payable, 19%;-3.14;Bob;Watering Can
+c_126;15/02/2023;Trade receivables;19.64;David;Watering Can
+c_126;15/02/2023;Revenue, 19% VAT;-16.5;David;Watering Can
+c_126;15/02/2023;VAT payable, 19%;-3.14;David;Watering Can
+c_445;15/02/2023;Bank (Postbank) — main account;35.46;Max;Garden Shears
+c_445;15/02/2023;Trade receivables;-35.46;Max;Garden Shears
+f_79;15/02/2023;Cost of merchandise, 19% input tax;325.08;Charlie;Garden Shears
+f_79;15/02/2023;Deductible input tax, 19%;61.77;Charlie;Garden Shears
+f_79;15/02/2023;Trade payables;-386.85;Charlie;Garden Shears
+g_166;15/02/2023;Trade payables;214.2;Fred;Garden Hose
+g_166;15/02/2023;Cash-in-hand;-214.2;Fred;Garden Hose
+h_16;15/02/2023;Trade receivables;127.44;Fred;Leaf Blower
+h_16;15/02/2023;Revenue, 19% VAT;-107.09;Fred;Leaf Blower
+h_16;15/02/2023;VAT payable, 19%;-20.35;Fred;Leaf Blower
+x_28;15/02/2023;Wages and salaries;631.5;Alice;Social security Max February
+x_28;15/02/2023;Statutory social security expenses;613.5;Alice;Social security Max February
+x_28;15/02/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Max February
+x_31;15/02/2023;Wages and salaries;631.5;Alice;Social security Alice February
+x_31;15/02/2023;Statutory social security expenses;613.5;Alice;Social security Alice February
+x_31;15/02/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Alice February
+x_34;15/02/2023;Wages and salaries;631.5;Alice;Social security Bob February
+x_34;15/02/2023;Statutory social security expenses;613.5;Alice;Social security Bob February
+x_34;15/02/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Bob February
+x_37;15/02/2023;Wages and salaries;568.35;Alice;Social security Charlie February
+x_37;15/02/2023;Statutory social security expenses;552.15;Alice;Social security Charlie February
+x_37;15/02/2023;Bank (Postbank) — main account;-1120.5;Alice;Social security Charlie February
+x_40;15/02/2023;Wages and salaries;568.35;Alice;Social security David February
+x_40;15/02/2023;Statutory social security expenses;552.15;Alice;Social security David February
+x_40;15/02/2023;Bank (Postbank) — main account;-1120.5;Alice;Social security David February
+a_215;16/02/2023;Cost of merchandise, 19% input tax;130.0;Alice;Watering Can
+a_215;16/02/2023;Deductible input tax, 19%;24.7;Alice;Watering Can
+a_215;16/02/2023;Trade payables;-154.7;Alice;Watering Can
+a_333;16/02/2023;Cost of merchandise, 19% input tax;713.9;Alice;Leaf Blower
+a_333;16/02/2023;Deductible input tax, 19%;135.64;Alice;Leaf Blower
+a_333;16/02/2023;Trade payables;-849.54;Alice;Leaf Blower
+a_412;16/02/2023;Cost of merchandise, 19% input tax;129.8;David;Leaf Blower
+a_412;16/02/2023;Deductible input tax, 19%;24.66;David;Leaf Blower
+a_412;16/02/2023;Trade payables;-154.46;David;Leaf Blower
+b_411;16/02/2023;Trade payables;72.47;Alice;Hedge Trimmer
+b_411;16/02/2023;Cash-in-hand;-72.47;Alice;Hedge Trimmer
+b_773;16/02/2023;Trade payables;23.8;Alice;Garden Hose
+b_773;16/02/2023;Cash-in-hand;-23.8;Alice;Garden Hose
+c_476;16/02/2023;Bank (Postbank) — main account;19.64;David;Watering Can
+c_476;16/02/2023;Trade receivables;-19.64;David;Watering Can
+f_103;16/02/2023;Cost of merchandise, 19% input tax;487.2;Charlie;Hedge Trimmer
+f_103;16/02/2023;Deductible input tax, 19%;92.57;Charlie;Hedge Trimmer
+f_103;16/02/2023;Trade payables;-579.77;Charlie;Hedge Trimmer
+i_28;16/02/2023;Trade receivables;19.64;Charlie;Watering Can
+i_28;16/02/2023;Revenue, 19% VAT;-16.5;Charlie;Watering Can
+i_28;16/02/2023;VAT payable, 19%;-3.14;Charlie;Watering Can
+a_201;17/02/2023;Cost of merchandise, 19% input tax;90.0;Bob;Watering Can
+a_201;17/02/2023;Deductible input tax, 19%;17.1;Bob;Watering Can
+a_201;17/02/2023;Trade payables;-107.1;Bob;Watering Can
+a_264;17/02/2023;Cost of merchandise, 19% input tax;108.36;Alice;Garden Shears
+a_264;17/02/2023;Deductible input tax, 19%;20.59;Alice;Garden Shears
+a_264;17/02/2023;Trade payables;-128.95;Alice;Garden Shears
+a_448;17/02/2023;Cost of merchandise, 19% input tax;48.18;Bob;Rake
+a_448;17/02/2023;Deductible input tax, 19%;9.15;Bob;Rake
+a_448;17/02/2023;Trade payables;-57.33;Bob;Rake
+a_811;17/02/2023;Trade payables;1624.47;Max;Wheelbarrow
+a_811;17/02/2023;Bank (Postbank) — main account;-1624.47;Max;Wheelbarrow
+a_836;17/02/2023;Trade payables;190.4;David;Garden Hose
+a_836;17/02/2023;Bank (Postbank) — main account;-190.4;David;Garden Hose
+b_143;17/02/2023;Cost of merchandise, 19% input tax;10.0;David;Watering Can
+b_143;17/02/2023;Deductible input tax, 19%;1.9;David;Watering Can
+b_143;17/02/2023;Trade payables;-11.9;David;Watering Can
+b_510;17/02/2023;Trade payables;222.29;Alice;Lawn Mower
+b_510;17/02/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+b_527;17/02/2023;Trade payables;222.29;Alice;Lawn Mower
+b_527;17/02/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+f_16;17/02/2023;Cost of merchandise, 19% input tax;3736.0;Max;Lawn Mower
+f_16;17/02/2023;Deductible input tax, 19%;709.84;Max;Lawn Mower
+f_16;17/02/2023;Trade payables;-4445.84;Max;Lawn Mower
+g_191;17/02/2023;Trade payables;429.83;Fred;Garden Shears
+g_191;17/02/2023;Cash-in-hand;-429.83;Fred;Garden Shears
+h_116;17/02/2023;Bank (Postbank) — main account;127.44;Fred;Leaf Blower
+h_116;17/02/2023;Trade receivables;-127.44;Fred;Leaf Blower
+h_120;17/02/2023;Bank (Postbank) — main account;9.76;Fred;Gardening Gloves
+h_120;17/02/2023;Trade receivables;-9.76;Fred;Gardening Gloves
+i_13;17/02/2023;Trade receivables;2.44;Fred;Gardening Gloves
+i_13;17/02/2023;Revenue, 19% VAT;-2.05;Fred;Gardening Gloves
+i_13;17/02/2023;VAT payable, 19%;-0.39;Fred;Gardening Gloves
+i_78;17/02/2023;Cash-in-hand;19.64;Charlie;Watering Can
+i_78;17/02/2023;Trade receivables;-19.64;Charlie;Watering Can
+a_156;20/02/2023;Cost of merchandise, 19% input tax;1494.4;Max;Lawn Mower
+a_156;20/02/2023;Deductible input tax, 19%;283.94;Max;Lawn Mower
+a_156;20/02/2023;Trade payables;-1778.34;Max;Lawn Mower
+a_24;20/02/2023;Cost of merchandise, 19% input tax;9.92;David;Gardening Gloves
+a_24;20/02/2023;Deductible input tax, 19%;1.88;David;Gardening Gloves
+a_24;20/02/2023;Trade payables;-11.8;David;Gardening Gloves
+a_524;20/02/2023;Trade payables;11.8;David;Gardening Gloves
+a_524;20/02/2023;Bank (Postbank) — main account;-11.8;David;Gardening Gloves
+a_704;20/02/2023;Trade payables;238.0;Max;Garden Hose
+a_704;20/02/2023;Bank (Postbank) — main account;-238.0;Max;Garden Hose
+a_764;20/02/2023;Trade payables;128.95;Alice;Garden Shears
+a_764;20/02/2023;Bank (Postbank) — main account;-128.95;Alice;Garden Shears
+a_96;20/02/2023;Cost of merchandise, 19% input tax;1.24;Max;Gardening Gloves
+a_96;20/02/2023;Deductible input tax, 19%;0.24;Max;Gardening Gloves
+a_96;20/02/2023;Trade payables;-1.48;Max;Gardening Gloves
+b_114;20/02/2023;Cost of merchandise, 19% input tax;20.0;Max;Garden Hose
+b_114;20/02/2023;Deductible input tax, 19%;3.8;Max;Garden Hose
+b_114;20/02/2023;Trade payables;-23.8;Max;Garden Hose
+b_133;20/02/2023;Cost of merchandise, 19% input tax;186.8;Max;Lawn Mower
+b_133;20/02/2023;Deductible input tax, 19%;35.49;Max;Lawn Mower
+b_133;20/02/2023;Trade payables;-222.29;Max;Lawn Mower
+b_39;20/02/2023;Cost of merchandise, 19% input tax;20.0;Bob;Garden Hose
+b_39;20/02/2023;Deductible input tax, 19%;3.8;Bob;Garden Hose
+b_39;20/02/2023;Trade payables;-23.8;Bob;Garden Hose
+b_533;20/02/2023;Trade payables;222.29;Max;Lawn Mower
+b_533;20/02/2023;Cash-in-hand;-222.29;Max;Lawn Mower
+b_688;20/02/2023;Trade payables;95.56;Max;Wheelbarrow
+b_688;20/02/2023;Cash-in-hand;-95.56;Max;Wheelbarrow
+b_775;20/02/2023;Trade payables;222.29;David;Lawn Mower
+b_775;20/02/2023;Cash-in-hand;-222.29;David;Lawn Mower
+c_206;20/02/2023;Trade receivables;98.18;Max;Watering Can
+c_206;20/02/2023;Revenue, 19% VAT;-82.5;Max;Watering Can
+c_206;20/02/2023;VAT payable, 19%;-15.68;Max;Watering Can
+c_30;20/02/2023;Trade receivables;39.27;David;Garden Hose
+c_30;20/02/2023;Revenue, 19% VAT;-33.0;David;Garden Hose
+c_30;20/02/2023;VAT payable, 19%;-6.27;David;Garden Hose
+c_316;20/02/2023;Trade receivables;98.18;Bob;Watering Can
+c_316;20/02/2023;Revenue, 19% VAT;-82.5;Bob;Watering Can
+c_316;20/02/2023;VAT payable, 19%;-15.68;Bob;Watering Can
+c_416;20/02/2023;Bank (Postbank) — main account;2.44;David;Gardening Gloves
+c_416;20/02/2023;Trade receivables;-2.44;David;Gardening Gloves
+g_2;20/02/2023;Cost of merchandise, 19% input tax;1284.8;Charlie;Wheelbarrow
+g_2;20/02/2023;Deductible input tax, 19%;244.11;Charlie;Wheelbarrow
+g_2;20/02/2023;Trade payables;-1528.91;Charlie;Wheelbarrow
+g_245;20/02/2023;Trade payables;238.0;Charlie;Garden Hose
+g_245;20/02/2023;Cash-in-hand;-238.0;Charlie;Garden Hose
+g_247;20/02/2023;Trade payables;429.83;Bob;Garden Shears
+g_247;20/02/2023;Cash-in-hand;-429.83;Bob;Garden Shears
+i_38;20/02/2023;Trade receivables;31.54;Fred;Rake
+i_38;20/02/2023;Revenue, 19% VAT;-26.5;Fred;Rake
+i_38;20/02/2023;VAT payable, 19%;-5.04;Fred;Rake
+x_45;20/02/2023;Other vehicle costs;780.0;Alice;Vehicle costs February
+x_45;20/02/2023;Deductible input tax, 19%;148.2;Alice;Vehicle costs February
+x_45;20/02/2023;Bank (Postbank) — main account;-928.2;Alice;Vehicle costs February
+a_209;21/02/2023;Cost of merchandise, 19% input tax;1494.4;Bob;Lawn Mower
+a_209;21/02/2023;Deductible input tax, 19%;283.94;Bob;Lawn Mower
+a_209;21/02/2023;Trade payables;-1778.34;Bob;Lawn Mower
+b_214;21/02/2023;Cost of merchandise, 19% input tax;186.8;Bob;Lawn Mower
+b_214;21/02/2023;Deductible input tax, 19%;35.49;Bob;Lawn Mower
+b_214;21/02/2023;Trade payables;-222.29;Bob;Lawn Mower
+b_360;21/02/2023;Cost of merchandise, 19% input tax;16.9;Bob;Shovel
+b_360;21/02/2023;Deductible input tax, 19%;3.21;Bob;Shovel
+b_360;21/02/2023;Trade payables;-20.11;Bob;Shovel
+b_375;21/02/2023;Cost of merchandise, 19% input tax;186.8;David;Lawn Mower
+b_375;21/02/2023;Deductible input tax, 19%;35.49;David;Lawn Mower
+b_375;21/02/2023;Trade payables;-222.29;David;Lawn Mower
+b_543;21/02/2023;Trade payables;11.9;David;Watering Can
+b_543;21/02/2023;Cash-in-hand;-11.9;David;Watering Can
+c_666;21/02/2023;Bank (Postbank) — main account;98.18;Bob;Watering Can
+c_666;21/02/2023;Trade receivables;-98.18;Bob;Watering Can
+g_193;21/02/2023;Trade payables;305.78;Fred;Rake
+g_193;21/02/2023;Cash-in-hand;-305.78;Fred;Rake
+h_72;21/02/2023;Trade receivables;196.35;Fred;Garden Hose
+h_72;21/02/2023;Revenue, 19% VAT;-165.0;Fred;Garden Hose
+h_72;21/02/2023;VAT payable, 19%;-31.35;Fred;Garden Hose
+i_62;21/02/2023;Cash-in-hand;366.78;Charlie;Lawn Mower
+i_62;21/02/2023;Trade receivables;-366.78;Charlie;Lawn Mower
+x_46;21/02/2023;Advertising expenses;1402.95;Alice;Advertising February
+x_46;21/02/2023;Deductible input tax, 19%;266.56;Alice;Advertising February
+x_46;21/02/2023;Bank (Postbank) — main account;-1669.51;Alice;Advertising February
+a_669;22/02/2023;Trade payables;238.0;Bob;Watering Can
+a_669;22/02/2023;Bank (Postbank) — main account;-238.0;Bob;Watering Can
+a_727;22/02/2023;Trade payables;724.71;Alice;Hedge Trimmer
+a_727;22/02/2023;Bank (Postbank) — main account;-724.71;Alice;Hedge Trimmer
+a_878;22/02/2023;Trade payables;1528.91;Bob;Wheelbarrow
+a_878;22/02/2023;Bank (Postbank) — main account;-1528.91;Bob;Wheelbarrow
+b_286;22/02/2023;Cost of merchandise, 19% input tax;60.9;David;Hedge Trimmer
+b_286;22/02/2023;Deductible input tax, 19%;11.57;David;Hedge Trimmer
+b_286;22/02/2023;Trade payables;-72.47;David;Hedge Trimmer
+c_178;22/02/2023;Trade receivables;127.44;Alice;Leaf Blower
+c_178;22/02/2023;Revenue, 19% VAT;-107.09;Alice;Leaf Blower
+c_178;22/02/2023;VAT payable, 19%;-20.35;Alice;Leaf Blower
+c_528;22/02/2023;Bank (Postbank) — main account;127.44;Alice;Leaf Blower
+c_528;22/02/2023;Trade receivables;-127.44;Alice;Leaf Blower
+c_552;22/02/2023;Bank (Postbank) — main account;12.2;Alice;Gardening Gloves
+c_552;22/02/2023;Trade receivables;-12.2;Alice;Gardening Gloves
+f_137;22/02/2023;Cost of merchandise, 19% input tax;150.0;Fred;Watering Can
+f_137;22/02/2023;Deductible input tax, 19%;28.5;Fred;Watering Can
+f_137;22/02/2023;Trade payables;-178.5;Fred;Watering Can
+f_149;22/02/2023;Cost of merchandise, 19% input tax;64.9;Bob;Leaf Blower
+f_149;22/02/2023;Deductible input tax, 19%;12.33;Bob;Leaf Blower
+f_149;22/02/2023;Trade payables;-77.23;Bob;Leaf Blower
+f_330;22/02/2023;Trade payables;889.17;Charlie;Lawn Mower
+f_330;22/02/2023;Bank (Postbank) — main account;-889.17;Charlie;Lawn Mower
+f_380;22/02/2023;Trade payables;76.45;Charlie;Rake
+f_380;22/02/2023;Bank (Postbank) — main account;-76.45;Charlie;Rake
+x_47;22/02/2023;Packaging materials;776.25;Alice;Packaging materials February
+x_47;22/02/2023;Deductible input tax, 19%;147.49;Alice;Packaging materials February
+x_47;22/02/2023;Bank (Postbank) — main account;-923.74;Alice;Packaging materials February
+a_715;23/02/2023;Trade payables;154.7;Alice;Watering Can
+a_715;23/02/2023;Bank (Postbank) — main account;-154.7;Alice;Watering Can
+a_822;23/02/2023;Trade payables;285.6;David;Garden Hose
+a_822;23/02/2023;Bank (Postbank) — main account;-285.6;David;Garden Hose
+a_884;23/02/2023;Trade payables;695.08;Max;Leaf Blower
+a_884;23/02/2023;Bank (Postbank) — main account;-695.08;Max;Leaf Blower
+b_263;23/02/2023;Cost of merchandise, 19% input tax;18.06;Bob;Garden Shears
+b_263;23/02/2023;Deductible input tax, 19%;3.43;Bob;Garden Shears
+b_263;23/02/2023;Trade payables;-21.49;Bob;Garden Shears
+b_374;23/02/2023;Cost of merchandise, 19% input tax;20.0;Max;Garden Hose
+b_374;23/02/2023;Deductible input tax, 19%;3.8;Max;Garden Hose
+b_374;23/02/2023;Trade payables;-23.8;Max;Garden Hose
+b_614;23/02/2023;Trade payables;222.29;Bob;Lawn Mower
+b_614;23/02/2023;Cash-in-hand;-222.29;Bob;Lawn Mower
+b_774;23/02/2023;Trade payables;23.8;Max;Garden Hose
+b_774;23/02/2023;Cash-in-hand;-23.8;Max;Garden Hose
+c_513;23/02/2023;Bank (Postbank) — main account;127.44;David;Leaf Blower
+c_513;23/02/2023;Trade receivables;-127.44;David;Leaf Blower
+c_66;23/02/2023;Trade receivables;2.44;David;Gardening Gloves
+c_66;23/02/2023;Revenue, 19% VAT;-2.05;David;Gardening Gloves
+c_66;23/02/2023;VAT payable, 19%;-0.39;David;Gardening Gloves
+f_22;23/02/2023;Cost of merchandise, 19% input tax;144.54;Fred;Rake
+f_22;23/02/2023;Deductible input tax, 19%;27.46;Fred;Rake
+f_22;23/02/2023;Trade payables;-172.0;Fred;Rake
+h_187;23/02/2023;Bank (Postbank) — main account;239.14;Fred;Hedge Trimmer
+h_187;23/02/2023;Trade receivables;-239.14;Fred;Hedge Trimmer
+i_12;23/02/2023;Trade receivables;366.78;Charlie;Lawn Mower
+i_12;23/02/2023;Revenue, 19% VAT;-308.22;Charlie;Lawn Mower
+i_12;23/02/2023;VAT payable, 19%;-58.56;Charlie;Lawn Mower
+i_88;23/02/2023;Cash-in-hand;31.54;Fred;Rake
+i_88;23/02/2023;Trade receivables;-31.54;Fred;Rake
+a_547;24/02/2023;Trade payables;144.94;Max;Hedge Trimmer
+a_547;24/02/2023;Bank (Postbank) — main account;-144.94;Max;Hedge Trimmer
+a_656;24/02/2023;Trade payables;1778.34;Max;Lawn Mower
+a_656;24/02/2023;Bank (Postbank) — main account;-1778.34;Max;Lawn Mower
+a_912;24/02/2023;Trade payables;154.46;David;Leaf Blower
+a_912;24/02/2023;Bank (Postbank) — main account;-154.46;David;Leaf Blower
+b_288;24/02/2023;Cost of merchandise, 19% input tax;80.3;Max;Wheelbarrow
+b_288;24/02/2023;Deductible input tax, 19%;15.26;Max;Wheelbarrow
+b_288;24/02/2023;Trade payables;-95.56;Max;Wheelbarrow
+b_56;24/02/2023;Cost of merchandise, 19% input tax;64.9;Alice;Leaf Blower
+b_56;24/02/2023;Deductible input tax, 19%;12.33;Alice;Leaf Blower
+b_56;24/02/2023;Trade payables;-77.23;Alice;Leaf Blower
+c_255;24/02/2023;Trade receivables;7.32;Max;Gardening Gloves
+c_255;24/02/2023;Revenue, 19% VAT;-6.15;Max;Gardening Gloves
+c_255;24/02/2023;VAT payable, 19%;-1.17;Max;Gardening Gloves
+c_323;24/02/2023;Trade receivables;39.27;David;Garden Hose
+c_323;24/02/2023;Revenue, 19% VAT;-33.0;David;Garden Hose
+c_323;24/02/2023;VAT payable, 19%;-6.27;David;Garden Hose
+c_380;24/02/2023;Bank (Postbank) — main account;39.27;David;Garden Hose
+c_380;24/02/2023;Trade receivables;-39.27;David;Garden Hose
+f_199;24/02/2023;Cost of merchandise, 19% input tax;934.0;Bob;Lawn Mower
+f_199;24/02/2023;Deductible input tax, 19%;177.46;Bob;Lawn Mower
+f_199;24/02/2023;Trade payables;-1111.46;Bob;Lawn Mower
+f_279;24/02/2023;Trade payables;386.85;Charlie;Garden Shears
+f_279;24/02/2023;Bank (Postbank) — main account;-386.85;Charlie;Garden Shears
+f_303;24/02/2023;Trade payables;579.77;Charlie;Hedge Trimmer
+f_303;24/02/2023;Bank (Postbank) — main account;-579.77;Charlie;Hedge Trimmer
+f_337;24/02/2023;Trade payables;178.5;Fred;Watering Can
+f_337;24/02/2023;Bank (Postbank) — main account;-178.5;Fred;Watering Can
+f_89;24/02/2023;Cost of merchandise, 19% input tax;22.32;David;Gardening Gloves
+f_89;24/02/2023;Deductible input tax, 19%;4.24;David;Gardening Gloves
+f_89;24/02/2023;Trade payables;-26.56;David;Gardening Gloves
+g_43;24/02/2023;Cost of merchandise, 19% input tax;256.96;Fred;Rake
+g_43;24/02/2023;Deductible input tax, 19%;48.82;Fred;Rake
+g_43;24/02/2023;Trade payables;-305.78;Fred;Rake
+h_93;24/02/2023;Trade receivables;66.35;Fred;Shovel
+h_93;24/02/2023;Revenue, 19% VAT;-55.76;Fred;Shovel
+h_93;24/02/2023;VAT payable, 19%;-10.59;Fred;Shovel
+i_49;24/02/2023;Trade receivables;31.54;Fred;Rake
+i_49;24/02/2023;Revenue, 19% VAT;-26.5;Fred;Rake
+i_49;24/02/2023;VAT payable, 19%;-5.04;Fred;Rake
+a_104;27/02/2023;Cost of merchandise, 19% input tax;259.6;Alice;Leaf Blower
+a_104;27/02/2023;Deductible input tax, 19%;49.32;Alice;Leaf Blower
+a_104;27/02/2023;Trade payables;-308.92;Alice;Leaf Blower
+a_334;27/02/2023;Cost of merchandise, 19% input tax;224.84;Max;Rake
+a_334;27/02/2023;Deductible input tax, 19%;42.72;Max;Rake
+a_334;27/02/2023;Trade payables;-267.56;Max;Rake
+a_42;27/02/2023;Cost of merchandise, 19% input tax;96.36;Max;Rake
+a_42;27/02/2023;Deductible input tax, 19%;18.31;Max;Rake
+a_42;27/02/2023;Trade payables;-114.67;Max;Rake
+a_833;27/02/2023;Trade payables;849.54;Alice;Leaf Blower
+a_833;27/02/2023;Bank (Postbank) — main account;-849.54;Alice;Leaf Blower
+b_439;27/02/2023;Trade payables;23.8;Bob;Garden Hose
+b_439;27/02/2023;Cash-in-hand;-23.8;Bob;Garden Hose
+f_222;27/02/2023;Trade payables;172.0;Fred;Rake
+f_222;27/02/2023;Bank (Postbank) — main account;-172.0;Fred;Rake
+x_48;27/02/2023;Office supplies;243.19;Alice;Office supplies February
+x_48;27/02/2023;Deductible input tax, 19%;46.21;Alice;Office supplies February
+x_48;27/02/2023;Cash-in-hand;-289.4;Alice;Office supplies February
+a_296;28/02/2023;Cost of merchandise, 19% input tax;256.96;Max;Rake
+a_296;28/02/2023;Deductible input tax, 19%;48.82;Max;Rake
+a_296;28/02/2023;Trade payables;-305.78;Max;Rake
+a_596;28/02/2023;Trade payables;1.48;Max;Gardening Gloves
+a_596;28/02/2023;Bank (Postbank) — main account;-1.48;Max;Gardening Gloves
+a_604;28/02/2023;Trade payables;308.92;Alice;Leaf Blower
+a_604;28/02/2023;Bank (Postbank) — main account;-308.92;Alice;Leaf Blower
+a_709;28/02/2023;Trade payables;1778.34;Bob;Lawn Mower
+a_709;28/02/2023;Bank (Postbank) — main account;-1778.34;Bob;Lawn Mower
+b_663;28/02/2023;Trade payables;21.49;Bob;Garden Shears
+b_663;28/02/2023;Cash-in-hand;-21.49;Bob;Garden Shears
+c_109;28/02/2023;Trade receivables;127.44;Bob;Leaf Blower
+c_109;28/02/2023;Revenue, 19% VAT;-107.09;Bob;Leaf Blower
+c_109;28/02/2023;VAT payable, 19%;-20.35;Bob;Leaf Blower
+c_257;28/02/2023;Trade receivables;58.91;David;Watering Can
+c_257;28/02/2023;Revenue, 19% VAT;-49.5;David;Watering Can
+c_257;28/02/2023;VAT payable, 19%;-9.41;David;Watering Can
+c_361;28/02/2023;Bank (Postbank) — main account;19.64;Bob;Watering Can
+c_361;28/02/2023;Trade receivables;-19.64;Bob;Watering Can
+c_605;28/02/2023;Bank (Postbank) — main account;7.32;Max;Gardening Gloves
+c_605;28/02/2023;Trade receivables;-7.32;Max;Gardening Gloves
+f_8;28/02/2023;Cost of merchandise, 19% input tax;1494.4;Fred;Lawn Mower
+f_8;28/02/2023;Deductible input tax, 19%;283.94;Fred;Lawn Mower
+f_8;28/02/2023;Trade payables;-1778.34;Fred;Lawn Mower
+g_152;28/02/2023;Trade payables;1528.91;Fred;Wheelbarrow
+g_152;28/02/2023;Cash-in-hand;-1528.91;Fred;Wheelbarrow
+i_44;28/02/2023;Trade receivables;366.78;Fred;Lawn Mower
+i_44;28/02/2023;Revenue, 19% VAT;-308.22;Fred;Lawn Mower
+i_44;28/02/2023;VAT payable, 19%;-58.56;Fred;Lawn Mower
+b_456;01/03/2023;Trade payables;77.23;Alice;Leaf Blower
+b_456;01/03/2023;Cash-in-hand;-77.23;Alice;Leaf Blower
+c_673;01/03/2023;Bank (Postbank) — main account;39.27;David;Garden Hose
+c_673;01/03/2023;Trade receivables;-39.27;David;Garden Hose
+f_399;01/03/2023;Trade payables;1111.46;Fred;Lawn Mower
+f_399;01/03/2023;Bank (Postbank) — main account;-1111.46;Fred;Lawn Mower
+f_41;01/03/2023;Cost of merchandise, 19% input tax;713.9;Fred;Leaf Blower
+f_41;01/03/2023;Deductible input tax, 19%;135.64;Fred;Leaf Blower
+f_41;01/03/2023;Trade payables;-849.54;Fred;Leaf Blower
+x_49;01/03/2023;Legal and consulting expenses;1709.13;Alice;Legal and consulting February
+x_49;01/03/2023;Deductible input tax, 19%;324.73;Alice;Legal and consulting February
+x_49;01/03/2023;Bank (Postbank) — main account;-2033.86;Alice;Legal and consulting February
+a_195;02/03/2023;Cost of merchandise, 19% input tax;16.12;Max;Gardening Gloves
+a_195;02/03/2023;Deductible input tax, 19%;3.06;Max;Gardening Gloves
+a_195;02/03/2023;Trade payables;-19.18;Max;Gardening Gloves
+a_424;02/03/2023;Cost of merchandise, 19% input tax;722.7;Max;Wheelbarrow
+a_424;02/03/2023;Deductible input tax, 19%;137.31;Max;Wheelbarrow
+a_424;02/03/2023;Trade payables;-860.01;Max;Wheelbarrow
+a_54;02/03/2023;Cost of merchandise, 19% input tax;236.6;Bob;Shovel
+a_54;02/03/2023;Deductible input tax, 19%;44.95;Bob;Shovel
+a_54;02/03/2023;Trade payables;-281.55;Bob;Shovel
+b_248;02/03/2023;Cost of merchandise, 19% input tax;80.3;Max;Wheelbarrow
+b_248;02/03/2023;Deductible input tax, 19%;15.26;Max;Wheelbarrow
+b_248;02/03/2023;Trade payables;-95.56;Max;Wheelbarrow
+b_686;02/03/2023;Trade payables;72.47;David;Hedge Trimmer
+b_686;02/03/2023;Cash-in-hand;-72.47;David;Hedge Trimmer
+c_607;02/03/2023;Bank (Postbank) — main account;58.91;David;Watering Can
+c_607;02/03/2023;Trade receivables;-58.91;David;Watering Can
+g_49;02/03/2023;Cost of merchandise, 19% input tax;48.18;Charlie;Rake
+g_49;02/03/2023;Deductible input tax, 19%;9.15;Charlie;Rake
+g_49;02/03/2023;Trade payables;-57.33;Charlie;Rake
+x_50;02/03/2023;Salaries;2051.42;Alice;Salary Max March
+x_50;02/03/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Max March
+x_53;02/03/2023;Salaries;2051.42;Alice;Salary Alice March
+x_53;02/03/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Alice March
+x_56;02/03/2023;Salaries;2051.42;Alice;Salary Bob March
+x_56;02/03/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Bob March
+x_59;02/03/2023;Salaries;1880.65;Alice;Salary Charlie March
+x_59;02/03/2023;Bank (Postbank) — main account;-1880.65;Alice;Salary Charlie March
+x_62;02/03/2023;Salaries;1880.65;Max;Salary David March
+x_62;02/03/2023;Cash-in-hand;-1880.65;Max;Salary David March
+a_26;03/03/2023;Cost of merchandise, 19% input tax;16.9;Max;Shovel
+a_26;03/03/2023;Deductible input tax, 19%;3.21;Max;Shovel
+a_26;03/03/2023;Trade payables;-20.11;Max;Shovel
+a_554;03/03/2023;Trade payables;281.55;Bob;Shovel
+a_554;03/03/2023;Bank (Postbank) — main account;-281.55;Bob;Shovel
+b_240;03/03/2023;Cost of merchandise, 19% input tax;10.0;Max;Watering Can
+b_240;03/03/2023;Deductible input tax, 19%;1.9;Max;Watering Can
+b_240;03/03/2023;Trade payables;-11.9;Max;Watering Can
+b_368;03/03/2023;Cost of merchandise, 19% input tax;16.06;Bob;Rake
+b_368;03/03/2023;Deductible input tax, 19%;3.05;Bob;Rake
+b_368;03/03/2023;Trade payables;-19.11;Bob;Rake
+b_514;03/03/2023;Trade payables;23.8;Max;Garden Hose
+b_514;03/03/2023;Cash-in-hand;-23.8;Max;Garden Hose
+b_760;03/03/2023;Trade payables;20.11;Bob;Shovel
+b_760;03/03/2023;Cash-in-hand;-20.11;Bob;Shovel
+c_556;03/03/2023;Bank (Postbank) — main account;98.18;Max;Watering Can
+c_556;03/03/2023;Trade receivables;-98.18;Max;Watering Can
+f_172;03/03/2023;Cost of merchandise, 19% input tax;9.92;Bob;Gardening Gloves
+f_172;03/03/2023;Deductible input tax, 19%;1.88;Bob;Gardening Gloves
+f_172;03/03/2023;Trade payables;-11.8;Bob;Gardening Gloves
+f_241;03/03/2023;Trade payables;849.54;Fred;Leaf Blower
+f_241;03/03/2023;Bank (Postbank) — main account;-849.54;Fred;Leaf Blower
+f_88;03/03/2023;Cost of merchandise, 19% input tax;3175.6;Fred;Lawn Mower
+f_88;03/03/2023;Deductible input tax, 19%;603.36;Fred;Lawn Mower
+f_88;03/03/2023;Trade payables;-3778.96;Fred;Lawn Mower
+f_90;03/03/2023;Cost of merchandise, 19% input tax;1103.3;Max;Leaf Blower
+f_90;03/03/2023;Deductible input tax, 19%;209.63;Max;Leaf Blower
+f_90;03/03/2023;Trade payables;-1312.93;Max;Leaf Blower
+g_144;03/03/2023;Cost of merchandise, 19% input tax;6.2;Bob;Gardening Gloves
+g_144;03/03/2023;Deductible input tax, 19%;1.18;Bob;Gardening Gloves
+g_144;03/03/2023;Trade payables;-7.38;Bob;Gardening Gloves
+h_172;03/03/2023;Bank (Postbank) — main account;196.35;Fred;Garden Hose
+h_172;03/03/2023;Trade receivables;-196.35;Fred;Garden Hose
+h_193;03/03/2023;Bank (Postbank) — main account;66.35;Fred;Shovel
+h_193;03/03/2023;Trade receivables;-66.35;Fred;Shovel
+a_247;06/03/2023;Cost of merchandise, 19% input tax;3736.0;Alice;Lawn Mower
+a_247;06/03/2023;Deductible input tax, 19%;709.84;Alice;Lawn Mower
+a_247;06/03/2023;Trade payables;-4445.84;Alice;Lawn Mower
+a_654;06/03/2023;Trade payables;95.56;Bob;Rake
+a_654;06/03/2023;Bank (Postbank) — main account;-95.56;Bob;Rake
+a_83;06/03/2023;Cost of merchandise, 19% input tax;160.0;Alice;Garden Hose
+a_83;06/03/2023;Deductible input tax, 19%;30.4;Alice;Garden Hose
+a_83;06/03/2023;Trade payables;-190.4;Alice;Garden Hose
+a_834;06/03/2023;Trade payables;267.56;Max;Rake
+a_834;06/03/2023;Bank (Postbank) — main account;-267.56;Max;Rake
+b_722;06/03/2023;Trade payables;95.56;Alice;Wheelbarrow
+b_722;06/03/2023;Cash-in-hand;-95.56;Alice;Wheelbarrow
+c_317;06/03/2023;Trade receivables;630.65;David;Wheelbarrow
+c_317;06/03/2023;Revenue, 19% VAT;-529.96;David;Wheelbarrow
+c_317;06/03/2023;VAT payable, 19%;-100.69;David;Wheelbarrow
+c_41;06/03/2023;Trade receivables;31.54;David;Rake
+c_41;06/03/2023;Revenue, 19% VAT;-26.5;David;Rake
+c_41;06/03/2023;VAT payable, 19%;-5.04;David;Rake
+f_154;06/03/2023;Cost of merchandise, 19% input tax;160.6;Fred;Rake
+f_154;06/03/2023;Deductible input tax, 19%;30.51;Fred;Rake
+f_154;06/03/2023;Trade payables;-191.11;Fred;Rake
+f_5;06/03/2023;Cost of merchandise, 19% input tax;3.72;Fred;Gardening Gloves
+f_5;06/03/2023;Deductible input tax, 19%;0.71;Fred;Gardening Gloves
+f_5;06/03/2023;Trade payables;-4.43;Fred;Gardening Gloves
+f_96;06/03/2023;Cost of merchandise, 19% input tax;3736.0;Fred;Lawn Mower
+f_96;06/03/2023;Deductible input tax, 19%;709.84;Fred;Lawn Mower
+f_96;06/03/2023;Trade payables;-4445.84;Fred;Lawn Mower
+h_55;06/03/2023;Trade receivables;254.87;Fred;Leaf Blower
+h_55;06/03/2023;Revenue, 19% VAT;-214.18;Fred;Leaf Blower
+h_55;06/03/2023;VAT payable, 19%;-40.69;Fred;Leaf Blower
+i_94;06/03/2023;Cash-in-hand;366.78;Fred;Lawn Mower
+i_94;06/03/2023;Trade receivables;-366.78;Fred;Lawn Mower
+x_65;06/03/2023;Rent — immovable property;22500.0;Alice;Rent March
+x_65;06/03/2023;Bank (Postbank) — main account;-22500.0;Alice;Rent March
+x_66;06/03/2023;Gas, electricity, water;1506.62;Alice;Utilities March
+x_66;06/03/2023;Deductible input tax, 19%;286.26;Alice;Utilities March
+x_66;06/03/2023;Bank (Postbank) — main account;-1792.88;Alice;Utilities March
+a_526;07/03/2023;Trade payables;20.11;Max;Shovel
+a_526;07/03/2023;Bank (Postbank) — main account;-20.11;Max;Shovel
+a_747;07/03/2023;Trade payables;4445.84;Max;Lawn Mower
+a_747;07/03/2023;Cash-in-hand;-4445.84;Max;Lawn Mower
+b_355;07/03/2023;Cost of merchandise, 19% input tax;16.06;Bob;Rake
+b_355;07/03/2023;Deductible input tax, 19%;3.05;Bob;Rake
+b_355;07/03/2023;Trade payables;-19.11;Bob;Rake
+b_617;07/03/2023;Trade payables;72.47;Alice;Hedge Trimmer
+b_617;07/03/2023;Cash-in-hand;-72.47;Alice;Hedge Trimmer
+c_356;07/03/2023;Bank (Postbank) — main account;31.54;David;Rake
+c_356;07/03/2023;Trade receivables;-31.54;David;Rake
+h_13;07/03/2023;Trade receivables;78.54;Bob;Watering Can
+h_13;07/03/2023;Revenue, 19% VAT;-66.0;Bob;Watering Can
+h_13;07/03/2023;VAT payable, 19%;-12.54;Bob;Watering Can
+h_146;07/03/2023;Bank (Postbank) — main account;58.91;Bob;Watering Can
+h_146;07/03/2023;Trade receivables;-58.91;Bob;Watering Can
+i_33;07/03/2023;Trade receivables;2.44;Bob;Gardening Gloves
+i_33;07/03/2023;Revenue, 19% VAT;-2.05;Bob;Gardening Gloves
+i_33;07/03/2023;VAT payable, 19%;-0.39;Bob;Gardening Gloves
+a_319;08/03/2023;Cost of merchandise, 19% input tax;273.02;Max;Rake
+a_319;08/03/2023;Deductible input tax, 19%;51.87;Max;Rake
+a_319;08/03/2023;Trade payables;-324.89;Max;Rake
+a_583;08/03/2023;Trade payables;190.4;Alice;Garden Hose
+a_583;08/03/2023;Bank (Postbank) — main account;-190.4;Alice;Garden Hose
+a_695;08/03/2023;Trade payables;19.18;Max;Gardening Gloves
+a_695;08/03/2023;Bank (Postbank) — main account;-19.18;Max;Gardening Gloves
+a_796;08/03/2023;Trade payables;305.78;Max;Rake
+a_796;08/03/2023;Bank (Postbank) — main account;-305.78;Max;Rake
+b_172;08/03/2023;Cost of merchandise, 19% input tax;20.0;David;Garden Hose
+b_172;08/03/2023;Deductible input tax, 19%;3.8;David;Garden Hose
+b_172;08/03/2023;Trade payables;-23.8;David;Garden Hose
+b_322;08/03/2023;Cost of merchandise, 19% input tax;80.3;Alice;Wheelbarrow
+b_322;08/03/2023;Deductible input tax, 19%;15.26;Alice;Wheelbarrow
+b_322;08/03/2023;Trade payables;-95.56;Alice;Wheelbarrow
+b_755;08/03/2023;Trade payables;19.11;Bob;Rake
+b_755;08/03/2023;Cash-in-hand;-19.11;Bob;Rake
+b_768;08/03/2023;Trade payables;19.11;Bob;Rake
+b_768;08/03/2023;Cash-in-hand;-19.11;Bob;Rake
+c_175;08/03/2023;Trade receivables;2.44;David;Gardening Gloves
+c_175;08/03/2023;Revenue, 19% VAT;-2.05;David;Gardening Gloves
+c_175;08/03/2023;VAT payable, 19%;-0.39;David;Gardening Gloves
+c_6;08/03/2023;Trade receivables;31.54;David;Rake
+c_6;08/03/2023;Revenue, 19% VAT;-26.5;David;Rake
+c_6;08/03/2023;VAT payable, 19%;-5.04;David;Rake
+f_23;08/03/2023;Cost of merchandise, 19% input tax;7.44;Fred;Gardening Gloves
+f_23;08/03/2023;Deductible input tax, 19%;1.41;Fred;Gardening Gloves
+f_23;08/03/2023;Trade payables;-8.85;Fred;Gardening Gloves
+f_35;08/03/2023;Cost of merchandise, 19% input tax;304.2;Fred;Shovel
+f_35;08/03/2023;Deductible input tax, 19%;57.8;Fred;Shovel
+f_35;08/03/2023;Trade payables;-362.0;Fred;Shovel
+g_105;08/03/2023;Cost of merchandise, 19% input tax;140.0;Fred;Watering Can
+g_105;08/03/2023;Deductible input tax, 19%;26.6;Fred;Watering Can
+g_105;08/03/2023;Trade payables;-166.6;Fred;Watering Can
+g_199;08/03/2023;Trade payables;57.33;Charlie;Rake
+g_199;08/03/2023;Cash-in-hand;-57.33;Charlie;Rake
+g_294;08/03/2023;Trade payables;7.38;Bob;Gardening Gloves
+g_294;08/03/2023;Cash-in-hand;-7.38;Bob;Gardening Gloves
+x_67;08/03/2023;Cleaning;620.0;Alice;Cleaning March
+x_67;08/03/2023;Deductible input tax, 19%;117.8;Alice;Cleaning March
+x_67;08/03/2023;Bank (Postbank) — main account;-737.8;Alice;Cleaning March
+a_28;09/03/2023;Cost of merchandise, 19% input tax;200.0;Alice;Garden Hose
+a_28;09/03/2023;Deductible input tax, 19%;38.0;Alice;Garden Hose
+a_28;09/03/2023;Trade payables;-238.0;Alice;Garden Hose
+b_217;09/03/2023;Cost of merchandise, 19% input tax;60.9;Alice;Hedge Trimmer
+b_217;09/03/2023;Deductible input tax, 19%;11.57;Alice;Hedge Trimmer
+b_217;09/03/2023;Trade payables;-72.47;Alice;Hedge Trimmer
+b_230;09/03/2023;Cost of merchandise, 19% input tax;16.06;Bob;Rake
+b_230;09/03/2023;Deductible input tax, 19%;3.05;Bob;Rake
+b_230;09/03/2023;Trade payables;-19.11;Bob;Rake
+c_321;09/03/2023;Trade receivables;35.46;Alice;Garden Shears
+c_321;09/03/2023;Revenue, 19% VAT;-29.8;Alice;Garden Shears
+c_321;09/03/2023;VAT payable, 19%;-5.66;Alice;Garden Shears
+c_340;09/03/2023;Trade receivables;788.32;Alice;Wheelbarrow
+c_340;09/03/2023;Revenue, 19% VAT;-662.45;Alice;Wheelbarrow
+c_340;09/03/2023;VAT payable, 19%;-125.87;Alice;Wheelbarrow
+c_459;09/03/2023;Bank (Postbank) — main account;127.44;Bob;Leaf Blower
+c_459;09/03/2023;Trade receivables;-127.44;Bob;Leaf Blower
+f_208;09/03/2023;Trade payables;1778.34;Fred;Lawn Mower
+f_208;09/03/2023;Bank (Postbank) — main account;-1778.34;Fred;Lawn Mower
+f_288;09/03/2023;Trade payables;3778.96;Fred;Lawn Mower
+f_288;09/03/2023;Bank (Postbank) — main account;-3778.96;Fred;Lawn Mower
+f_372;09/03/2023;Trade payables;11.8;Bob;Gardening Gloves
+f_372;09/03/2023;Bank (Postbank) — main account;-11.8;Bob;Gardening Gloves
+i_63;09/03/2023;Cash-in-hand;2.44;Bob;Gardening Gloves
+i_63;09/03/2023;Trade receivables;-2.44;Bob;Gardening Gloves
+a_154;10/03/2023;Cost of merchandise, 19% input tax;80.3;Bob;Rake
+a_154;10/03/2023;Deductible input tax, 19%;15.26;Bob;Rake
+a_154;10/03/2023;Trade payables;-95.56;Bob;Rake
+a_542;10/03/2023;Trade payables;114.67;Max;Rake
+a_542;10/03/2023;Bank (Postbank) — main account;-114.67;Max;Rake
+a_924;10/03/2023;Trade payables;860.01;Max;Wheelbarrow
+a_924;10/03/2023;Bank (Postbank) — main account;-860.01;Max;Wheelbarrow
+b_388;10/03/2023;Cost of merchandise, 19% input tax;64.9;Max;Leaf Blower
+b_388;10/03/2023;Deductible input tax, 19%;12.33;Max;Leaf Blower
+b_388;10/03/2023;Trade payables;-77.23;Max;Leaf Blower
+b_630;10/03/2023;Trade payables;19.11;Bob;Rake
+b_630;10/03/2023;Cash-in-hand;-19.11;Bob;Rake
+b_640;10/03/2023;Trade payables;11.9;Max;Watering Can
+b_640;10/03/2023;Cash-in-hand;-11.9;Max;Watering Can
+c_215;10/03/2023;Trade receivables;70.92;Alice;Garden Shears
+c_215;10/03/2023;Revenue, 19% VAT;-59.6;Alice;Garden Shears
+c_215;10/03/2023;VAT payable, 19%;-11.32;Alice;Garden Shears
+c_685;10/03/2023;Bank (Postbank) — main account;196.35;Alice;Garden Hose
+c_685;10/03/2023;Trade receivables;-196.35;Alice;Garden Hose
+c_92;10/03/2023;Trade receivables;127.44;Alice;Leaf Blower
+c_92;10/03/2023;Revenue, 19% VAT;-107.09;Alice;Leaf Blower
+c_92;10/03/2023;VAT payable, 19%;-20.35;Alice;Leaf Blower
+f_138;10/03/2023;Cost of merchandise, 19% input tax;50.7;Bob;Shovel
+f_138;10/03/2023;Deductible input tax, 19%;9.63;Bob;Shovel
+f_138;10/03/2023;Trade payables;-60.33;Bob;Shovel
+g_274;10/03/2023;Trade payables;80.44;Charlie;Shovel
+g_274;10/03/2023;Cash-in-hand;-80.44;Charlie;Shovel
+h_105;10/03/2023;Bank (Postbank) — main account;39.27;Charlie;Watering Can
+h_105;10/03/2023;Trade receivables;-39.27;Charlie;Watering Can
+h_46;10/03/2023;Trade receivables;58.91;Bob;Watering Can
+h_46;10/03/2023;Revenue, 19% VAT;-49.5;Bob;Watering Can
+h_46;10/03/2023;VAT payable, 19%;-9.41;Bob;Watering Can
+h_5;10/03/2023;Trade receivables;39.27;Charlie;Watering Can
+h_5;10/03/2023;Revenue, 19% VAT;-33.0;Charlie;Watering Can
+h_5;10/03/2023;VAT payable, 19%;-6.27;Charlie;Watering Can
+i_11;10/03/2023;Trade receivables;366.78;Bob;Lawn Mower
+i_11;10/03/2023;Revenue, 19% VAT;-308.22;Bob;Lawn Mower
+i_11;10/03/2023;VAT payable, 19%;-58.56;Bob;Lawn Mower
+x_51;10/03/2023;Salaries;317.08;Alice;Wage tax Max March
+x_51;10/03/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Max March
+x_54;10/03/2023;Salaries;317.08;Alice;Wage tax Alice March
+x_54;10/03/2023;Bank — secondary account;-317.08;Alice;Wage tax Alice March
+x_57;10/03/2023;Salaries;317.08;Alice;Wage tax Bob March
+x_57;10/03/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Bob March
+x_60;10/03/2023;Salaries;251.0;Alice;Wage tax Charlie March
+x_60;10/03/2023;Bank (Postbank) — main account;-251.0;Alice;Wage tax Charlie March
+x_63;10/03/2023;Salaries;251.0;Alice;Wage tax David March
+x_63;10/03/2023;Bank (Postbank) — main account;-251.0;Alice;Wage tax David March
+a_109;13/03/2023;Cost of merchandise, 19% input tax;2.48;Alice;Gardening Gloves
+a_109;13/03/2023;Deductible input tax, 19%;0.47;Alice;Gardening Gloves
+a_109;13/03/2023;Trade payables;-2.95;Alice;Gardening Gloves
+a_203;13/03/2023;Cost of merchandise, 19% input tax;722.7;David;Wheelbarrow
+a_203;13/03/2023;Deductible input tax, 19%;137.31;David;Wheelbarrow
+a_203;13/03/2023;Trade payables;-860.01;David;Wheelbarrow
+a_73;13/03/2023;Cost of merchandise, 19% input tax;240.9;Max;Wheelbarrow
+a_73;13/03/2023;Deductible input tax, 19%;45.77;Max;Wheelbarrow
+a_73;13/03/2023;Trade payables;-286.67;Max;Wheelbarrow
+a_81;13/03/2023;Cost of merchandise, 19% input tax;365.4;Bob;Hedge Trimmer
+a_81;13/03/2023;Deductible input tax, 19%;69.43;Bob;Hedge Trimmer
+a_81;13/03/2023;Trade payables;-434.83;Bob;Hedge Trimmer
+b_648;13/03/2023;Trade payables;95.56;Max;Wheelbarrow
+b_648;13/03/2023;Cash-in-hand;-95.56;Max;Wheelbarrow
+c_335;13/03/2023;Trade receivables;196.35;Alice;Garden Hose
+c_335;13/03/2023;Revenue, 19% VAT;-165.0;Alice;Garden Hose
+c_335;13/03/2023;VAT payable, 19%;-31.35;Alice;Garden Hose
+c_470;13/03/2023;Bank (Postbank) — main account;33.18;David;Shovel
+c_470;13/03/2023;Trade receivables;-33.18;David;Shovel
+c_565;13/03/2023;Bank (Postbank) — main account;70.92;Alice;Garden Shears
+c_565;13/03/2023;Trade receivables;-70.92;Alice;Garden Shears
+c_667;13/03/2023;Bank (Postbank) — main account;630.65;David;Wheelbarrow
+c_667;13/03/2023;Trade receivables;-630.65;David;Wheelbarrow
+f_127;13/03/2023;Cost of merchandise, 19% input tax;974.4;Fred;Hedge Trimmer
+f_127;13/03/2023;Deductible input tax, 19%;185.14;Fred;Hedge Trimmer
+f_127;13/03/2023;Trade payables;-1159.54;Fred;Hedge Trimmer
+f_205;13/03/2023;Trade payables;4.43;Fred;Gardening Gloves
+f_205;13/03/2023;Bank (Postbank) — main account;-4.43;Fred;Gardening Gloves
+f_354;13/03/2023;Trade payables;191.11;Fred;Rake
+f_354;13/03/2023;Bank (Postbank) — main account;-191.11;Fred;Rake
+h_32;13/03/2023;Trade receivables;157.66;Charlie;Wheelbarrow
+h_32;13/03/2023;Revenue, 19% VAT;-132.49;Charlie;Wheelbarrow
+h_32;13/03/2023;VAT payable, 19%;-25.17;Charlie;Wheelbarrow
+x_68;13/03/2023;Maintenance of operating premises;900.0;Alice;Maintenance March
+x_68;13/03/2023;Deductible input tax, 19%;171.0;Alice;Maintenance March
+x_68;13/03/2023;Bank (Postbank) — main account;-1071.0;Alice;Maintenance March
+a_106;14/03/2023;Cost of merchandise, 19% input tax;12.4;David;Gardening Gloves
+a_106;14/03/2023;Deductible input tax, 19%;2.36;David;Gardening Gloves
+a_106;14/03/2023;Trade payables;-14.76;David;Gardening Gloves
+a_151;14/03/2023;Cost of merchandise, 19% input tax;343.14;Bob;Garden Shears
+a_151;14/03/2023;Deductible input tax, 19%;65.2;Bob;Garden Shears
+a_151;14/03/2023;Trade payables;-408.34;Bob;Garden Shears
+a_703;14/03/2023;Trade payables;860.01;David;Wheelbarrow
+a_703;14/03/2023;Bank (Postbank) — main account;-860.01;David;Wheelbarrow
+a_819;14/03/2023;Trade payables;324.89;Fred;Rake
+a_819;14/03/2023;Bank (Postbank) — main account;-324.89;Fred;Rake
+b_183;14/03/2023;Cost of merchandise, 19% input tax;80.3;Bob;Wheelbarrow
+b_183;14/03/2023;Deductible input tax, 19%;15.26;Bob;Wheelbarrow
+b_183;14/03/2023;Trade payables;-95.56;Bob;Wheelbarrow
+b_293;14/03/2023;Cost of merchandise, 19% input tax;64.9;Max;Leaf Blower
+b_293;14/03/2023;Deductible input tax, 19%;12.33;Max;Leaf Blower
+b_293;14/03/2023;Trade payables;-77.23;Max;Leaf Blower
+b_583;14/03/2023;Trade payables;95.56;Bob;Wheelbarrow
+b_583;14/03/2023;Cash-in-hand;-95.56;Bob;Wheelbarrow
+c_120;14/03/2023;Trade receivables;33.18;David;Shovel
+c_120;14/03/2023;Revenue, 19% VAT;-27.88;David;Shovel
+c_120;14/03/2023;VAT payable, 19%;-5.3;David;Shovel
+c_301;14/03/2023;Trade receivables;366.78;Alice;Lawn Mower
+c_301;14/03/2023;Revenue, 19% VAT;-308.22;Alice;Lawn Mower
+c_301;14/03/2023;VAT payable, 19%;-58.56;Alice;Lawn Mower
+c_442;14/03/2023;Bank (Postbank) — main account;127.44;Alice;Leaf Blower
+c_442;14/03/2023;Trade receivables;-127.44;Alice;Leaf Blower
+f_223;14/03/2023;Trade payables;8.85;Fred;Gardening Gloves
+f_223;14/03/2023;Bank (Postbank) — main account;-8.85;Fred;Gardening Gloves
+f_338;14/03/2023;Trade payables;60.33;Bob;Shovel
+f_338;14/03/2023;Bank (Postbank) — main account;-60.33;Bob;Shovel
+f_36;14/03/2023;Cost of merchandise, 19% input tax;130.0;Max;Watering Can
+f_36;14/03/2023;Deductible input tax, 19%;24.7;Max;Watering Can
+f_36;14/03/2023;Trade payables;-154.7;Max;Watering Can
+h_75;14/03/2023;Trade receivables;478.28;Charlie;Hedge Trimmer
+h_75;14/03/2023;Revenue, 19% VAT;-401.92;Charlie;Hedge Trimmer
+h_75;14/03/2023;VAT payable, 19%;-76.36;Charlie;Hedge Trimmer
+i_99;14/03/2023;Cash-in-hand;31.54;Fred;Rake
+i_99;14/03/2023;Trade receivables;-31.54;Fred;Rake
+a_193;15/03/2023;Cost of merchandise, 19% input tax;2988.8;Alice;Lawn Mower
+a_193;15/03/2023;Deductible input tax, 19%;567.87;Alice;Lawn Mower
+a_193;15/03/2023;Trade payables;-3556.67;Alice;Lawn Mower
+a_210;15/03/2023;Cost of merchandise, 19% input tax;40.0;Max;Watering Can
+a_210;15/03/2023;Deductible input tax, 19%;7.6;Max;Watering Can
+a_210;15/03/2023;Trade payables;-47.6;Max;Watering Can
+a_406;15/03/2023;Cost of merchandise, 19% input tax;182.7;David;Hedge Trimmer
+a_406;15/03/2023;Deductible input tax, 19%;34.71;David;Hedge Trimmer
+a_406;15/03/2023;Trade payables;-217.41;David;Hedge Trimmer
+a_651;15/03/2023;Trade payables;408.34;Bob;Garden Shears
+a_651;15/03/2023;Bank (Postbank) — main account;-408.34;Bob;Garden Shears
+a_86;15/03/2023;Cost of merchandise, 19% input tax;253.5;Max;Shovel
+a_86;15/03/2023;Deductible input tax, 19%;48.17;Max;Shovel
+a_86;15/03/2023;Trade payables;-301.67;Max;Shovel
+b_295;15/03/2023;Cost of merchandise, 19% input tax;16.06;David;Rake
+b_295;15/03/2023;Deductible input tax, 19%;3.05;David;Rake
+b_295;15/03/2023;Trade payables;-19.11;David;Rake
+b_572;15/03/2023;Trade payables;23.8;David;Garden Hose
+b_572;15/03/2023;Cash-in-hand;-23.8;David;Garden Hose
+b_693;15/03/2023;Trade payables;77.23;Max;Leaf Blower
+b_693;15/03/2023;Cash-in-hand;-77.23;Max;Leaf Blower
+c_329;15/03/2023;Trade receivables;637.19;David;Leaf Blower
+c_329;15/03/2023;Revenue, 19% VAT;-535.45;David;Leaf Blower
+c_329;15/03/2023;VAT payable, 19%;-101.74;David;Leaf Blower
+c_525;15/03/2023;Bank (Postbank) — main account;2.44;David;Gardening Gloves
+c_525;15/03/2023;Trade receivables;-2.44;David;Gardening Gloves
+f_9;15/03/2023;Cost of merchandise, 19% input tax;321.1;Charlie;Shovel
+f_9;15/03/2023;Deductible input tax, 19%;61.01;Charlie;Shovel
+f_9;15/03/2023;Trade payables;-382.11;Charlie;Shovel
+g_11;15/03/2023;Cost of merchandise, 19% input tax;144.48;Fred;Garden Shears
+g_11;15/03/2023;Deductible input tax, 19%;27.45;Fred;Garden Shears
+g_11;15/03/2023;Trade payables;-171.93;Fred;Garden Shears
+g_255;15/03/2023;Trade payables;166.6;Fred;Watering Can
+g_255;15/03/2023;Cash-in-hand;-166.6;Fred;Watering Can
+h_113;15/03/2023;Bank (Postbank) — main account;78.54;Bob;Watering Can
+h_113;15/03/2023;Trade receivables;-78.54;Bob;Watering Can
+h_175;15/03/2023;Bank (Postbank) — main account;478.28;Charlie;Hedge Trimmer
+h_175;15/03/2023;Trade receivables;-478.28;Charlie;Hedge Trimmer
+i_61;15/03/2023;Cash-in-hand;366.78;Bob;Lawn Mower
+i_61;15/03/2023;Trade receivables;-366.78;Bob;Lawn Mower
+i_83;15/03/2023;Cash-in-hand;2.44;Fred;Gardening Gloves
+i_83;15/03/2023;Trade receivables;-2.44;Fred;Gardening Gloves
+x_52;15/03/2023;Wages and salaries;631.5;Alice;Social security Max March
+x_52;15/03/2023;Statutory social security expenses;613.5;Alice;Social security Max March
+x_52;15/03/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Max March
+x_55;15/03/2023;Wages and salaries;631.5;Alice;Social security Alice March
+x_55;15/03/2023;Statutory social security expenses;613.5;Alice;Social security Alice March
+x_55;15/03/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Alice March
+x_58;15/03/2023;Wages and salaries;631.5;Alice;Social security Bob March
+x_58;15/03/2023;Statutory social security expenses;613.5;Alice;Social security Bob March
+x_58;15/03/2023;Bank (Postbank) — main account;-1245.0;Alice;Social security Bob March
+x_61;15/03/2023;Wages and salaries;568.35;Alice;Social security Charlie March
+x_61;15/03/2023;Statutory social security expenses;552.15;Alice;Social security Charlie March
+x_61;15/03/2023;Bank (Postbank) — main account;-1120.5;Alice;Social security Charlie March
+x_64;15/03/2023;Wages and salaries;568.35;Alice;Social security David March
+x_64;15/03/2023;Statutory social security expenses;552.15;Alice;Social security David March
+x_64;15/03/2023;Bank (Postbank) — main account;-1120.5;Alice;Social security David March
+c_391;16/03/2023;Bank (Postbank) — main account;31.54;David;Rake
+c_391;16/03/2023;Trade receivables;-31.54;David;Rake
+c_690;16/03/2023;Bank (Postbank) — main account;788.32;Alice;Wheelbarrow
+c_690;16/03/2023;Trade receivables;-788.32;Alice;Wheelbarrow
+f_309;16/03/2023;Trade payables;1004.0;Bob;Leaf Blower
+f_309;16/03/2023;Bank (Postbank) — main account;-1004.0;Bob;Leaf Blower
+h_36;16/03/2023;Trade receivables;58.91;Fred;Watering Can
+h_36;16/03/2023;Revenue, 19% VAT;-49.5;Fred;Watering Can
+h_36;16/03/2023;VAT payable, 19%;-9.41;Fred;Watering Can
+a_396;17/03/2023;Cost of merchandise, 19% input tax;321.1;Alice;Shovel
+a_396;17/03/2023;Deductible input tax, 19%;61.01;Alice;Shovel
+a_396;17/03/2023;Trade payables;-382.11;Alice;Shovel
+a_499;17/03/2023;Cost of merchandise, 19% input tax;304.5;David;Hedge Trimmer
+a_499;17/03/2023;Deductible input tax, 19%;57.86;David;Hedge Trimmer
+a_499;17/03/2023;Trade payables;-362.36;David;Hedge Trimmer
+a_573;17/03/2023;Trade payables;286.67;Max;Wheelbarrow
+a_573;17/03/2023;Bank (Postbank) — main account;-286.67;Max;Wheelbarrow
+a_606;17/03/2023;Trade payables;14.76;David;Gardening Gloves
+a_606;17/03/2023;Bank (Postbank) — main account;-14.76;David;Gardening Gloves
+a_609;17/03/2023;Trade payables;2.95;Alice;Gardening Gloves
+a_609;17/03/2023;Bank (Postbank) — main account;-2.95;Alice;Gardening Gloves
+b_159;17/03/2023;Cost of merchandise, 19% input tax;64.9;David;Leaf Blower
+b_159;17/03/2023;Deductible input tax, 19%;12.33;David;Leaf Blower
+b_159;17/03/2023;Trade payables;-77.23;David;Leaf Blower
+b_268;17/03/2023;Cost of merchandise, 19% input tax;80.3;Alice;Wheelbarrow
+b_268;17/03/2023;Deductible input tax, 19%;15.26;Alice;Wheelbarrow
+b_268;17/03/2023;Trade payables;-95.56;Alice;Wheelbarrow
+b_47;17/03/2023;Cost of merchandise, 19% input tax;60.9;Bob;Hedge Trimmer
+b_47;17/03/2023;Deductible input tax, 19%;11.57;Bob;Hedge Trimmer
+b_47;17/03/2023;Trade payables;-72.47;Bob;Hedge Trimmer
+b_788;17/03/2023;Trade payables;77.23;Max;Leaf Blower
+b_788;17/03/2023;Cash-in-hand;-77.23;Max;Leaf Blower
+c_236;17/03/2023;Trade receivables;315.33;Max;Wheelbarrow
+c_236;17/03/2023;Revenue, 19% VAT;-264.98;Max;Wheelbarrow
+c_236;17/03/2023;VAT payable, 19%;-50.35;Max;Wheelbarrow
+c_269;17/03/2023;Trade receivables;66.35;David;Shovel
+c_269;17/03/2023;Revenue, 19% VAT;-55.76;David;Shovel
+c_269;17/03/2023;VAT payable, 19%;-10.59;David;Shovel
+c_306;17/03/2023;Trade receivables;1833.91;Alice;Lawn Mower
+c_306;17/03/2023;Revenue, 19% VAT;-1541.1;Alice;Lawn Mower
+c_306;17/03/2023;VAT payable, 19%;-292.81;Alice;Lawn Mower
+c_68;17/03/2023;Trade receivables;119.57;David;Hedge Trimmer
+c_68;17/03/2023;Revenue, 19% VAT;-100.48;David;Hedge Trimmer
+c_68;17/03/2023;VAT payable, 19%;-19.09;David;Hedge Trimmer
+f_109;17/03/2023;Cost of merchandise, 19% input tax;843.7;Bob;Leaf Blower
+f_109;17/03/2023;Deductible input tax, 19%;160.3;Bob;Leaf Blower
+f_109;17/03/2023;Trade payables;-1004.0;Bob;Leaf Blower
+f_30;17/03/2023;Cost of merchandise, 19% input tax;50.0;Fred;Watering Can
+f_30;17/03/2023;Deductible input tax, 19%;9.5;Fred;Watering Can
+f_30;17/03/2023;Trade payables;-59.5;Fred;Watering Can
+g_71;17/03/2023;Cost of merchandise, 19% input tax;200.0;David;Garden Hose
+g_71;17/03/2023;Deductible input tax, 19%;38.0;David;Garden Hose
+g_71;17/03/2023;Trade payables;-238.0;David;Garden Hose
+h_14;17/03/2023;Trade receivables;94.61;Fred;Rake
+h_14;17/03/2023;Revenue, 19% VAT;-79.5;Fred;Rake
+h_14;17/03/2023;VAT payable, 19%;-15.11;Fred;Rake
+h_69;17/03/2023;Trade receivables;58.91;Fred;Watering Can
+h_69;17/03/2023;Revenue, 19% VAT;-49.5;Fred;Watering Can
+h_69;17/03/2023;VAT payable, 19%;-9.41;Fred;Watering Can
+a_52;20/03/2023;Cost of merchandise, 19% input tax;64.24;Alice;Rake
+a_52;20/03/2023;Deductible input tax, 19%;12.21;Alice;Rake
+a_52;20/03/2023;Trade payables;-76.45;Alice;Rake
+a_710;20/03/2023;Trade payables;47.6;Max;Watering Can
+a_710;20/03/2023;Bank (Postbank) — main account;-47.6;Max;Watering Can
+a_906;20/03/2023;Trade payables;217.41;David;Hedge Trimmer
+a_906;20/03/2023;Bank (Postbank) — main account;-217.41;David;Hedge Trimmer
+a_999;20/03/2023;Trade payables;362.36;David;Hedge Trimmer
+a_999;20/03/2023;Bank (Postbank) — main account;-362.36;David;Hedge Trimmer
+b_189;20/03/2023;Cost of merchandise, 19% input tax;20.0;David;Garden Hose
+b_189;20/03/2023;Deductible input tax, 19%;3.8;David;Garden Hose
+b_189;20/03/2023;Trade payables;-23.8;David;Garden Hose
+b_219;20/03/2023;Cost of merchandise, 19% input tax;1.24;Alice;Gardening Gloves
+b_219;20/03/2023;Deductible input tax, 19%;0.24;Alice;Gardening Gloves
+b_219;20/03/2023;Trade payables;-1.48;Alice;Gardening Gloves
+b_490;20/03/2023;Trade payables;1.48;Alice;Gardening Gloves
+b_490;20/03/2023;Cash-in-hand;-1.48;Alice;Gardening Gloves
+b_668;20/03/2023;Trade payables;95.56;Alice;Wheelbarrow
+b_668;20/03/2023;Cash-in-hand;-95.56;Alice;Wheelbarrow
+b_695;20/03/2023;Trade payables;19.11;David;Rake
+b_695;20/03/2023;Cash-in-hand;-19.11;David;Rake
+c_639;20/03/2023;Bank (Postbank) — main account;597.86;Bob;Hedge Trimmer
+c_639;20/03/2023;Trade receivables;-597.86;Bob;Hedge Trimmer
+f_235;20/03/2023;Trade payables;362.0;Fred;Shovel
+f_235;20/03/2023;Bank (Postbank) — main account;-362.0;Fred;Shovel
+f_29;20/03/2023;Cost of merchandise, 19% input tax;1445.4;Bob;Wheelbarrow
+f_29;20/03/2023;Deductible input tax, 19%;274.63;Bob;Wheelbarrow
+f_29;20/03/2023;Trade payables;-1720.03;Bob;Wheelbarrow
+f_296;20/03/2023;Trade payables;4445.84;Fred;Lawn Mower
+f_296;20/03/2023;Bank (Postbank) — main account;-4445.84;Fred;Lawn Mower
+h_132;20/03/2023;Bank (Postbank) — main account;157.66;Charlie;Wheelbarrow
+h_132;20/03/2023;Trade receivables;-157.66;Charlie;Wheelbarrow
+h_136;20/03/2023;Bank (Postbank) — main account;58.91;Fred;Watering Can
+h_136;20/03/2023;Trade receivables;-58.91;Fred;Watering Can
+h_15;20/03/2023;Trade receivables;70.92;Fred;Garden Shears
+h_15;20/03/2023;Revenue, 19% VAT;-59.6;Fred;Garden Shears
+h_15;20/03/2023;VAT payable, 19%;-11.32;Fred;Garden Shears
+h_169;20/03/2023;Bank (Postbank) — main account;58.91;Fred;Watering Can
+h_169;20/03/2023;Trade receivables;-58.91;Fred;Watering Can
+x_69;20/03/2023;Other vehicle costs;780.0;Alice;Vehicle costs March
+x_69;20/03/2023;Deductible input tax, 19%;148.2;Alice;Vehicle costs March
+x_69;20/03/2023;Bank (Postbank) — main account;-928.2;Alice;Vehicle costs March
+x_70;20/03/2023;Advertising expenses;1228.0;Alice;Advertising March
+x_70;20/03/2023;Deductible input tax, 19%;233.32;Alice;Advertising March
+x_70;20/03/2023;Bank (Postbank) — main account;-1461.32;Alice;Advertising March
+a_218;21/03/2023;Cost of merchandise, 19% input tax;401.5;David;Wheelbarrow
+a_218;21/03/2023;Deductible input tax, 19%;76.29;David;Wheelbarrow
+a_218;21/03/2023;Trade payables;-477.79;David;Wheelbarrow
+a_581;21/03/2023;Trade payables;434.83;Bob;Hedge Trimmer
+a_581;21/03/2023;Bank (Postbank) — main account;-434.83;Bob;Hedge Trimmer
+a_84;21/03/2023;Cost of merchandise, 19% input tax;64.24;Alice;Rake
+a_84;21/03/2023;Deductible input tax, 19%;12.21;Alice;Rake
+a_84;21/03/2023;Trade payables;-76.45;Alice;Rake
+b_177;21/03/2023;Cost of merchandise, 19% input tax;80.3;Max;Wheelbarrow
+b_177;21/03/2023;Deductible input tax, 19%;15.26;Max;Wheelbarrow
+b_177;21/03/2023;Trade payables;-95.56;Max;Wheelbarrow
+b_197;21/03/2023;Cost of merchandise, 19% input tax;16.06;Max;Rake
+b_197;21/03/2023;Deductible input tax, 19%;3.05;Max;Rake
+b_197;21/03/2023;Trade payables;-19.11;Max;Rake
+b_210;21/03/2023;Cost of merchandise, 19% input tax;186.8;David;Lawn Mower
+b_210;21/03/2023;Deductible input tax, 19%;35.49;David;Lawn Mower
+b_210;21/03/2023;Trade payables;-222.29;David;Lawn Mower
+b_447;21/03/2023;Trade payables;72.47;Bob;Hedge Trimmer
+b_447;21/03/2023;Cash-in-hand;-72.47;Bob;Hedge Trimmer
+b_619;21/03/2023;Trade payables;1.48;Alice;Gardening Gloves
+b_619;21/03/2023;Cash-in-hand;-1.48;Alice;Gardening Gloves
+c_230;21/03/2023;Trade receivables;239.14;Bob;Hedge Trimmer
+c_230;21/03/2023;Revenue, 19% VAT;-200.96;Bob;Hedge Trimmer
+c_230;21/03/2023;VAT payable, 19%;-38.18;Bob;Hedge Trimmer
+c_289;21/03/2023;Trade receivables;597.86;Bob;Hedge Trimmer
+c_289;21/03/2023;Revenue, 19% VAT;-502.4;Bob;Hedge Trimmer
+c_289;21/03/2023;VAT payable, 19%;-95.46;Bob;Hedge Trimmer
+c_596;21/03/2023;Bank (Postbank) — main account;63.07;Max;Rake
+c_596;21/03/2023;Trade receivables;-63.07;Max;Rake
+c_651;21/03/2023;Bank (Postbank) — main account;366.78;Alice;Lawn Mower
+c_651;21/03/2023;Trade receivables;-366.78;Alice;Lawn Mower
+c_671;21/03/2023;Bank (Postbank) — main account;35.46;Alice;Garden Shears
+c_671;21/03/2023;Trade receivables;-35.46;Alice;Garden Shears
+g_113;21/03/2023;Cost of merchandise, 19% input tax;10.0;Bob;Watering Can
+g_113;21/03/2023;Deductible input tax, 19%;1.9;Bob;Watering Can
+g_113;21/03/2023;Trade payables;-11.9;Bob;Watering Can
+g_161;21/03/2023;Trade payables;171.93;Fred;Garden Shears
+g_161;21/03/2023;Cash-in-hand;-171.93;Fred;Garden Shears
+g_20;21/03/2023;Cost of merchandise, 19% input tax;3.72;Charlie;Gardening Gloves
+g_20;21/03/2023;Deductible input tax, 19%;0.71;Charlie;Gardening Gloves
+g_20;21/03/2023;Trade payables;-4.43;Charlie;Gardening Gloves
+a_306;22/03/2023;Cost of merchandise, 19% input tax;1124.2;Bob;Wheelbarrow
+a_306;22/03/2023;Deductible input tax, 19%;213.6;Bob;Wheelbarrow
+a_306;22/03/2023;Trade payables;-1337.8;Bob;Wheelbarrow
+a_310;22/03/2023;Cost of merchandise, 19% input tax;160.6;Alice;Wheelbarrow
+a_310;22/03/2023;Deductible input tax, 19%;30.51;Alice;Wheelbarrow
+a_310;22/03/2023;Trade payables;-191.11;Alice;Wheelbarrow
+a_528;22/03/2023;Trade payables;238.0;Alice;Garden Hose
+a_528;22/03/2023;Bank (Postbank) — main account;-238.0;Alice;Garden Hose
+b_100;22/03/2023;Cost of merchandise, 19% input tax;18.06;Alice;Garden Shears
+b_100;22/03/2023;Deductible input tax, 19%;3.43;Alice;Garden Shears
+b_100;22/03/2023;Trade payables;-21.49;Alice;Garden Shears
+b_90;22/03/2023;Cost of merchandise, 19% input tax;1.24;Alice;Gardening Gloves
+b_90;22/03/2023;Deductible input tax, 19%;0.24;Alice;Gardening Gloves
+b_90;22/03/2023;Trade payables;-1.48;Alice;Gardening Gloves
+c_246;22/03/2023;Trade receivables;63.07;Max;Rake
+c_246;22/03/2023;Revenue, 19% VAT;-53.0;Max;Rake
+c_246;22/03/2023;VAT payable, 19%;-10.07;Max;Rake
+c_299;22/03/2023;Trade receivables;39.27;Bob;Watering Can
+c_299;22/03/2023;Revenue, 19% VAT;-33.0;Bob;Watering Can
+c_299;22/03/2023;VAT payable, 19%;-6.27;Bob;Watering Can
+c_31;22/03/2023;Trade receivables;35.46;Bob;Garden Shears
+c_31;22/03/2023;Revenue, 19% VAT;-29.8;Bob;Garden Shears
+c_31;22/03/2023;VAT payable, 19%;-5.66;Bob;Garden Shears
+c_522;22/03/2023;Bank (Postbank) — main account;157.66;Max;Wheelbarrow
+c_522;22/03/2023;Trade receivables;-157.66;Max;Wheelbarrow
+c_580;22/03/2023;Bank (Postbank) — main account;239.14;Bob;Hedge Trimmer
+c_580;22/03/2023;Trade receivables;-239.14;Bob;Hedge Trimmer
+e_462;22/03/2023;Bank (Postbank) — main account;63.07;Alice;Rake
+e_462;22/03/2023;Trade receivables;-63.07;Alice;Rake
+f_158;22/03/2023;Cost of merchandise, 19% input tax;273.02;David;Rake
+f_158;22/03/2023;Deductible input tax, 19%;51.87;David;Rake
+f_158;22/03/2023;Trade payables;-324.89;David;Rake
+f_195;22/03/2023;Cost of merchandise, 19% input tax;32.12;Fred;Rake
+f_195;22/03/2023;Deductible input tax, 19%;6.1;Fred;Rake
+f_195;22/03/2023;Trade payables;-38.22;Fred;Rake
+f_230;22/03/2023;Trade payables;59.5;Fred;Watering Can
+f_230;22/03/2023;Bank (Postbank) — main account;-59.5;Fred;Watering Can
+f_371;22/03/2023;Trade payables;8.85;Fred;Gardening Gloves
+f_371;22/03/2023;Bank (Postbank) — main account;-8.85;Fred;Gardening Gloves
+g_103;22/03/2023;Cost of merchandise, 19% input tax;80.3;Charlie;Wheelbarrow
+g_103;22/03/2023;Deductible input tax, 19%;15.26;Charlie;Wheelbarrow
+g_103;22/03/2023;Trade payables;-95.56;Charlie;Wheelbarrow
+g_295;22/03/2023;Trade payables;236.41;Fred;Garden Shears
+g_295;22/03/2023;Cash-in-hand;-236.41;Fred;Garden Shears
+h_114;22/03/2023;Bank (Postbank) — main account;94.61;Fred;Rake
+h_114;22/03/2023;Trade receivables;-94.61;Fred;Rake
+x_71;22/03/2023;Packaging materials;769.95;Alice;Packaging materials March
+x_71;22/03/2023;Deductible input tax, 19%;146.29;Alice;Packaging materials March
+x_71;22/03/2023;Bank (Postbank) — main account;-916.24;Alice;Packaging materials March
+a_586;23/03/2023;Trade payables;301.67;Max;Shovel
+a_586;23/03/2023;Bank (Postbank) — main account;-301.67;Max;Shovel
+a_693;23/03/2023;Trade payables;3556.67;Alice;Lawn Mower
+a_693;23/03/2023;Bank (Postbank) — main account;-3556.67;Alice;Lawn Mower
+a_896;23/03/2023;Trade payables;382.11;Alice;Shovel
+a_896;23/03/2023;Bank (Postbank) — main account;-382.11;Alice;Shovel
+b_112;23/03/2023;Cost of merchandise, 19% input tax;16.9;Max;Shovel
+b_112;23/03/2023;Deductible input tax, 19%;3.21;Max;Shovel
+b_112;23/03/2023;Trade payables;-20.11;Max;Shovel
+b_234;23/03/2023;Cost of merchandise, 19% input tax;10.0;Bob;Watering Can
+b_234;23/03/2023;Deductible input tax, 19%;1.9;Bob;Watering Can
+b_234;23/03/2023;Trade payables;-11.9;Bob;Watering Can
+b_577;23/03/2023;Trade payables;95.56;Max;Wheelbarrow
+b_577;23/03/2023;Cash-in-hand;-95.56;Max;Wheelbarrow
+b_66;23/03/2023;Cost of merchandise, 19% input tax;16.06;Bob;Rake
+b_66;23/03/2023;Deductible input tax, 19%;3.05;Bob;Rake
+b_66;23/03/2023;Trade payables;-19.11;Bob;Rake
+c_619;23/03/2023;Bank (Postbank) — main account;66.35;David;Shovel
+c_619;23/03/2023;Trade receivables;-66.35;David;Shovel
+c_649;23/03/2023;Bank (Postbank) — main account;39.27;Bob;Watering Can
+c_649;23/03/2023;Trade receivables;-39.27;Bob;Watering Can
+c_656;23/03/2023;Bank (Postbank) — main account;1833.91;Alice;Lawn Mower
+c_656;23/03/2023;Trade receivables;-1833.91;Alice;Lawn Mower
+c_679;23/03/2023;Bank (Postbank) — main account;637.19;David;Leaf Blower
+c_679;23/03/2023;Trade receivables;-637.19;David;Leaf Blower
+c_70;23/03/2023;Trade receivables;119.57;David;Hedge Trimmer
+c_70;23/03/2023;Revenue, 19% VAT;-100.48;David;Hedge Trimmer
+c_70;23/03/2023;VAT payable, 19%;-19.09;David;Hedge Trimmer
+d_238;23/03/2023;Cost of merchandise, 19% input tax;80.0;David;Garden Hose
+d_238;23/03/2023;Deductible input tax, 19%;15.2;David;Garden Hose
+d_238;23/03/2023;Trade payables;-95.2;David;Garden Hose
+f_236;23/03/2023;Trade payables;154.7;Max;Watering Can
+f_236;23/03/2023;Bank (Postbank) — main account;-154.7;Max;Watering Can
+f_271;23/03/2023;Trade payables;21.49;Charlie;Garden Shears
+f_271;23/03/2023;Bank (Postbank) — main account;-21.49;Charlie;Garden Shears
+f_290;23/03/2023;Trade payables;1312.93;Max;Leaf Blower
+f_290;23/03/2023;Cash-in-hand;-1312.93;Max;Leaf Blower
+f_395;23/03/2023;Trade payables;38.22;Fred;Rake
+f_395;23/03/2023;Bank (Postbank) — main account;-38.22;Fred;Rake
+g_145;23/03/2023;Cost of merchandise, 19% input tax;198.66;Fred;Garden Shears
+g_145;23/03/2023;Deductible input tax, 19%;37.75;Fred;Garden Shears
+g_145;23/03/2023;Trade payables;-236.41;Fred;Garden Shears
+h_26;23/03/2023;Trade receivables;254.87;Charlie;Leaf Blower
+h_26;23/03/2023;Revenue, 19% VAT;-214.18;Charlie;Leaf Blower
+h_26;23/03/2023;VAT payable, 19%;-40.69;Charlie;Leaf Blower
+h_4;23/03/2023;Trade receivables;509.75;Fred;Leaf Blower
+h_4;23/03/2023;Revenue, 19% VAT;-428.36;Fred;Leaf Blower
+h_4;23/03/2023;VAT payable, 19%;-81.39;Fred;Leaf Blower
+i_5;23/03/2023;Trade receivables;35.46;Fred;Garden Shears
+i_5;23/03/2023;Revenue, 19% VAT;-29.8;Fred;Garden Shears
+i_5;23/03/2023;VAT payable, 19%;-5.66;Fred;Garden Shears
+a_358;24/03/2023;Cost of merchandise, 19% input tax;730.8;Alice;Hedge Trimmer
+a_358;24/03/2023;Deductible input tax, 19%;138.85;Alice;Hedge Trimmer
+a_358;24/03/2023;Trade payables;-869.65;Alice;Hedge Trimmer
+a_498;24/03/2023;Cost of merchandise, 19% input tax;36.12;David;Garden Shears
+a_498;24/03/2023;Deductible input tax, 19%;6.86;David;Garden Shears
+a_498;24/03/2023;Trade payables;-42.98;David;Garden Shears
+a_718;24/03/2023;Trade payables;477.79;David;Wheelbarrow
+a_718;24/03/2023;Bank (Postbank) — main account;-477.79;David;Wheelbarrow
+c_172;24/03/2023;Trade receivables;157.66;Max;Wheelbarrow
+c_172;24/03/2023;Revenue, 19% VAT;-132.49;Max;Wheelbarrow
+c_172;24/03/2023;VAT payable, 19%;-25.17;Max;Wheelbarrow
+c_183;24/03/2023;Trade receivables;2.44;David;Gardening Gloves
+c_183;24/03/2023;Revenue, 19% VAT;-2.05;David;Gardening Gloves
+c_183;24/03/2023;VAT payable, 19%;-0.39;David;Gardening Gloves
+c_210;24/03/2023;Trade receivables;141.85;Max;Garden Shears
+c_210;24/03/2023;Revenue, 19% VAT;-119.2;Max;Garden Shears
+c_210;24/03/2023;VAT payable, 19%;-22.65;Max;Garden Shears
+c_418;24/03/2023;Bank (Postbank) — main account;119.57;David;Hedge Trimmer
+c_418;24/03/2023;Trade receivables;-119.57;David;Hedge Trimmer
+c_420;24/03/2023;Bank (Postbank) — main account;119.57;David;Hedge Trimmer
+c_420;24/03/2023;Trade receivables;-119.57;David;Hedge Trimmer
+c_586;24/03/2023;Bank (Postbank) — main account;315.33;Max;Wheelbarrow
+c_586;24/03/2023;Trade receivables;-315.33;Max;Wheelbarrow
+e_348;24/03/2023;Trade receivables;509.75;Bob;Leaf Blower
+e_348;24/03/2023;Revenue, 19% VAT;-428.36;Bob;Leaf Blower
+e_348;24/03/2023;VAT payable, 19%;-81.39;Bob;Leaf Blower
+f_106;24/03/2023;Cost of merchandise, 19% input tax;973.5;David;Leaf Blower
+f_106;24/03/2023;Deductible input tax, 19%;184.97;David;Leaf Blower
+f_106;24/03/2023;Trade payables;-1158.47;David;Leaf Blower
+f_143;24/03/2023;Cost of merchandise, 19% input tax;340.0;Bob;Garden Hose
+f_143;24/03/2023;Deductible input tax, 19%;64.6;Bob;Garden Hose
+f_143;24/03/2023;Trade payables;-404.6;Bob;Garden Hose
+f_171;24/03/2023;Cost of merchandise, 19% input tax;7.44;Fred;Gardening Gloves
+f_171;24/03/2023;Deductible input tax, 19%;1.41;Fred;Gardening Gloves
+f_171;24/03/2023;Trade payables;-8.85;Fred;Gardening Gloves
+f_184;24/03/2023;Cost of merchandise, 19% input tax;23.56;Fred;Gardening Gloves
+f_184;24/03/2023;Deductible input tax, 19%;4.48;Fred;Gardening Gloves
+f_184;24/03/2023;Trade payables;-28.04;Fred;Gardening Gloves
+f_227;24/03/2023;Trade payables;308.92;Bob;Leaf Blower
+f_227;24/03/2023;Bank (Postbank) — main account;-308.92;Bob;Leaf Blower
+f_27;24/03/2023;Cost of merchandise, 19% input tax;259.6;Bob;Leaf Blower
+f_27;24/03/2023;Deductible input tax, 19%;49.32;Bob;Leaf Blower
+f_27;24/03/2023;Trade payables;-308.92;Bob;Leaf Blower
+f_327;24/03/2023;Trade payables;1159.54;Fred;Hedge Trimmer
+f_327;24/03/2023;Bank (Postbank) — main account;-1159.54;Fred;Hedge Trimmer
+h_35;24/03/2023;Trade receivables;1833.91;Charlie;Lawn Mower
+h_35;24/03/2023;Revenue, 19% VAT;-1541.1;Charlie;Lawn Mower
+h_35;24/03/2023;VAT payable, 19%;-292.81;Charlie;Lawn Mower
+x_72;24/03/2023;Office supplies;186.68;Alice;Office supplies March
+x_72;24/03/2023;Deductible input tax, 19%;35.47;Alice;Office supplies March
+x_72;24/03/2023;Cash-in-hand;-222.15;Alice;Office supplies March
+a_810;27/03/2023;Trade payables;191.11;Alice;Wheelbarrow
+a_810;27/03/2023;Bank (Postbank) — main account;-191.11;Alice;Wheelbarrow
+b_344;27/03/2023;Cost of merchandise, 19% input tax;186.8;Alice;Lawn Mower
+b_344;27/03/2023;Deductible input tax, 19%;35.49;Alice;Lawn Mower
+b_344;27/03/2023;Trade payables;-222.29;Alice;Lawn Mower
+b_559;27/03/2023;Trade payables;77.23;David;Leaf Blower
+b_559;27/03/2023;Cash-in-hand;-77.23;David;Leaf Blower
+b_589;27/03/2023;Trade payables;23.8;David;Garden Hose
+b_589;27/03/2023;Cash-in-hand;-23.8;David;Garden Hose
+c_136;27/03/2023;Trade receivables;33.18;Alice;Shovel
+c_136;27/03/2023;Revenue, 19% VAT;-27.88;Alice;Shovel
+c_136;27/03/2023;VAT payable, 19%;-5.3;Alice;Shovel
+c_264;27/03/2023;Trade receivables;7.32;Max;Gardening Gloves
+c_264;27/03/2023;Revenue, 19% VAT;-6.15;Max;Gardening Gloves
+c_264;27/03/2023;VAT payable, 19%;-1.17;Max;Gardening Gloves
+c_277;27/03/2023;Trade receivables;98.18;Bob;Watering Can
+c_277;27/03/2023;Revenue, 19% VAT;-82.5;Bob;Watering Can
+c_277;27/03/2023;VAT payable, 19%;-15.68;Bob;Watering Can
+d_151;27/03/2023;Cost of merchandise, 19% input tax;180.6;Bob;Garden Shears
+d_151;27/03/2023;Deductible input tax, 19%;34.31;Bob;Garden Shears
+d_151;27/03/2023;Trade payables;-214.91;Bob;Garden Shears
+e_108;27/03/2023;Trade receivables;63.07;Bob;Rake
+e_108;27/03/2023;Revenue, 19% VAT;-53.0;Bob;Rake
+e_108;27/03/2023;VAT payable, 19%;-10.07;Bob;Rake
+e_141;27/03/2023;Trade receivables;239.14;Bob;Hedge Trimmer
+e_141;27/03/2023;Revenue, 19% VAT;-200.96;Bob;Hedge Trimmer
+e_141;27/03/2023;VAT payable, 19%;-38.18;Bob;Hedge Trimmer
+e_281;27/03/2023;Trade receivables;788.32;Alice;Wheelbarrow
+e_281;27/03/2023;Revenue, 19% VAT;-662.45;Alice;Wheelbarrow
+e_281;27/03/2023;VAT payable, 19%;-125.87;Alice;Wheelbarrow
+e_508;27/03/2023;Bank (Postbank) — main account;63.07;Fred;Rake
+e_508;27/03/2023;Trade receivables;-63.07;Fred;Rake
+e_62;27/03/2023;Trade receivables;63.07;Alice;Rake
+e_62;27/03/2023;Revenue, 19% VAT;-53.0;Alice;Rake
+e_62;27/03/2023;VAT payable, 19%;-10.07;Alice;Rake
+f_344;27/03/2023;Trade payables;210.23;Fred;Rake
+f_344;27/03/2023;Bank (Postbank) — main account;-210.23;Fred;Rake
+g_31;27/03/2023;Cost of merchandise, 19% input tax;1606.0;Charlie;Wheelbarrow
+g_31;27/03/2023;Deductible input tax, 19%;305.14;Charlie;Wheelbarrow
+g_31;27/03/2023;Trade payables;-1911.14;Charlie;Wheelbarrow
+i_55;27/03/2023;Cash-in-hand;35.46;Fred;Garden Shears
+i_55;27/03/2023;Trade receivables;-35.46;Fred;Garden Shears
+x_73;27/03/2023;Legal and consulting expenses;2073.69;Alice;Legal and consulting March
+x_73;27/03/2023;Deductible input tax, 19%;394.0;Alice;Legal and consulting March
+x_73;27/03/2023;Bank (Postbank) — main account;-2467.69;Alice;Legal and consulting March
+a_321;28/03/2023;Cost of merchandise, 19% input tax;253.5;Max;Shovel
+a_321;28/03/2023;Deductible input tax, 19%;48.17;Max;Shovel
+a_321;28/03/2023;Trade payables;-301.67;Max;Shovel
+a_552;28/03/2023;Trade payables;76.45;Alice;Rake
+a_552;28/03/2023;Bank (Postbank) — main account;-76.45;Alice;Rake
+a_930;28/03/2023;Trade payables;1376.95;Bob;Hedge Trimmer
+a_930;28/03/2023;Bank (Postbank) — main account;-1376.95;Bob;Hedge Trimmer
+b_124;28/03/2023;Cost of merchandise, 19% input tax;20.0;Bob;Garden Hose
+b_124;28/03/2023;Deductible input tax, 19%;3.8;Bob;Garden Hose
+b_124;28/03/2023;Trade payables;-23.8;Bob;Garden Hose
+b_160;28/03/2023;Cost of merchandise, 19% input tax;1.24;Alice;Gardening Gloves
+b_160;28/03/2023;Deductible input tax, 19%;0.24;Alice;Gardening Gloves
+b_160;28/03/2023;Trade payables;-1.48;Alice;Gardening Gloves
+b_352;28/03/2023;Cost of merchandise, 19% input tax;64.9;Alice;Leaf Blower
+b_352;28/03/2023;Deductible input tax, 19%;12.33;Alice;Leaf Blower
+b_352;28/03/2023;Trade payables;-77.23;Alice;Leaf Blower
+b_466;28/03/2023;Trade payables;19.11;Bob;Rake
+b_466;28/03/2023;Cash-in-hand;-19.11;Bob;Rake
+b_512;28/03/2023;Trade payables;20.11;Max;Shovel
+b_512;28/03/2023;Cash-in-hand;-20.11;Max;Shovel
+b_7;28/03/2023;Cost of merchandise, 19% input tax;1.24;David;Gardening Gloves
+b_7;28/03/2023;Deductible input tax, 19%;0.24;David;Gardening Gloves
+b_7;28/03/2023;Trade payables;-1.48;David;Gardening Gloves
+b_82;28/03/2023;Cost of merchandise, 19% input tax;10.0;Fred;Watering Can
+b_82;28/03/2023;Deductible input tax, 19%;1.9;Fred;Watering Can
+b_82;28/03/2023;Trade payables;-11.9;Fred;Watering Can
+c_16;28/03/2023;Trade receivables;127.44;Bob;Leaf Blower
+c_16;28/03/2023;Revenue, 19% VAT;-107.09;Bob;Leaf Blower
+c_16;28/03/2023;VAT payable, 19%;-20.35;Bob;Leaf Blower
+c_228;28/03/2023;Trade receivables;1833.91;David;Lawn Mower
+c_228;28/03/2023;Revenue, 19% VAT;-1541.1;David;Lawn Mower
+c_228;28/03/2023;VAT payable, 19%;-292.81;David;Lawn Mower
+c_288;28/03/2023;Trade receivables;19.64;David;Watering Can
+c_288;28/03/2023;Revenue, 19% VAT;-16.5;David;Watering Can
+c_288;28/03/2023;VAT payable, 19%;-3.14;David;Watering Can
+c_560;28/03/2023;Bank (Postbank) — main account;141.85;Max;Garden Shears
+c_560;28/03/2023;Trade receivables;-141.85;Max;Garden Shears
+c_614;28/03/2023;Bank (Postbank) — main account;7.32;Max;Gardening Gloves
+c_614;28/03/2023;Trade receivables;-7.32;Max;Gardening Gloves
+d_5;28/03/2023;Cost of merchandise, 19% input tax;224.84;Alice;Rake
+d_5;28/03/2023;Deductible input tax, 19%;42.72;Alice;Rake
+d_5;28/03/2023;Trade payables;-267.56;Alice;Rake
+e_261;28/03/2023;Trade receivables;4.88;Alice;Gardening Gloves
+e_261;28/03/2023;Revenue, 19% VAT;-4.1;Alice;Gardening Gloves
+e_261;28/03/2023;VAT payable, 19%;-0.78;Alice;Gardening Gloves
+f_209;28/03/2023;Trade payables;382.11;Charlie;Shovel
+f_209;28/03/2023;Bank (Postbank) — main account;-382.11;Charlie;Shovel
+f_67;28/03/2023;Cost of merchandise, 19% input tax;160.0;Charlie;Garden Hose
+f_67;28/03/2023;Deductible input tax, 19%;30.4;Charlie;Garden Hose
+f_67;28/03/2023;Trade payables;-190.4;Charlie;Garden Hose
+g_181;28/03/2023;Trade payables;1911.14;Fred;Wheelbarrow
+g_181;28/03/2023;Cash-in-hand;-1911.14;Fred;Wheelbarrow
+h_135;28/03/2023;Bank (Postbank) — main account;1833.91;Charlie;Lawn Mower
+h_135;28/03/2023;Trade receivables;-1833.91;Charlie;Lawn Mower
+h_155;28/03/2023;Bank (Postbank) — main account;254.87;Fred;Leaf Blower
+h_155;28/03/2023;Trade receivables;-254.87;Fred;Leaf Blower
+a_70;29/03/2023;Cost of merchandise, 19% input tax;200.0;Alice;Watering Can
+a_70;29/03/2023;Deductible input tax, 19%;38.0;Alice;Watering Can
+a_70;29/03/2023;Trade payables;-238.0;Alice;Watering Can
+a_806;29/03/2023;Trade payables;1337.8;Bob;Wheelbarrow
+a_806;29/03/2023;Bank (Postbank) — main account;-1337.8;Bob;Wheelbarrow
+a_858;29/03/2023;Trade payables;869.65;Alice;Hedge Trimmer
+a_858;29/03/2023;Bank (Postbank) — main account;-869.65;Alice;Hedge Trimmer
+a_998;29/03/2023;Trade payables;42.98;David;Garden Shears
+a_998;29/03/2023;Bank (Postbank) — main account;-42.98;David;Garden Shears
+b_17;29/03/2023;Cost of merchandise, 19% input tax;20.0;Alice;Garden Hose
+b_17;29/03/2023;Deductible input tax, 19%;3.8;Alice;Garden Hose
+b_17;29/03/2023;Trade payables;-23.8;Alice;Garden Hose
+b_407;29/03/2023;Trade payables;1.48;David;Gardening Gloves
+b_407;29/03/2023;Cash-in-hand;-1.48;David;Gardening Gloves
+b_500;29/03/2023;Trade payables;21.49;Alice;Garden Shears
+b_500;29/03/2023;Cash-in-hand;-21.49;Alice;Garden Shears
+c_533;29/03/2023;Bank (Postbank) — main account;2.44;David;Gardening Gloves
+c_533;29/03/2023;Trade receivables;-2.44;David;Gardening Gloves
+c_627;29/03/2023;Bank (Postbank) — main account;98.18;Bob;Watering Can
+c_627;29/03/2023;Trade receivables;-98.18;Bob;Watering Can
+d_250;29/03/2023;Cost of merchandise, 19% input tax;778.8;Alice;Leaf Blower
+d_250;29/03/2023;Deductible input tax, 19%;147.97;Alice;Leaf Blower
+d_250;29/03/2023;Trade payables;-926.77;Alice;Leaf Blower
+d_332;29/03/2023;Cost of merchandise, 19% input tax;360.0;Alice;Garden Hose
+d_332;29/03/2023;Deductible input tax, 19%;68.4;Alice;Garden Hose
+d_332;29/03/2023;Trade payables;-428.4;Alice;Garden Hose
+d_515;29/03/2023;Trade payables;279.39;Bob;Garden Shears
+d_515;29/03/2023;Bank (Postbank) — main account;-279.39;Bob;Garden Shears
+e_232;29/03/2023;Trade receivables;12.2;Bob;Gardening Gloves
+e_232;29/03/2023;Revenue, 19% VAT;-10.25;Bob;Gardening Gloves
+e_232;29/03/2023;VAT payable, 19%;-1.95;Bob;Gardening Gloves
+e_343;29/03/2023;Trade receivables;117.81;Bob;Garden Hose
+e_343;29/03/2023;Revenue, 19% VAT;-99.0;Bob;Garden Hose
+e_343;29/03/2023;VAT payable, 19%;-18.81;Bob;Garden Hose
+e_743;29/03/2023;Bank (Postbank) — main account;117.81;Bob;Garden Hose
+e_743;29/03/2023;Trade receivables;-117.81;Bob;Garden Hose
+g_170;29/03/2023;Trade payables;4.43;Charlie;Gardening Gloves
+g_170;29/03/2023;Cash-in-hand;-4.43;Charlie;Gardening Gloves
+g_254;29/03/2023;Trade payables;362.0;Fred;Shovel
+g_254;29/03/2023;Cash-in-hand;-362.0;Fred;Shovel
+h_48;29/03/2023;Trade receivables;157.66;Bob;Wheelbarrow
+h_48;29/03/2023;Revenue, 19% VAT;-132.49;Bob;Wheelbarrow
+h_48;29/03/2023;VAT payable, 19%;-25.17;Bob;Wheelbarrow
+a_113;30/03/2023;Cost of merchandise, 19% input tax;2428.4;Max;Lawn Mower
+a_113;30/03/2023;Deductible input tax, 19%;461.4;Max;Lawn Mower
+a_113;30/03/2023;Trade payables;-2889.8;Max;Lawn Mower
+a_405;30/03/2023;Cost of merchandise, 19% input tax;40.0;Max;Watering Can
+a_405;30/03/2023;Deductible input tax, 19%;7.6;Max;Watering Can
+a_405;30/03/2023;Trade payables;-47.6;Max;Watering Can
+a_485;30/03/2023;Cost of merchandise, 19% input tax;194.7;David;Leaf Blower
+a_485;30/03/2023;Deductible input tax, 19%;36.99;David;Leaf Blower
+a_485;30/03/2023;Trade payables;-231.69;David;Leaf Blower
+a_584;30/03/2023;Trade payables;76.45;Alice;Rake
+a_584;30/03/2023;Bank (Postbank) — main account;-76.45;Alice;Rake
+a_897;30/03/2023;Trade payables;38.22;Alice;Rake
+a_897;30/03/2023;Bank (Postbank) — main account;-38.22;Alice;Rake
+b_161;30/03/2023;Cost of merchandise, 19% input tax;10.0;Max;Watering Can
+b_161;30/03/2023;Deductible input tax, 19%;1.9;Max;Watering Can
+b_161;30/03/2023;Trade payables;-11.9;Max;Watering Can
+b_560;30/03/2023;Trade payables;1.48;Alice;Gardening Gloves
+b_560;30/03/2023;Cash-in-hand;-1.48;Alice;Gardening Gloves
+b_597;30/03/2023;Trade payables;19.11;Max;Rake
+b_597;30/03/2023;Cash-in-hand;-19.11;Max;Rake
+b_610;30/03/2023;Trade payables;222.29;David;Lawn Mower
+b_610;30/03/2023;Cash-in-hand;-222.29;David;Lawn Mower
+b_634;30/03/2023;Trade payables;11.9;Bob;Watering Can
+b_634;30/03/2023;Cash-in-hand;-11.9;Bob;Watering Can
+b_744;30/03/2023;Trade payables;222.29;Alice;Lawn Mower
+b_744;30/03/2023;Cash-in-hand;-222.29;Alice;Lawn Mower
+c_103;30/03/2023;Trade receivables;366.78;David;Lawn Mower
+c_103;30/03/2023;Revenue, 19% VAT;-308.22;David;Lawn Mower
+c_103;30/03/2023;VAT payable, 19%;-58.56;David;Lawn Mower
+c_245;30/03/2023;Trade receivables;141.85;Max;Garden Shears
+c_245;30/03/2023;Revenue, 19% VAT;-119.2;Max;Garden Shears
+c_245;30/03/2023;VAT payable, 19%;-22.65;Max;Garden Shears
+c_40;30/03/2023;Trade receivables;33.18;Alice;Shovel
+c_40;30/03/2023;Revenue, 19% VAT;-27.88;Alice;Shovel
+c_40;30/03/2023;VAT payable, 19%;-5.3;Alice;Shovel
+d_136;30/03/2023;Cost of merchandise, 19% input tax;110.0;Alice;Watering Can
+d_136;30/03/2023;Deductible input tax, 19%;20.9;Alice;Watering Can
+d_136;30/03/2023;Trade payables;-130.9;Alice;Watering Can
+d_181;30/03/2023;Cost of merchandise, 19% input tax;287.3;Bob;Shovel
+d_181;30/03/2023;Deductible input tax, 19%;54.59;Bob;Shovel
+d_181;30/03/2023;Trade payables;-341.89;Bob;Shovel
+d_330;30/03/2023;Cost of merchandise, 19% input tax;101.4;Alice;Shovel
+d_330;30/03/2023;Deductible input tax, 19%;19.27;Alice;Shovel
+d_330;30/03/2023;Trade payables;-120.67;Alice;Shovel
+e_109;30/03/2023;Trade receivables;478.28;Bob;Hedge Trimmer
+e_109;30/03/2023;Revenue, 19% VAT;-401.92;Bob;Hedge Trimmer
+e_109;30/03/2023;VAT payable, 19%;-76.36;Bob;Hedge Trimmer
+e_14;30/03/2023;Trade receivables;99.53;Bob;Shovel
+e_14;30/03/2023;Revenue, 19% VAT;-83.64;Bob;Shovel
+e_14;30/03/2023;VAT payable, 19%;-15.89;Bob;Shovel
+e_154;30/03/2023;Trade receivables;509.75;Bob;Leaf Blower
+e_154;30/03/2023;Revenue, 19% VAT;-428.36;Bob;Leaf Blower
+e_154;30/03/2023;VAT payable, 19%;-81.39;Bob;Leaf Blower
+e_235;30/03/2023;Trade receivables;472.99;Alice;Wheelbarrow
+e_235;30/03/2023;Revenue, 19% VAT;-397.47;Alice;Wheelbarrow
+e_235;30/03/2023;VAT payable, 19%;-75.52;Alice;Wheelbarrow
+e_681;30/03/2023;Bank (Postbank) — main account;788.32;Alice;Wheelbarrow
+e_681;30/03/2023;Trade receivables;-788.32;Alice;Wheelbarrow
+e_748;30/03/2023;Bank (Postbank) — main account;509.75;Bob;Leaf Blower
+e_748;30/03/2023;Trade receivables;-509.75;Bob;Leaf Blower
+f_144;30/03/2023;Cost of merchandise, 19% input tax;176.66;Fred;Rake
+f_144;30/03/2023;Deductible input tax, 19%;33.57;Fred;Rake
+f_144;30/03/2023;Trade payables;-210.23;Fred;Rake
+f_343;30/03/2023;Trade payables;404.6;Bob;Garden Hose
+f_343;30/03/2023;Bank (Postbank) — main account;-404.6;Bob;Garden Hose
+g_32;30/03/2023;Cost of merchandise, 19% input tax;669.9;Fred;Hedge Trimmer
+g_32;30/03/2023;Deductible input tax, 19%;127.28;Fred;Hedge Trimmer
+g_32;30/03/2023;Trade payables;-797.18;Fred;Hedge Trimmer
+h_104;30/03/2023;Bank (Postbank) — main account;509.75;Fred;Leaf Blower
+h_104;30/03/2023;Trade receivables;-509.75;Fred;Leaf Blower
+h_115;30/03/2023;Bank (Postbank) — main account;70.92;Fred;Garden Shears
+h_115;30/03/2023;Trade receivables;-70.92;Fred;Garden Shears
+h_126;30/03/2023;Bank (Postbank) — main account;254.87;Charlie;Leaf Blower
+h_126;30/03/2023;Trade receivables;-254.87;Charlie;Leaf Blower
+a_119;31/03/2023;Cost of merchandise, 19% input tax;180.6;Alice;Garden Shears
+a_119;31/03/2023;Deductible input tax, 19%;34.31;Alice;Garden Shears
+a_119;31/03/2023;Trade payables;-214.91;Alice;Garden Shears
+a_189;31/03/2023;Cost of merchandise, 19% input tax;287.3;Max;Shovel
+a_189;31/03/2023;Deductible input tax, 19%;54.59;Max;Shovel
+a_189;31/03/2023;Trade payables;-341.89;Max;Shovel
+a_221;31/03/2023;Cost of merchandise, 19% input tax;67.6;Alice;Shovel
+a_221;31/03/2023;Deductible input tax, 19%;12.84;Alice;Shovel
+a_221;31/03/2023;Trade payables;-80.44;Alice;Shovel
+a_397;31/03/2023;Cost of merchandise, 19% input tax;32.12;Alice;Rake
+a_397;31/03/2023;Deductible input tax, 19%;6.1;Alice;Rake
+a_397;31/03/2023;Trade payables;-38.22;Alice;Rake
+a_430;31/03/2023;Cost of merchandise, 19% input tax;1157.1;Bob;Hedge Trimmer
+a_430;31/03/2023;Deductible input tax, 19%;219.85;Bob;Hedge Trimmer
+a_430;31/03/2023;Trade payables;-1376.95;Bob;Hedge Trimmer
+a_445;31/03/2023;Cost of merchandise, 19% input tax;934.0;Max;Lawn Mower
+a_445;31/03/2023;Deductible input tax, 19%;177.46;Max;Lawn Mower
+a_445;31/03/2023;Trade payables;-1111.46;Max;Lawn Mower
+a_821;31/03/2023;Trade payables;301.67;Max;Shovel
+a_821;31/03/2023;Bank (Postbank) — main account;-301.67;Max;Shovel
+a_945;31/03/2023;Trade payables;1111.46;Fred;Lawn Mower
+a_945;31/03/2023;Bank (Postbank) — main account;-1111.46;Fred;Lawn Mower
+b_72;31/03/2023;Cost of merchandise, 19% input tax;16.9;David;Shovel
+b_72;31/03/2023;Deductible input tax, 19%;3.21;David;Shovel
+b_72;31/03/2023;Trade payables;-20.11;David;Shovel
+c_381;31/03/2023;Bank (Postbank) — main account;35.46;Bob;Garden Shears
+c_381;31/03/2023;Trade receivables;-35.46;Bob;Garden Shears
+d_411;31/03/2023;Trade payables;382.23;Bob;Wheelbarrow
+d_411;31/03/2023;Bank (Postbank) — main account;-382.23;Bob;Wheelbarrow
+f_289;31/03/2023;Trade payables;26.56;Charlie;Gardening Gloves
+f_289;31/03/2023;Bank (Postbank) — main account;-26.56;Charlie;Gardening Gloves
+f_384;31/03/2023;Trade payables;28.04;Fred;Gardening Gloves
+f_384;31/03/2023;Bank (Postbank) — main account;-28.04;Fred;Gardening Gloves
+g_253;31/03/2023;Trade payables;95.56;Charlie;Wheelbarrow
+g_253;31/03/2023;Cash-in-hand;-95.56;Charlie;Wheelbarrow
+g_50;31/03/2023;Cost of merchandise, 19% input tax;722.7;Max;Wheelbarrow
+g_50;31/03/2023;Deductible input tax, 19%;137.31;Max;Wheelbarrow
+g_50;31/03/2023;Cash-in-hand;-860.01;Max;Wheelbarrow
+g_69;31/03/2023;Cost of merchandise, 19% input tax;16.9;Charlie;Shovel
+g_69;31/03/2023;Deductible input tax, 19%;3.21;Charlie;Shovel
+g_69;31/03/2023;Trade payables;-20.11;Charlie;Shovel
+h_84;31/03/2023;Trade receivables;106.39;David;Garden Shears
+h_84;31/03/2023;Revenue, 19% VAT;-89.4;David;Garden Shears
+h_84;31/03/2023;VAT payable, 19%;-16.99;David;Garden Shears
+a_689;03/04/2023;Trade payables;341.89;Max;Shovel
+a_689;03/04/2023;Bank (Postbank) — main account;-341.89;Max;Shovel
+b_658;03/04/2023;Trade payables;95.56;Alice;Wheelbarrow
+b_658;03/04/2023;Cash-in-hand;-95.56;Alice;Wheelbarrow
+d_11;03/04/2023;Cost of merchandise, 19% input tax;321.2;Bob;Wheelbarrow
+d_11;03/04/2023;Deductible input tax, 19%;61.03;Bob;Wheelbarrow
+d_11;03/04/2023;Trade payables;-382.23;Bob;Wheelbarrow
+d_115;03/04/2023;Cost of merchandise, 19% input tax;234.78;Bob;Garden Shears
+d_115;03/04/2023;Deductible input tax, 19%;44.61;Bob;Garden Shears
+d_115;03/04/2023;Trade payables;-279.39;Bob;Garden Shears
+d_169;03/04/2023;Cost of merchandise, 19% input tax;100.0;David;Watering Can
+d_169;03/04/2023;Deductible input tax, 19%;19.0;David;Watering Can
+d_169;03/04/2023;Trade payables;-119.0;David;Watering Can
+d_581;03/04/2023;Trade payables;341.89;Bob;Shovel
+d_581;03/04/2023;Bank (Postbank) — main account;-341.89;Bob;Shovel
+d_638;03/04/2023;Trade payables;95.2;David;Garden Hose
+d_638;03/04/2023;Bank (Postbank) — main account;-95.2;David;Garden Hose
+e_359;03/04/2023;Trade receivables;4.88;Bob;Gardening Gloves
+e_359;03/04/2023;Revenue, 19% VAT;-4.1;Bob;Gardening Gloves
+e_359;03/04/2023;VAT payable, 19%;-0.78;Bob;Gardening Gloves
+e_509;03/04/2023;Bank (Postbank) — main account;478.28;Bob;Hedge Trimmer
+e_509;03/04/2023;Trade receivables;-478.28;Bob;Hedge Trimmer
+f_229;03/04/2023;Trade payables;1720.03;Bob;Wheelbarrow
+f_229;03/04/2023;Bank (Postbank) — main account;-1720.03;Bob;Wheelbarrow
+x_74;03/04/2023;Salaries;2051.42;Alice;Salary Max April
+x_74;03/04/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Max April
+x_77;03/04/2023;Salaries;2051.42;Alice;Salary Alice April
+x_77;03/04/2023;Bank (Postbank) — main account;-2051.42;Alice;Salary Alice April
+x_80;03/04/2023;Salaries;2051.42;Max;Salary Bob April
+x_80;03/04/2023;Cash-in-hand;-2051.42;Max;Salary Bob April
+x_83;03/04/2023;Salaries;1880.65;Alice;Salary Charlie April
+x_83;03/04/2023;Bank (Postbank) — main account;-1880.65;Alice;Salary Charlie April
+x_86;03/04/2023;Salaries;1880.65;Alice;Salary David April
+x_86;03/04/2023;Bank (Postbank) — main account;-1880.65;Alice;Salary David April
+x_89;03/04/2023;Rent — immovable property;22500.0;Alice;Rent April
+x_89;03/04/2023;Bank (Postbank) — main account;-22500.0;Alice;Rent April
+a_312;04/04/2023;Cost of merchandise, 19% input tax;12.4;David;Gardening Gloves
+a_312;04/04/2023;Deductible input tax, 19%;2.36;David;Gardening Gloves
+a_312;04/04/2023;Trade payables;-14.76;David;Gardening Gloves
+a_570;04/04/2023;Trade payables;238.0;Alice;Watering Can
+a_570;04/04/2023;Bank (Postbank) — main account;-238.0;Alice;Watering Can
+a_613;04/04/2023;Trade payables;2889.8;Max;Lawn Mower
+a_613;04/04/2023;Bank (Postbank) — main account;-2889.8;Max;Lawn Mower
+a_985;04/04/2023;Trade payables;231.69;David;Leaf Blower
+a_985;04/04/2023;Bank (Postbank) — main account;-231.69;David;Leaf Blower
+b_10;04/04/2023;Cost of merchandise, 19% input tax;16.9;Alice;Shovel
+b_10;04/04/2023;Deductible input tax, 19%;3.21;Alice;Shovel
+b_10;04/04/2023;Trade payables;-20.11;Alice;Shovel
+b_237;04/04/2023;Cost of merchandise, 19% input tax;60.9;Alice;Hedge Trimmer
+b_237;04/04/2023;Deductible input tax, 19%;11.57;Alice;Hedge Trimmer
+b_237;04/04/2023;Trade payables;-72.47;Alice;Hedge Trimmer
+b_258;04/04/2023;Cost of merchandise, 19% input tax;80.3;Alice;Wheelbarrow
+b_258;04/04/2023;Deductible input tax, 19%;15.26;Alice;Wheelbarrow
+b_258;04/04/2023;Trade payables;-95.56;Alice;Wheelbarrow
+b_482;04/04/2023;Trade payables;11.9;Alice;Watering Can
+b_482;04/04/2023;Cash-in-hand;-11.9;Alice;Watering Can
+c_270;04/04/2023;Trade receivables;157.66;Max;Wheelbarrow
+c_270;04/04/2023;Revenue, 19% VAT;-132.49;Max;Wheelbarrow
+c_270;04/04/2023;VAT payable, 19%;-25.17;Max;Wheelbarrow
+c_486;04/04/2023;Bank (Postbank) — main account;33.18;Alice;Shovel
+c_486;04/04/2023;Trade receivables;-33.18;Alice;Shovel
+c_536;04/04/2023;Bank (Postbank) — main account;366.78;David;Lawn Mower
+c_536;04/04/2023;Trade receivables;-366.78;David;Lawn Mower
+c_578;04/04/2023;Bank (Postbank) — main account;1833.91;Fred;Lawn Mower
+c_578;04/04/2023;Trade receivables;-1833.91;Fred;Lawn Mower
+d_184;04/04/2023;Cost of merchandise, 19% input tax;287.3;Alice;Shovel
+d_184;04/04/2023;Deductible input tax, 19%;54.59;Alice;Shovel
+d_184;04/04/2023;Trade payables;-341.89;Alice;Shovel
+d_246;04/04/2023;Cost of merchandise, 19% input tax;1284.8;Alice;Wheelbarrow
+d_246;04/04/2023;Deductible input tax, 19%;244.11;Alice;Wheelbarrow
+d_246;04/04/2023;Trade payables;-1528.91;Alice;Wheelbarrow
+d_318;04/04/2023;Cost of merchandise, 19% input tax;883.3;Bob;Wheelbarrow
+d_318;04/04/2023;Deductible input tax, 19%;167.83;Bob;Wheelbarrow
+d_318;04/04/2023;Trade payables;-1051.13;Bob;Wheelbarrow
+d_355;04/04/2023;Cost of merchandise, 19% input tax;67.6;David;Shovel
+d_355;04/04/2023;Deductible input tax, 19%;12.84;David;Shovel
+d_355;04/04/2023;Trade payables;-80.44;David;Shovel
+d_650;04/04/2023;Trade payables;926.77;Alice;Leaf Blower
+d_650;04/04/2023;Bank (Postbank) — main account;-926.77;Alice;Leaf Blower
+e_224;04/04/2023;Trade receivables;478.28;Bob;Hedge Trimmer
+e_224;04/04/2023;Revenue, 19% VAT;-401.92;Bob;Hedge Trimmer
+e_224;04/04/2023;VAT payable, 19%;-76.36;Bob;Hedge Trimmer
+e_31;04/04/2023;Trade receivables;239.14;Alice;Hedge Trimmer
+e_31;04/04/2023;Revenue, 19% VAT;-200.96;Alice;Hedge Trimmer
+e_31;04/04/2023;VAT payable, 19%;-38.18;Alice;Hedge Trimmer
+e_414;04/04/2023;Bank (Postbank) — main account;99.53;Bob;Shovel
+e_414;04/04/2023;Trade receivables;-99.53;Bob;Shovel
+e_437;04/04/2023;Bank (Postbank) — main account;157.68;Bob;Rake
+e_437;04/04/2023;Trade receivables;-157.68;Bob;Rake
+e_554;04/04/2023;Bank (Postbank) — main account;509.75;Bob;Leaf Blower
+e_554;04/04/2023;Trade receivables;-509.75;Bob;Leaf Blower
+e_661;04/04/2023;Bank (Postbank) — main account;4.88;Alice;Gardening Gloves
+e_661;04/04/2023;Trade receivables;-4.88;Alice;Gardening Gloves
+e_724;04/04/2023;Bank (Postbank) — main account;12.2;Bob;Gardening Gloves
+e_724;04/04/2023;Trade receivables;-12.2;Bob;Gardening Gloves
+f_21;04/04/2023;Cost of merchandise, 19% input tax;90.0;Bob;Watering Can
+f_21;04/04/2023;Deductible input tax, 19%;17.1;Bob;Watering Can
+f_21;04/04/2023;Trade payables;-107.1;Bob;Watering Can
+f_24;04/04/2023;Cost of merchandise, 19% input tax;70.0;Bob;Watering Can
+f_24;04/04/2023;Deductible input tax, 19%;13.3;Bob;Watering Can
+f_24;04/04/2023;Trade payables;-83.3;Bob;Watering Can
+g_182;04/04/2023;Trade payables;797.18;Fred;Hedge Trimmer
+g_182;04/04/2023;Cash-in-hand;-797.18;Fred;Hedge Trimmer
+g_200;04/04/2023;Trade payables;860.01;Max;Wheelbarrow
+g_200;04/04/2023;Cash-in-hand;-860.01;Max;Wheelbarrow
+h_148;04/04/2023;Bank (Postbank) — main account;157.66;Bob;Wheelbarrow
+h_148;04/04/2023;Trade receivables;-157.66;Bob;Wheelbarrow
+h_74;04/04/2023;Trade receivables;35.46;Charlie;Garden Shears
+h_74;04/04/2023;Revenue, 19% VAT;-29.8;Charlie;Garden Shears
+h_74;04/04/2023;VAT payable, 19%;-5.66;Charlie;Garden Shears
+h_94;04/04/2023;Trade receivables;509.75;Charlie;Leaf Blower
+h_94;04/04/2023;Revenue, 19% VAT;-428.36;Charlie;Leaf Blower
+h_94;04/04/2023;VAT payable, 19%;-81.39;Charlie;Leaf Blower
+a_252;05/04/2023;Cost of merchandise, 19% input tax;305.14;David;Rake
+a_252;05/04/2023;Deductible input tax, 19%;57.98;David;Rake
+a_252;05/04/2023;Trade payables;-363.12;David;Rake
+a_619;05/04/2023;Trade payables;214.91;Alice;Garden Shears
+a_619;05/04/2023;Bank (Postbank) — main account;-214.91;Alice;Garden Shears
+b_417;05/04/2023;Trade payables;23.8;Alice;Garden Hose
+b_417;05/04/2023;Cash-in-hand;-23.8;Alice;Garden Hose
+b_53;05/04/2023;Cost of merchandise, 19% input tax;64.9;Max;Leaf Blower
+b_53;05/04/2023;Deductible input tax, 19%;12.33;Max;Leaf Blower
+b_53;05/04/2023;Trade payables;-77.23;Max;Leaf Blower
+b_561;05/04/2023;Trade payables;11.9;Max;Watering Can
+b_561;05/04/2023;Cash-in-hand;-11.9;Max;Watering Can
+c_123;05/04/2023;Trade receivables;366.78;Bob;Lawn Mower
+c_123;05/04/2023;Revenue, 19% VAT;-308.22;Bob;Lawn Mower
+c_123;05/04/2023;VAT payable, 19%;-58.56;Bob;Lawn Mower
+c_186;05/04/2023;Trade receivables;366.78;David;Lawn Mower
+c_186;05/04/2023;Revenue, 19% VAT;-308.22;David;Lawn Mower
+c_186;05/04/2023;VAT payable, 19%;-58.56;David;Lawn Mower
+c_240;05/04/2023;Trade receivables;66.35;David;Shovel
+c_240;05/04/2023;Revenue, 19% VAT;-55.76;David;Shovel
+c_240;05/04/2023;VAT payable, 19%;-10.59;David;Shovel
+c_349;05/04/2023;Trade receivables;637.19;Max;Leaf Blower
+c_349;05/04/2023;Revenue, 19% VAT;-535.45;Max;Leaf Blower
+c_349;05/04/2023;VAT payable, 19%;-101.74;Max;Leaf Blower
+d_211;05/04/2023;Cost of merchandise, 19% input tax;12.4;David;Gardening Gloves
+d_211;05/04/2023;Deductible input tax, 19%;2.36;David;Gardening Gloves
+d_211;05/04/2023;Trade payables;-14.76;David;Gardening Gloves
+d_368;05/04/2023;Cost of merchandise, 19% input tax;50.0;Bob;Watering Can
+d_368;05/04/2023;Deductible input tax, 19%;9.5;Bob;Watering Can
+d_368;05/04/2023;Trade payables;-59.5;Bob;Watering Can
+d_405;05/04/2023;Trade payables;267.56;Alice;Rake
+d_405;05/04/2023;Bank (Postbank) — main account;-267.56;Alice;Rake
+d_551;05/04/2023;Trade payables;214.91;Bob;Garden Shears
+d_551;05/04/2023;Bank (Postbank) — main account;-214.91;Bob;Garden Shears
+d_569;05/04/2023;Trade payables;119.0;Fred;Watering Can
+d_569;05/04/2023;Bank (Postbank) — main account;-119.0;Fred;Watering Can
+d_730;05/04/2023;Trade payables;120.67;Alice;Shovel
+d_730;05/04/2023;Bank (Postbank) — main account;-120.67;Alice;Shovel
+e_114;05/04/2023;Trade receivables;119.57;Alice;Hedge Trimmer
+e_114;05/04/2023;Revenue, 19% VAT;-100.48;Alice;Hedge Trimmer
+e_114;05/04/2023;VAT payable, 19%;-19.09;Alice;Hedge Trimmer
+e_24;05/04/2023;Trade receivables;597.86;Bob;Hedge Trimmer
+e_24;05/04/2023;Revenue, 19% VAT;-502.4;Bob;Hedge Trimmer
+e_24;05/04/2023;VAT payable, 19%;-95.46;Bob;Hedge Trimmer
+e_324;05/04/2023;Trade receivables;12.2;Bob;Gardening Gloves
+e_324;05/04/2023;Revenue, 19% VAT;-10.25;Bob;Gardening Gloves
+e_324;05/04/2023;VAT payable, 19%;-1.95;Bob;Gardening Gloves
+e_389;05/04/2023;Trade receivables;196.35;Alice;Garden Hose
+e_389;05/04/2023;Revenue, 19% VAT;-165.0;Alice;Garden Hose
+e_389;05/04/2023;VAT payable, 19%;-31.35;Alice;Garden Hose
+e_541;05/04/2023;Bank (Postbank) — main account;239.14;Bob;Hedge Trimmer
+e_541;05/04/2023;Trade receivables;-239.14;Bob;Hedge Trimmer
+f_221;05/04/2023;Trade payables;107.1;Bob;Watering Can
+f_221;05/04/2023;Bank (Postbank) — main account;-107.1;Bob;Watering Can
+f_33;05/04/2023;Cost of merchandise, 19% input tax;747.2;Bob;Lawn Mower
+f_33;05/04/2023;Deductible input tax, 19%;141.97;Bob;Lawn Mower
+f_33;05/04/2023;Trade payables;-889.17;Bob;Lawn Mower
+g_219;05/04/2023;Trade payables;20.11;Charlie;Shovel
+g_219;05/04/2023;Cash-in-hand;-20.11;Charlie;Shovel
+h_17;05/04/2023;Trade receivables;78.54;David;Garden Hose
+h_17;05/04/2023;Revenue, 19% VAT;-66.0;David;Garden Hose
+h_17;05/04/2023;VAT payable, 19%;-12.54;David;Garden Hose
+h_194;05/04/2023;Bank (Postbank) — main account;509.75;Charlie;Leaf Blower
+h_194;05/04/2023;Trade receivables;-509.75;Charlie;Leaf Blower
+x_90;05/04/2023;Gas, electricity, water;1451.71;Alice;Utilities April
+x_90;05/04/2023;Deductible input tax, 19%;275.82;Alice;Utilities April
+x_90;05/04/2023;Bank (Postbank) — main account;-1727.53;Alice;Utilities April
+a_344;06/04/2023;Cost of merchandise, 19% input tax;118.3;David;Shovel
+a_344;06/04/2023;Deductible input tax, 19%;22.48;David;Shovel
+a_344;06/04/2023;Trade payables;-140.78;David;Shovel
+a_402;06/04/2023;Cost of merchandise, 19% input tax;126.42;Max;Garden Shears
+a_402;06/04/2023;Deductible input tax, 19%;24.02;Max;Garden Shears
+a_402;06/04/2023;Trade payables;-150.44;Max;Garden Shears
+a_734;06/04/2023;Trade payables;190.4;Alice;Garden Hose
+a_734;06/04/2023;Bank (Postbank) — main account;-190.4;Alice;Garden Hose
+a_905;06/04/2023;Trade payables;47.6;Max;Watering Can
+a_905;06/04/2023;Bank (Postbank) — main account;-47.6;Max;Watering Can
+b_123;06/04/2023;Cost of merchandise, 19% input tax;80.3;Max;Wheelbarrow
+b_123;06/04/2023;Deductible input tax, 19%;15.26;Max;Wheelbarrow
+b_123;06/04/2023;Trade payables;-95.56;Max;Wheelbarrow
+b_472;06/04/2023;Trade payables;20.11;David;Shovel
+b_472;06/04/2023;Cash-in-hand;-20.11;David;Shovel
+b_752;06/04/2023;Trade payables;77.23;Alice;Leaf Blower
+b_752;06/04/2023;Cash-in-hand;-77.23;Alice;Leaf Blower
+c_162;06/04/2023;Trade receivables;39.27;Bob;Garden Hose
+c_162;06/04/2023;Revenue, 19% VAT;-33.0;Bob;Garden Hose
+c_162;06/04/2023;VAT payable, 19%;-6.27;Bob;Garden Hose
+c_214;06/04/2023;Trade receivables;39.27;Max;Watering Can
+c_214;06/04/2023;Revenue, 19% VAT;-33.0;Max;Watering Can
+c_214;06/04/2023;VAT payable, 19%;-6.27;Max;Watering Can
+c_366;06/04/2023;Bank (Postbank) — main account;127.44;Bob;Leaf Blower
+c_366;06/04/2023;Trade receivables;-127.44;Bob;Leaf Blower
+c_390;06/04/2023;Bank (Postbank) — main account;33.18;Alice;Shovel
+c_390;06/04/2023;Trade receivables;-33.18;Alice;Shovel
+c_512;06/04/2023;Bank (Postbank) — main account;39.27;Bob;Garden Hose
+c_512;06/04/2023;Trade receivables;-39.27;Bob;Garden Hose
+c_581;06/04/2023;Bank (Postbank) — main account;366.78;Bob;Lawn Mower
+c_581;06/04/2023;Trade receivables;-366.78;Bob;Lawn Mower
+c_638;06/04/2023;Bank (Postbank) — main account;19.64;David;Watering Can
+c_638;06/04/2023;Trade receivables;-19.64;David;Watering Can
+d_234;06/04/2023;Cost of merchandise, 19% input tax;3362.4;Alice;Lawn Mower
+d_234;06/04/2023;Deductible input tax, 19%;638.86;Alice;Lawn Mower
+d_234;06/04/2023;Trade payables;-4001.26;Alice;Lawn Mower
+d_298;06/04/2023;Cost of merchandise, 19% input tax;135.2;Alice;Shovel
+d_298;06/04/2023;Deductible input tax, 19%;25.69;Alice;Shovel
+d_298;06/04/2023;Trade payables;-160.89;Alice;Shovel
+d_468;06/04/2023;Trade payables;23.61;David;Gardening Gloves
+d_468;06/04/2023;Bank (Postbank) — main account;-23.61;David;Gardening Gloves
+d_68;06/04/2023;Cost of merchandise, 19% input tax;19.84;David;Gardening Gloves
+d_68;06/04/2023;Deductible input tax, 19%;3.77;David;Gardening Gloves
+d_68;06/04/2023;Trade payables;-23.61;David;Gardening Gloves
+d_718;06/04/2023;Trade payables;1051.13;Fred;Wheelbarrow
+d_718;06/04/2023;Bank (Postbank) — main account;-1051.13;Fred;Wheelbarrow
+d_768;06/04/2023;Trade payables;59.5;Bob;Watering Can
+d_768;06/04/2023;Bank (Postbank) — main account;-59.5;Bob;Watering Can
+e_225;06/04/2023;Trade receivables;733.56;Alice;Lawn Mower
+e_225;06/04/2023;Revenue, 19% VAT;-616.44;Alice;Lawn Mower
+e_225;06/04/2023;VAT payable, 19%;-117.12;Alice;Lawn Mower
+e_344;06/04/2023;Trade receivables;119.57;Alice;Hedge Trimmer
+e_344;06/04/2023;Revenue, 19% VAT;-100.48;Alice;Hedge Trimmer
+e_344;06/04/2023;VAT payable, 19%;-19.09;Alice;Hedge Trimmer
+e_37;06/04/2023;Trade receivables;157.68;Bob;Rake
+e_37;06/04/2023;Revenue, 19% VAT;-132.5;Bob;Rake
+e_37;06/04/2023;VAT payable, 19%;-25.18;Bob;Rake
+e_379;06/04/2023;Trade receivables;4.88;Bob;Gardening Gloves
+e_379;06/04/2023;Revenue, 19% VAT;-4.1;Bob;Gardening Gloves
+e_379;06/04/2023;VAT payable, 19%;-0.78;Bob;Gardening Gloves
+e_514;06/04/2023;Bank (Postbank) — main account;119.57;Alice;Hedge Trimmer
+e_514;06/04/2023;Trade receivables;-119.57;Alice;Hedge Trimmer
+e_744;06/04/2023;Bank (Postbank) — main account;119.57;Alice;Hedge Trimmer
+e_744;06/04/2023;Trade receivables;-119.57;Alice;Hedge Trimmer
+e_761;06/04/2023;Bank (Postbank) — main account;132.71;Bob;Shovel
+e_761;06/04/2023;Trade receivables;-132.71;Bob;Shovel
+e_789;06/04/2023;Bank (Postbank) — main account;196.35;Fred;Garden Hose
+e_789;06/04/2023;Trade receivables;-196.35;Fred;Garden Hose
+f_267;06/04/2023;Trade payables;190.4;Charlie;Garden Hose
+f_267;06/04/2023;Bank (Postbank) — main account;-190.4;Charlie;Garden Hose
+h_192;06/04/2023;Bank (Postbank) — main account;39.27;Bob;Watering Can
+h_192;06/04/2023;Trade receivables;-39.27;Bob;Watering Can
+a_234;07/04/2023;Cost of merchandise, 19% input tax;160.0;Alice;Garden Hose
+a_234;07/04/2023;Deductible input tax, 19%;30.4;Alice;Garden Hose
+a_234;07/04/2023;Trade payables;-190.4;Alice;Garden Hose
+a_902;07/04/2023;Trade payables;150.44;Max;Garden Shears
+a_902;07/04/2023;Bank (Postbank) — main account;-150.44;Max;Garden Shears
+a_94;07/04/2023;Cost of merchandise, 19% input tax;60.9;Bob;Hedge Trimmer
+a_94;07/04/2023;Deductible input tax, 19%;11.57;Bob;Hedge Trimmer
+a_94;07/04/2023;Trade payables;-72.47;Bob;Hedge Trimmer
+c_122;07/04/2023;Trade receivables;33.18;Bob;Shovel
+c_122;07/04/2023;Revenue, 19% VAT;-27.88;Bob;Shovel
+c_122;07/04/2023;VAT payable, 19%;-5.3;Bob;Shovel
+c_231;07/04/2023;Trade receivables;366.78;Bob;Lawn Mower
+c_231;07/04/2023;Revenue, 19% VAT;-308.22;Bob;Lawn Mower
+c_231;07/04/2023;VAT payable, 19%;-58.56;Bob;Lawn Mower
+c_243;07/04/2023;Trade receivables;12.2;Max;Gardening Gloves
+c_243;07/04/2023;Revenue, 19% VAT;-10.25;Max;Gardening Gloves
+c_243;07/04/2023;VAT payable, 19%;-1.95;Max;Gardening Gloves
+c_5;07/04/2023;Trade receivables;39.27;Max;Garden Hose
+c_5;07/04/2023;Revenue, 19% VAT;-33.0;Max;Garden Hose
+c_5;07/04/2023;VAT payable, 19%;-6.27;Max;Garden Hose
+c_595;07/04/2023;Bank (Postbank) — main account;141.85;Max;Garden Shears
+c_595;07/04/2023;Trade receivables;-141.85;Max;Garden Shears
+c_620;07/04/2023;Bank (Postbank) — main account;157.66;Max;Wheelbarrow
+c_620;07/04/2023;Trade receivables;-157.66;Max;Wheelbarrow
+d_103;07/04/2023;Cost of merchandise, 19% input tax;307.02;Bob;Garden Shears
+d_103;07/04/2023;Deductible input tax, 19%;58.33;Bob;Garden Shears
+d_103;07/04/2023;Trade payables;-365.35;Bob;Garden Shears
+d_148;07/04/2023;Cost of merchandise, 19% input tax;560.4;David;Lawn Mower
+d_148;07/04/2023;Deductible input tax, 19%;106.48;David;Lawn Mower
+d_148;07/04/2023;Trade payables;-666.88;David;Lawn Mower
+d_209;07/04/2023;Cost of merchandise, 19% input tax;128.48;Bob;Rake
+d_209;07/04/2023;Deductible input tax, 19%;24.41;Bob;Rake
+d_209;07/04/2023;Trade payables;-152.89;Bob;Rake
+d_272;07/04/2023;Cost of merchandise, 19% input tax;96.36;David;Rake
+d_272;07/04/2023;Deductible input tax, 19%;18.31;David;Rake
+d_272;07/04/2023;Trade payables;-114.67;David;Rake
+d_307;07/04/2023;Cost of merchandise, 19% input tax;192.72;Bob;Rake
+d_307;07/04/2023;Deductible input tax, 19%;36.62;Bob;Rake
+d_307;07/04/2023;Trade payables;-229.34;Bob;Rake
+d_536;07/04/2023;Trade payables;130.9;Alice;Watering Can
+d_536;07/04/2023;Bank (Postbank) — main account;-130.9;Alice;Watering Can
+d_609;07/04/2023;Trade payables;152.89;Bob;Rake
+d_609;07/04/2023;Bank (Postbank) — main account;-152.89;Bob;Rake
+d_732;07/04/2023;Trade payables;428.4;Alice;Garden Hose
+d_732;07/04/2023;Bank (Postbank) — main account;-428.4;Alice;Garden Hose
+e_361;07/04/2023;Trade receivables;132.71;Bob;Shovel
+e_361;07/04/2023;Revenue, 19% VAT;-111.52;Bob;Shovel
+e_361;07/04/2023;VAT payable, 19%;-21.19;Bob;Shovel
+e_424;07/04/2023;Bank (Postbank) — main account;597.86;Bob;Hedge Trimmer
+e_424;07/04/2023;Trade receivables;-597.86;Bob;Hedge Trimmer
+e_431;07/04/2023;Bank (Postbank) — main account;239.14;Alice;Hedge Trimmer
+e_431;07/04/2023;Trade receivables;-239.14;Alice;Hedge Trimmer
+e_632;07/04/2023;Bank (Postbank) — main account;12.2;Bob;Gardening Gloves
+e_632;07/04/2023;Trade receivables;-12.2;Bob;Gardening Gloves
+e_635;07/04/2023;Bank (Postbank) — main account;472.99;Alice;Wheelbarrow
+e_635;07/04/2023;Trade receivables;-472.99;Alice;Wheelbarrow
+e_779;07/04/2023;Bank (Postbank) — main account;4.88;Bob;Gardening Gloves
+e_779;07/04/2023;Trade receivables;-4.88;Bob;Gardening Gloves
+e_86;07/04/2023;Trade receivables;733.56;Bob;Lawn Mower
+e_86;07/04/2023;Revenue, 19% VAT;-616.44;Bob;Lawn Mower
+e_86;07/04/2023;VAT payable, 19%;-117.12;Bob;Lawn Mower
+f_104;07/04/2023;Cost of merchandise, 19% input tax;100.0;Fred;Watering Can
+f_104;07/04/2023;Deductible input tax, 19%;19.0;Fred;Watering Can
+f_104;07/04/2023;Trade payables;-119.0;Fred;Watering Can
+f_304;07/04/2023;Trade payables;119.0;Fred;Watering Can
+f_304;07/04/2023;Bank (Postbank) — main account;-119.0;Fred;Watering Can
+g_51;07/04/2023;Cost of merchandise, 19% input tax;288.96;David;Garden Shears
+g_51;07/04/2023;Deductible input tax, 19%;54.9;David;Garden Shears
+g_51;07/04/2023;Trade payables;-343.86;David;Garden Shears
+g_54;07/04/2023;Cost of merchandise, 19% input tax;96.36;Charlie;Rake
+g_54;07/04/2023;Deductible input tax, 19%;18.31;Charlie;Rake
+g_54;07/04/2023;Trade payables;-114.67;Charlie;Rake
+g_81;07/04/2023;Cost of merchandise, 19% input tax;11.16;David;Gardening Gloves
+g_81;07/04/2023;Deductible input tax, 19%;2.12;David;Gardening Gloves
+g_81;07/04/2023;Trade payables;-13.28;David;Gardening Gloves
+h_92;07/04/2023;Trade receivables;39.27;Bob;Watering Can
+h_92;07/04/2023;Revenue, 19% VAT;-33.0;Bob;Watering Can
+h_92;07/04/2023;VAT payable, 19%;-6.27;Bob;Watering Can
+x_91;07/04/2023;Cleaning;620.0;Max;Cleaning April
+x_91;07/04/2023;Deductible input tax, 19%;117.8;Max;Cleaning April
+x_91;07/04/2023;Cash-in-hand;-737.8;Max;Cleaning April
+a_159;10/04/2023;Cost of merchandise, 19% input tax;96.36;Bob;Rake
+a_159;10/04/2023;Deductible input tax, 19%;18.31;Bob;Rake
+a_159;10/04/2023;Trade payables;-114.67;Bob;Rake
+a_17;10/04/2023;Cost of merchandise, 19% input tax;1445.4;David;Wheelbarrow
+a_17;10/04/2023;Deductible input tax, 19%;274.63;David;Wheelbarrow
+a_17;10/04/2023;Trade payables;-1720.03;David;Wheelbarrow
+a_170;10/04/2023;Cost of merchandise, 19% input tax;180.6;Alice;Garden Shears
+a_170;10/04/2023;Deductible input tax, 19%;34.31;Alice;Garden Shears
+a_170;10/04/2023;Trade payables;-214.91;Alice;Garden Shears
+a_426;10/04/2023;Cost of merchandise, 19% input tax;1445.4;Alice;Wheelbarrow
+a_426;10/04/2023;Deductible input tax, 19%;274.63;Alice;Wheelbarrow
+a_426;10/04/2023;Trade payables;-1720.03;Alice;Wheelbarrow
+a_721;10/04/2023;Trade payables;80.44;Alice;Shovel
+a_721;10/04/2023;Bank (Postbank) — main account;-80.44;Alice;Shovel
+b_304;10/04/2023;Cost of merchandise, 19% input tax;186.8;Bob;Lawn Mower
+b_304;10/04/2023;Deductible input tax, 19%;35.49;Bob;Lawn Mower
+b_304;10/04/2023;Trade payables;-222.29;Bob;Lawn Mower
+b_410;10/04/2023;Trade payables;20.11;Alice;Shovel
+b_410;10/04/2023;Cash-in-hand;-20.11;Alice;Shovel
+b_637;10/04/2023;Trade payables;72.47;Alice;Hedge Trimmer
+b_637;10/04/2023;Cash-in-hand;-72.47;Alice;Hedge Trimmer
+c_179;10/04/2023;Trade receivables;35.46;Max;Garden Shears
+c_179;10/04/2023;Revenue, 19% VAT;-29.8;Max;Garden Shears
+c_179;10/04/2023;VAT payable, 19%;-5.66;Max;Garden Shears
+c_446;10/04/2023;Bank (Postbank) — main account;2.44;Max;Gardening Gloves
+c_446;10/04/2023;Trade receivables;-2.44;Max;Gardening Gloves
+d_295;10/04/2023;Cost of merchandise, 19% input tax;389.4;Alice;Leaf Blower
+d_295;10/04/2023;Deductible input tax, 19%;73.99;Alice;Leaf Blower
+d_295;10/04/2023;Trade payables;-463.39;Alice;Leaf Blower
+d_469;10/04/2023;Trade payables;150.44;Fred;Garden Shears
+d_469;10/04/2023;Bank (Postbank) — main account;-150.44;Fred;Garden Shears
+d_503;10/04/2023;Trade payables;365.35;Bob;Garden Shears
+d_503;10/04/2023;Bank (Postbank) — main account;-365.35;Bob;Garden Shears
+d_646;10/04/2023;Trade payables;1528.91;Alice;Wheelbarrow
+d_646;10/04/2023;Bank (Postbank) — main account;-1528.91;Alice;Wheelbarrow
+d_69;10/04/2023;Cost of merchandise, 19% input tax;126.42;David;Garden Shears
+d_69;10/04/2023;Deductible input tax, 19%;24.02;David;Garden Shears
+d_69;10/04/2023;Trade payables;-150.44;David;Garden Shears
+e_80;10/04/2023;Trade receivables;165.89;Alice;Shovel
+e_80;10/04/2023;Revenue, 19% VAT;-139.4;Alice;Shovel
+e_80;10/04/2023;VAT payable, 19%;-26.49;Alice;Shovel
+g_3;10/04/2023;Cost of merchandise, 19% input tax;1218.0;Bob;Hedge Trimmer
+g_3;10/04/2023;Deductible input tax, 19%;231.42;Bob;Hedge Trimmer
+g_3;10/04/2023;Trade payables;-1449.42;Bob;Hedge Trimmer
+g_30;10/04/2023;Cost of merchandise, 19% input tax;17.36;Bob;Gardening Gloves
+g_30;10/04/2023;Deductible input tax, 19%;3.3;Bob;Gardening Gloves
+g_30;10/04/2023;Trade payables;-20.66;Bob;Gardening Gloves
+g_74;10/04/2023;Cost of merchandise, 19% input tax;4.96;Bob;Gardening Gloves
+g_74;10/04/2023;Deductible input tax, 19%;0.94;Bob;Gardening Gloves
+g_74;10/04/2023;Trade payables;-5.9;Bob;Gardening Gloves
+x_75;10/04/2023;Salaries;317.08;Alice;Wage tax Max April
+x_75;10/04/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Max April
+x_78;10/04/2023;Salaries;317.08;Alice;Wage tax Alice April
+x_78;10/04/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Alice April
+x_81;10/04/2023;Salaries;317.08;Alice;Wage tax Bob April
+x_81;10/04/2023;Bank (Postbank) — main account;-317.08;Alice;Wage tax Bob April
+x_84;10/04/2023;Salaries;251.0;Alice;Wage tax Charlie April
+x_84;10/04/2023;Bank (Postbank) — main account;-251.0;Alice;Wage tax Charlie April
+x_87;10/04/2023;Salaries;251.0;Alice;Wage tax David April
+x_87;10/04/2023;Bank (Postbank) — main account;-251.0;Alice;Wage tax David April
+a_517;11/04/2023;Trade payables;1720.03;David;Wheelbarrow
+a_517;11/04/2023;Bank (Postbank) — main account;-1720.03;David;Wheelbarrow
+a_659;11/04/2023;Trade payables;114.67;Bob;Rake
+a_659;11/04/2023;Bank — secondary account;-114.67;Bob;Rake
+a_752;11/04/2023;Trade payables;363.12;David;Rake
+a_752;11/04/2023;Bank (Postbank) — main account;-363.12;David;Rake
+a_754;11/04/2023;Trade payables;324.89;Max;Rake
+a_754;11/04/2023;Bank (Postbank) — main account;-324.89;Max;Rake
+a_812;11/04/2023;Trade payables;14.76;David;Gardening Gloves
+a_812;11/04/2023;Bank (Postbank) — main account;-14.76;David;Gardening Gloves
+b_524;11/04/2023;Trade payables;23.8;Bob;Garden Hose
+b_524;11/04/2023;Cash-in-hand;-23.8;Bob;Garden Hose
+c_347;11/04/2023;Trade receivables;117.81;David;Garden Hose
+c_347;11/04/2023;Revenue, 19% VAT;-99.0;David;Garden Hose
+c_347;11/04/2023;VAT payable, 19%;-18.81;David;Garden Hose
+c_53;11/04/2023;Trade receivables;119.57;Bob;Hedge Trimmer
+c_53;11/04/2023;Revenue, 19% VAT;-100.48;Bob;Hedge Trimmer
+c_53;11/04/2023;VAT payable, 19%;-19.09;Bob;Hedge Trimmer
+c_564;11/04/2023;Bank (Postbank) — main account;39.27;Max;Watering Can
+c_564;11/04/2023;Trade receivables;-39.27;Max;Watering Can

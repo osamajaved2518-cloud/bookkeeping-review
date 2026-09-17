@@ -1,0 +1,23 @@
+AccountNo,AccountName,AccountClass,AccountGroup,NormalBalance
+1000,Cash-in-hand,Asset,Cash & bank,Debit
+1100,Bank (Postbank) — main account,Asset,Cash & bank,Debit
+1200,Bank — secondary account,Asset,Cash & bank,Debit
+1400,Trade receivables,Asset,Receivables,Debit
+1576,"Deductible input tax, 19%",Asset,VAT,Debit
+1600,Trade payables,Liability,Payables,Credit
+1776,"VAT payable, 19%",Liability,VAT,Credit
+3400,"Cost of merchandise, 19% input tax",Expense,Cost of goods,Debit
+4100,Wages and salaries,Expense,Personnel,Debit
+4120,Salaries,Expense,Personnel,Debit
+4130,Statutory social security expenses,Expense,Personnel,Debit
+4210,Rent — immovable property,Expense,Occupancy,Debit
+4240,"Gas, electricity, water",Expense,Occupancy,Debit
+4250,Cleaning,Expense,Occupancy,Debit
+4260,Maintenance of operating premises,Expense,Occupancy,Debit
+4360,Insurance premiums,Expense,Other operating,Debit
+4580,Other vehicle costs,Expense,Other operating,Debit
+4600,Advertising expenses,Expense,Marketing,Debit
+4710,Packaging materials,Expense,Other operating,Debit
+4930,Office supplies,Expense,Other operating,Debit
+4950,Legal and consulting expenses,Expense,Professional fees,Debit
+8400,"Revenue, 19% VAT",Revenue,Revenue,Credit
