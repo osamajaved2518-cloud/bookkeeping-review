@@ -1,0 +1,85 @@
+Month,Facility,Scope,Category,Activity,Consumption,Unit
+2025-01-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-01-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-01-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-01-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-01-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-01-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-01-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-02-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-02-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-02-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-02-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-02-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-02-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-02-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-03-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-03-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-03-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-03-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-03-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-03-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-03-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-04-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-04-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-04-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-04-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-04-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-04-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-04-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-05-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-05-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-05-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-05-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-05-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-05-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-05-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-06-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-06-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-06-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-06-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-06-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-06-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-06-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-07-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-07-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-07-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-07-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-07-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-07-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-07-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-08-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-08-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-08-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-08-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-08-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-08-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-08-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-09-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-09-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-09-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-09-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-09-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-09-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-09-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-10-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-10-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-10-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-10-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-10-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-10-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-10-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-11-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-11-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-11-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-11-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-11-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-11-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-11-01,Main plant,Scope 1,,Refrigerant leakage,5,kg
+2025-12-01,Main plant,Scope 1,,Natural gas (stationary),120000,kWh
+2025-12-01,Main plant,Scope 1,,Diesel (mobile & stationary),4000,litre
+2025-12-01,Main plant,Scope 2,,Purchased electricity,450000,kWh
+2025-12-01,Head office,Scope 3,3.6,Air travel short-haul economy,30000,passenger-km
+2025-12-01,Main plant,Scope 3,3.5,Waste to landfill (mixed),12,tonne
+2025-12-01,Main plant,Scope 3,3.1,Steel and iron castings (spend),400000,USD
+2025-12-01,Main plant,Scope 1,,Refrigerant leakage,5,kg

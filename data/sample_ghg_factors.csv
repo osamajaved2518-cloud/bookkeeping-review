@@ -1,0 +1,51 @@
+FactorID,Scope,CategoryID,ActivityType,Region,Factor,FactorUnit,Source,Method
+EF_NG,Scope 1,1,Natural gas (stationary),Global,0.183,kgCO2e/kWh,UK Government GHG Conversion Factors 2024 (approx.),Fuel-based
+EF_DSL,Scope 1,1,Diesel (mobile & stationary),Global,2.51,kgCO2e/litre,UK Government GHG Conversion Factors 2024 (approx.),Fuel-based
+EF_PET,Scope 1,1,Petrol (company cars),Global,2.08,kgCO2e/litre,UK Government GHG Conversion Factors 2024 (approx.),Fuel-based
+EF_LPG,Scope 1,1,LPG (forklifts & burners),Global,1.56,kgCO2e/litre,UK Government GHG Conversion Factors 2024 (approx.),Fuel-based
+EF_R410A,Scope 1,1,Refrigerant R-410A leakage,Global,2088.0,kgCO2e/kg,"IPCC AR4 GWP100 (AR5: 1,924; AR6: 2,256) — choose per reporting basis",Mass-balance
+EF_EL_TH,Scope 2,2,Purchased electricity,TH,0.5,kgCO2e/kWh,"Thailand national grid factor (TGO, approx.)",Location-based
+EF_EL_VN,Scope 2,2,Purchased electricity,VN,0.68,kgCO2e/kWh,"Vietnam national grid factor (MONRE, approx.)",Location-based
+EF_EL_DE,Scope 2,2,Purchased electricity,DE,0.38,kgCO2e/kWh,"Germany grid factor (UBA, approx.)",Location-based
+EF_EL_US,Scope 2,2,Purchased electricity,US,0.37,kgCO2e/kWh,"US national average (EPA eGRID, approx.)",Location-based
+EF_EL_MKT_ZERO,Scope 2,2,Contractual instrument (PPA / GO-backed tariff),Global,0.0,kgCO2e/kWh,"Market-based: zero for covered volume, residual mix or grid factor otherwise",Market-based
+EF_SP_STEEL,Scope 3,3.1,Steel and iron castings (spend),Global,0.85,kgCO2e/USD,"EPA USEEIO v2 supply-chain factors (approx., 2022 USD)",Spend-based
+EF_SP_STEEL_SUP,Scope 3,3.1,Steel and iron castings (supplier PCF),Global,0.62,kgCO2e/USD,"Supplier-specific product carbon footprint (2025 onwards, main casting supplier)",Supplier-specific
+EF_SP_MOTOR,Scope 3,3.1,Electric motors and copper windings (spend),Global,0.6,kgCO2e/USD,EPA USEEIO v2 (approx.),Spend-based
+EF_SP_PLAST,Scope 3,3.1,Plastic components (spend),Global,0.55,kgCO2e/USD,EPA USEEIO v2 (approx.),Spend-based
+EF_SP_ELEC,Scope 3,3.1,Electronics and controllers (spend),Global,0.25,kgCO2e/USD,EPA USEEIO v2 (approx.),Spend-based
+EF_SP_PACK,Scope 3,3.1,Packaging (spend),Global,0.45,kgCO2e/USD,EPA USEEIO v2 (approx.),Spend-based
+EF_SP_CHEM,Scope 3,3.1,"Paints, coatings and chemicals (spend)",Global,0.7,kgCO2e/USD,EPA USEEIO v2 (approx.),Spend-based
+EF_SP_SERV,Scope 3,3.1,"Professional, IT and maintenance services (spend)",Global,0.1,kgCO2e/USD,EPA USEEIO v2 (approx.),Spend-based
+EF_SP_CAPEX,Scope 3,3.2,Machinery and equipment (spend),Global,0.35,kgCO2e/USD,EPA USEEIO v2 (approx.),Spend-based
+EF_WTT_NG,Scope 3,3.3,Natural gas well-to-tank,Global,0.028,kgCO2e/kWh,UK Government WTT factors 2024 (approx.),Fuel-based
+EF_WTT_DSL,Scope 3,3.3,Diesel well-to-tank,Global,0.61,kgCO2e/litre,UK Government WTT factors 2024 (approx.),Fuel-based
+EF_WTT_PET,Scope 3,3.3,Petrol well-to-tank,Global,0.6,kgCO2e/litre,UK Government WTT factors 2024 (approx.),Fuel-based
+EF_WTT_LPG,Scope 3,3.3,LPG well-to-tank,Global,0.18,kgCO2e/litre,UK Government WTT factors 2024 (approx.),Fuel-based
+EF_WTT_EL,Scope 3,3.3,Electricity well-to-tank (fuel supply),Global,0.06,kgCO2e/kWh,Approximate upstream factor for generation fuels,Average-data
+EF_TD_TH,Scope 3,3.3,Electricity T&D losses,TH,0.03,kgCO2e/kWh,Grid factor x ~6% loss rate (approx.),Average-data
+EF_TD_VN,Scope 3,3.3,Electricity T&D losses,VN,0.048,kgCO2e/kWh,Grid factor x ~7% loss rate (approx.),Average-data
+EF_TD_DE,Scope 3,3.3,Electricity T&D losses,DE,0.019,kgCO2e/kWh,Grid factor x ~5% loss rate (approx.),Average-data
+EF_TD_US,Scope 3,3.3,Electricity T&D losses,US,0.019,kgCO2e/kWh,Grid factor x ~5% loss rate (approx.),Average-data
+EF_FR_SEA,Scope 3,3.4,Sea freight (container),Global,0.016,kgCO2e/tonne-km,UK Government freight factors 2024 (approx.),Distance-based
+EF_FR_ROAD,Scope 3,3.4,Road freight (HGV average),Global,0.105,kgCO2e/tonne-km,UK Government freight factors 2024 (approx.),Distance-based
+EF_FR_AIR,Scope 3,3.4,Air freight,Global,1.1,kgCO2e/tonne-km,UK Government freight factors 2024 (approx.),Distance-based
+EF_W_LAND,Scope 3,3.5,Waste to landfill (mixed),Global,450.0,kgCO2e/tonne,UK Government waste factors 2024 (approx.),Waste-type-specific
+EF_W_RECY,Scope 3,3.5,"Waste recycled (metal, cardboard, plastic)",Global,21.0,kgCO2e/tonne,UK Government waste factors 2024 (approx.),Waste-type-specific
+EF_W_INC,Scope 3,3.5,Waste incinerated with energy recovery,Global,21.0,kgCO2e/tonne,UK Government waste factors 2024 (approx.),Waste-type-specific
+EF_BT_LH_E,Scope 3,3.6,Air travel long-haul economy,Global,0.15,kgCO2e/passenger-km,"UK Government business travel factors 2024 (approx., excl. radiative forcing)",Distance-based
+EF_BT_LH_B,Scope 3,3.6,Air travel long-haul business,Global,0.43,kgCO2e/passenger-km,UK Government business travel factors 2024 (approx.),Distance-based
+EF_BT_SH,Scope 3,3.6,Air travel short-haul economy,Global,0.155,kgCO2e/passenger-km,UK Government business travel factors 2024 (approx.),Distance-based
+EF_BT_RAIL,Scope 3,3.6,Rail travel,Global,0.035,kgCO2e/passenger-km,UK Government business travel factors 2024 (approx.),Distance-based
+EF_BT_HOTEL,Scope 3,3.6,Hotel night,Global,25.0,kgCO2e/night,"UK Government hotel stay factors 2024 (approx., country average)",Average-data
+EF_CM_CAR,Scope 3,3.7,Commuting by car,Global,0.17,kgCO2e/passenger-km,UK Government passenger vehicle factors 2024 (approx.),Average-data
+EF_CM_MOTO,Scope 3,3.7,Commuting by motorcycle,Global,0.11,kgCO2e/passenger-km,UK Government passenger vehicle factors 2024 (approx.),Average-data
+EF_CM_BUS,Scope 3,3.7,Commuting by bus,Global,0.1,kgCO2e/passenger-km,UK Government passenger vehicle factors 2024 (approx.),Average-data
+EF_CM_RAIL,Scope 3,3.7,Commuting by rail / metro,Global,0.035,kgCO2e/passenger-km,UK Government passenger vehicle factors 2024 (approx.),Average-data
+EF_DS_ROAD,Scope 3,3.9,Outbound road freight,Global,0.105,kgCO2e/tonne-km,UK Government freight factors 2024 (approx.),Distance-based
+EF_DS_SEA,Scope 3,3.9,Outbound sea freight,Global,0.016,kgCO2e/tonne-km,UK Government freight factors 2024 (approx.),Distance-based
+EF_USE_TH,Scope 3,3.11,"Use-phase electricity, Thailand & SE Asia market",TH,0.5,kgCO2e/kWh,Grid factor of sales market (approx.),Average-data
+EF_USE_EU,Scope 3,3.11,"Use-phase electricity, Europe market",EU,0.28,kgCO2e/kWh,EU average grid factor (approx.),Average-data
+EF_USE_US,Scope 3,3.11,"Use-phase electricity, North America market",US,0.37,kgCO2e/kWh,US national average (approx.),Average-data
+EF_USE_ROW,Scope 3,3.11,"Use-phase electricity, rest of world",ROW,0.55,kgCO2e/kWh,Weighted average of other markets (approx.),Average-data
+EF_EOL_MIX,Scope 3,3.12,End-of-life of sold pumps (mixed treatment),Global,60.0,kgCO2e/tonne,"Weighted: 70% metal recycling, 30% landfill (approx.)",Average-data

@@ -1,0 +1,6 @@
+SiteID,SiteName,Country,SiteType,Employees,FloorAreaM2,GridRegion,GridFactorLocation,MarketInstrument
+RAY,Rayong Plant,Thailand,Manufacturing,640,38000,TH,0.5,Solar PPA covering ~35% of consumption from Jul 2024
+HPH,Haiphong Plant,Vietnam,Manufacturing,380,22000,VN,0.68,
+BKK,Bangkok Head Office,Thailand,Office,95,3200,TH,0.5,
+FRA,Frankfurt Sales Office,Germany,Office,28,900,DE,0.38,Certified renewable tariff (GO-backed) from Jan 2024
+CHI,Chicago Distribution Center,United States,Warehouse,57,12500,US,0.37,

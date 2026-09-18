@@ -1,0 +1,18 @@
+CategoryID,Scope,CategoryName,MethodOrReason,Status
+1,Scope 1,Direct emissions,"Stationary combustion, mobile combustion (owned fleet), fugitive refrigerants",Included
+2,Scope 2,"Purchased electricity, heat and steam",Location-based and market-based reported,Included
+3.1,Scope 3,Purchased goods and services,Spend-based (EEIO factors) with supplier-specific factors where available,Included
+3.2,Scope 3,Capital goods,Spend-based,Included
+3.3,Scope 3,Fuel- and energy-related activities,"Well-to-tank of fuels and electricity, transmission & distribution losses",Included
+3.4,Scope 3,Upstream transportation and distribution,Distance-based (tonne-km by mode),Included
+3.5,Scope 3,Waste generated in operations,Waste-type-specific (tonnes by treatment route),Included
+3.6,Scope 3,Business travel,"Distance-based (air by haul and class, rail) plus hotel nights",Included
+3.7,Scope 3,Employee commuting,Average-data (survey modal split x distance x working days),Included
+3.8,Scope 3,Upstream leased assets,No upstream leased assets; leased offices reported under Scope 1 and 2,Not applicable
+3.9,Scope 3,Downstream transportation and distribution,Distance-based (tonne-km by mode),Included
+3.10,Scope 3,Processing of sold products,Products are final goods; no downstream processing,Not applicable
+3.11,Scope 3,Use of sold products,Direct use-phase electricity of sold pumps (lifetime energy x grid factor of sales market),Included
+3.12,Scope 3,End-of-life treatment of sold products,Average-data (unit mass x treatment route),Included
+3.13,Scope 3,Downstream leased assets,No assets leased to others,Not applicable
+3.14,Scope 3,Franchises,No franchises,Not applicable
+3.15,Scope 3,Investments,No equity investments or financed emissions,Not applicable
