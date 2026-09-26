@@ -15,6 +15,10 @@ import streamlit as st
 
 st.set_page_config(page_title="GHG Inventory — Scope 1, 2, 3", page_icon="🌍", layout="wide")
 
+from ghg_theme import apply_theme, hero, sidebar_brand, findings_cards, footer
+
+apply_theme()
+
 DATA = Path(__file__).parent / "data"
 SCOPE_COLORS = {"Scope 1": "#1E5631", "Scope 2": "#2A9D8F", "Scope 3": "#A8C686"}
 ACCENT = "#C9A227"; WARN = "#C0504D"; GREY = "#8A8F98"; INK = "#1B1F2A"
@@ -177,7 +181,7 @@ def fmt(x, d=0):
 
 
 # --------------------------------------------------------------------------------------- sidebar
-st.sidebar.title("GHG inventory dashboard")
+sidebar_brand()
 up = st.sidebar.file_uploader("Upload an inventory or activity file", type=["xlsx", "xlsm", "xls", "csv"],
                               help="The GHG_Inventory_Scope123 workbook, a CSV in its FactEmissions layout, or a plain activity file (date, site, scope, category, activity type, quantity, unit). Files stay in this session and are never stored.")
 st.sidebar.caption("No file yet? The dashboard runs on a public sample: Siam Precision Pumps, a fictional manufacturer, 2023–2025.")
@@ -307,8 +311,10 @@ st.sidebar.download_button("Download summary (Excel)", summary_xlsx(), "ghg_inve
 
 # --------------------------------------------------------------------------------------- pages
 if page == "Overview":
-    st.title(f"GHG inventory {year_focus}")
-    st.caption(f"{basis} Scope 2 · {'including' if include_use else 'excluding'} use of sold products · {len(sel_sites)} site(s)")
+    hero(f"GHG Inventory {year_focus}",
+         "Scope 1, 2 and 3 emissions, hotspots, data quality and progress to 2030 targets, built to the GHG Protocol Corporate Standard.",
+         [f"{basis} Scope 2", "Including use of sold products" if include_use else "Excluding use of sold products",
+          f"{len(sel_sites)} site(s)", source.split(" (")[0]])
     prev = lambda s: (by_scope_year.loc[year_focus, s] - by_scope_year.loc[year_focus - 1, s]) if year_focus - 1 in by_scope_year.index else None
     dl = lambda v: None if v is None else f"{v:+,.0f} vs {year_focus - 1}"
     kpis([("Total tCO2e", fmt(tot_year[year_focus]), dl(tot_year[year_focus] - tot_year[year_focus - 1]) if year_focus - 1 in tot_year.index else None, "All scopes, selected sites"),
@@ -341,9 +347,7 @@ if page == "Overview":
         c3.plotly_chart(gauge(actual12.get(year_focus, 0), path.set_index("Year").loc[year_focus, "Scope12_Target"], f"Scope 1+2 vs target path {year_focus} (tCO2e)"), width="stretch")
         c4.plotly_chart(gauge(actual3.get(year_focus, 0), path.set_index("Year").loc[year_focus, "Scope3_Target"], f"Scope 3 vs target path {year_focus} (tCO2e)"), width="stretch")
         st.caption("Gauges: needle at the gold line means on the linear pathway to the 2030 target; green band is ahead, red band behind.")
-    st.markdown("#### Key findings")
-    for i, t in enumerate(findings(), 1):
-        st.write(f"{i}. {t}")
+    findings_cards(findings())
 
 elif page == "Scope 1 & 2 by site":
     st.title("Scope 1 & 2 by site")
@@ -487,3 +491,5 @@ elif page == "Factors & assumptions":
     st.markdown("#### Boundary and methods")
     st.write("Consolidation: operational control. Scope 2 reported location- and market-based. Scope 3.3 derived from Scope 1 and 2 activity (well-to-tank and T&D losses). "
              "Use of sold products (3.11) = units sold × lifetime energy × grid factor of the sales market. GWP100 per IPCC AR4 for refrigerants; switch in the factor table if AR5/AR6 is required.")
+
+footer()
