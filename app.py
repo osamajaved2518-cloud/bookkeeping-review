@@ -18,6 +18,10 @@ import streamlit as st
 # --------------------------------------------------------------------------------------- setup
 st.set_page_config(page_title="Bookkeeping Operations Review", page_icon="📒", layout="wide")
 
+from theme import apply_theme, hero, sidebar_brand, findings_cards, footer
+
+apply_theme()
+
 PALETTE = ["#1F3864", "#2E75B6", "#9DC3E6", "#7F7F7F", "#C9A227", "#C0504D", "#70AD47", "#BF9000"]
 FLAG_COLOR = "#C0504D"
 px.defaults.color_discrete_sequence = PALETTE
@@ -444,7 +448,7 @@ def analyse(lines: pd.DataFrame, acc_provided: pd.DataFrame | None, cfg: dict, o
 
 
 # --------------------------------------------------------------------------------------- sidebar: data in
-st.sidebar.title("Bookkeeping operations review")
+sidebar_brand()
 uploaded = st.sidebar.file_uploader("Upload a journal export", type=["xlsx", "xlsm", "xls", "csv"],
                                     help="QuickBooks Online Journal report, the GL_Bookkeeping_Operations workbook, or any CSV/Excel with one row per journal line. Files stay in this session and are never stored.")
 st.sidebar.caption("Nothing uploaded yet? The dashboard below runs on a public sample: a synthetic two-year journal of a garden-tools retailer.")
@@ -558,8 +562,9 @@ if len(post) == 0:
 
 # --------------------------------------------------------------------------------------- pages
 if page == "Overview":
-    st.title("Overview")
-    st.caption(f"{len(post):,} entries from {post.PostingDate.min():%d %b %Y} to {post.PostingDate.max():%d %b %Y}")
+    hero("Bookkeeping Operations Review",
+         "Journal-entry tests, posting timeliness, AR/AP settlement and data-quality checks on a full general ledger.",
+         [f"{len(post):,} entries", f"{post.PostingDate.min():%d %b %Y} – {post.PostingDate.max():%d %b %Y}", "QuickBooks Online journal export", "Audit-style tests"])
     unbalanced = int((~post.IsBalanced).sum())
     kpi_row([
         ("Entries", f"{len(post):,}", "Journal entries (postings) in the selected period"),
@@ -573,9 +578,7 @@ if page == "Overview":
         ("Entries flagged", pct(flags.PostingID.nunique() / len(post)), "By the journal-entry tests"),
         ("Open AR/AP", money(sett[~sett.IsSettled].PostingAmount.sum()) if sett is not None else "n/a", "Invoices without a matched payment at period end"),
     ])
-    st.markdown("#### Key findings")
-    for i, t in enumerate(findings_text(post, flags, sett, cfg), 1):
-        st.write(f"{i}. {t}")
+    findings_cards(findings_text(post, flags, sett, cfg))
     c1, c2 = st.columns([3, 2])
     m = post.groupby("YearMonth").agg(Entries=("PostingID", "size")).reset_index()
     fl = flags.drop_duplicates("PostingID").assign(YearMonth=lambda d: d.PostingDate.dt.to_period("M").astype(str)).groupby("YearMonth").size().reindex(m.YearMonth).fillna(0).values
@@ -744,3 +747,5 @@ elif page == "Data quality":
     if changed and st.button("Apply account changes"):
         st.session_state.acc_overrides.update(changed)
         st.rerun()
+
+footer()
